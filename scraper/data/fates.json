@@ -1,0 +1,1795 @@
+[
+  {
+    "name": "Avatar",
+    "game": "Fates",
+    "starting_class": "Nohr Prince(ss)",
+    "weapon_types": [
+      "Sword",
+      "Dragonstone"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 45.0,
+      "Mag": 30.0,
+      "Skl": 40.0,
+      "Spd": 45.0,
+      "Luck": 45.0,
+      "Def": 35.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Felicia",
+    "game": "Fates",
+    "starting_class": "Maid",
+    "weapon_types": [
+      "Dagger"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 10.0,
+      "Mag": 35.0,
+      "Skl": 30.0,
+      "Spd": 40.0,
+      "Luck": 55.0,
+      "Def": 15.0,
+      "Res": 35.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Def"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Jakob",
+    "game": "Fates",
+    "starting_class": "Butler",
+    "weapon_types": [
+      "Dagger"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 30.0,
+      "Mag": 15.0,
+      "Skl": 40.0,
+      "Spd": 35.0,
+      "Luck": 45.0,
+      "Def": 25.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Kaze",
+    "game": "Fates",
+    "starting_class": "Ninja",
+    "weapon_types": [
+      "Dagger"
+    ],
+    "growths": {
+      "HP": 55.0,
+      "Str": 40.0,
+      "Mag": 0.0,
+      "Skl": 45.0,
+      "Spd": 65.0,
+      "Luck": 20.0,
+      "Def": 20.0,
+      "Res": 35.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Luck",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Spd"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Azura",
+    "game": "Fates",
+    "starting_class": "Songstress",
+    "weapon_types": [],
+    "growths": {
+      "HP": 25.0,
+      "Str": 50.0,
+      "Mag": 25.0,
+      "Skl": 60.0,
+      "Spd": 60.0,
+      "Luck": 40.0,
+      "Def": 15.0,
+      "Res": 35.0
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Skl",
+      "Spd"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Silas",
+    "game": "Fates",
+    "starting_class": "Cavalier",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 45.0,
+      "Mag": 5.0,
+      "Skl": 50.0,
+      "Spd": 40.0,
+      "Luck": 40.0,
+      "Def": 40.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Shura",
+    "game": "Fates",
+    "starting_class": "Adventurer",
+    "weapon_types": [
+      "Bow",
+      "Staff"
+    ],
+    "growths": {
+      "HP": 30.0,
+      "Str": 25.0,
+      "Mag": 10.0,
+      "Skl": 20.0,
+      "Spd": 35.0,
+      "Luck": 30.0,
+      "Def": 15.0,
+      "Res": 35.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Skl",
+      "Def"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Izana",
+    "game": "Fates",
+    "starting_class": "Onmyoji",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 15.0,
+      "Mag": 35.0,
+      "Skl": 55.0,
+      "Spd": 30.0,
+      "Luck": 45.0,
+      "Def": 35.0,
+      "Res": 35.0
+    },
+    "low_growth_stats": [
+      "Str"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Mozu",
+    "game": "Fates",
+    "starting_class": "Villager",
+    "weapon_types": [],
+    "growths": {
+      "HP": 30.0,
+      "Str": 40.0,
+      "Mag": 5.0,
+      "Skl": 50.0,
+      "Spd": 55.0,
+      "Luck": 45.0,
+      "Def": 35.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Rinkah",
+    "game": "Fates",
+    "starting_class": "Oni Savage",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 20.0,
+      "Str": 25.0,
+      "Mag": 15.0,
+      "Skl": 50.0,
+      "Spd": 45.0,
+      "Luck": 35.0,
+      "Def": 45.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "HP",
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Sakura",
+    "game": "Fates",
+    "starting_class": "Shrine Maiden",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 30.0,
+      "Mag": 50.0,
+      "Skl": 40.0,
+      "Spd": 40.0,
+      "Luck": 55.0,
+      "Def": 30.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Hana",
+    "game": "Fates",
+    "starting_class": "Samurai",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 25.0,
+      "Str": 55.0,
+      "Mag": 10.0,
+      "Skl": 45.0,
+      "Spd": 55.0,
+      "Luck": 25.0,
+      "Def": 20.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Subaki",
+    "game": "Fates",
+    "starting_class": "Sky Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 55.0,
+      "Str": 30.0,
+      "Mag": 20.0,
+      "Skl": 50.0,
+      "Spd": 20.0,
+      "Luck": 25.0,
+      "Def": 45.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Spd",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Saizo",
+    "game": "Fates",
+    "starting_class": "Ninja",
+    "weapon_types": [
+      "Dagger"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 50.0,
+      "Mag": 45.0,
+      "Skl": 60.0,
+      "Spd": 30.0,
+      "Luck": 55.0,
+      "Def": 45.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Skl"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Orochi",
+    "game": "Fates",
+    "starting_class": "Diviner",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 35.0,
+      "Str": 5.0,
+      "Mag": 65.0,
+      "Skl": 50.0,
+      "Spd": 15.0,
+      "Luck": 35.0,
+      "Def": 25.0,
+      "Res": 45.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Spd"
+    ],
+    "high_growth_stats": [
+      "Mag"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Hinoka",
+    "game": "Fates",
+    "starting_class": "Sky Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 45.0,
+      "Mag": 15.0,
+      "Skl": 40.0,
+      "Spd": 45.0,
+      "Luck": 40.0,
+      "Def": 35.0,
+      "Res": 40.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Azama",
+    "game": "Fates",
+    "starting_class": "Monk",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 55.0,
+      "Str": 50.0,
+      "Mag": 20.0,
+      "Skl": 40.0,
+      "Spd": 45.0,
+      "Luck": 40.0,
+      "Def": 40.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Setsuna",
+    "game": "Fates",
+    "starting_class": "Archer",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 30.0,
+      "Str": 20.0,
+      "Mag": 0.0,
+      "Skl": 30.0,
+      "Spd": 60.0,
+      "Luck": 30.0,
+      "Def": 15.0,
+      "Res": 40.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Mag",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Spd"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Hayato",
+    "game": "Fates",
+    "starting_class": "Diviner",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 30.0,
+      "Mag": 40.0,
+      "Skl": 30.0,
+      "Spd": 45.0,
+      "Luck": 60.0,
+      "Def": 40.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Oboro",
+    "game": "Fates",
+    "starting_class": "Spear Fighter",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 30.0,
+      "Str": 40.0,
+      "Mag": 20.0,
+      "Skl": 40.0,
+      "Spd": 40.0,
+      "Luck": 40.0,
+      "Def": 40.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Hinata",
+    "game": "Fates",
+    "starting_class": "Samurai",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 55.0,
+      "Str": 35.0,
+      "Mag": 0.0,
+      "Skl": 25.0,
+      "Spd": 15.0,
+      "Luck": 45.0,
+      "Def": 45.0,
+      "Res": 15.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Spd",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Takumi",
+    "game": "Fates",
+    "starting_class": "Archer",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 35.0,
+      "Mag": 0.0,
+      "Skl": 60.0,
+      "Spd": 40.0,
+      "Luck": 45.0,
+      "Def": 35.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Skl"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Kagero",
+    "game": "Fates",
+    "starting_class": "Ninja",
+    "weapon_types": [
+      "Dagger"
+    ],
+    "growths": {
+      "HP": 30.0,
+      "Str": 65.0,
+      "Mag": 0.0,
+      "Skl": 20.0,
+      "Spd": 50.0,
+      "Luck": 30.0,
+      "Def": 25.0,
+      "Res": 40.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Skl"
+    ],
+    "high_growth_stats": [
+      "Str"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Reina",
+    "game": "Fates",
+    "starting_class": "Kinshi Knight",
+    "weapon_types": [
+      "Bow",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 45.0,
+      "Mag": 5.0,
+      "Skl": 20.0,
+      "Spd": 45.0,
+      "Luck": 10.0,
+      "Def": 20.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Skl",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Kaden",
+    "game": "Fates",
+    "starting_class": "Kitsune",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 40.0,
+      "Mag": 10.0,
+      "Skl": 25.0,
+      "Spd": 45.0,
+      "Luck": 50.0,
+      "Def": 35.0,
+      "Res": 40.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Ryoma",
+    "game": "Fates",
+    "starting_class": "Swordmaster",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 45.0,
+      "Mag": 0.0,
+      "Skl": 50.0,
+      "Spd": 45.0,
+      "Luck": 40.0,
+      "Def": 35.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Scarlet",
+    "game": "Fates",
+    "starting_class": "Wyvern Lord",
+    "weapon_types": [
+      "Lance",
+      "Axe"
+    ],
+    "growths": {
+      "HP": 30.0,
+      "Str": 45.0,
+      "Mag": 20.0,
+      "Skl": 40.0,
+      "Spd": 50.0,
+      "Luck": 40.0,
+      "Def": 25.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Yukimura",
+    "game": "Fates",
+    "starting_class": "Mechanist",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 25.0,
+      "Str": 25.0,
+      "Mag": 5.0,
+      "Skl": 40.0,
+      "Spd": 15.0,
+      "Luck": 30.0,
+      "Def": 25.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Spd"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Kana",
+    "game": "Fates",
+    "starting_class": "Nohr Prince(ss)",
+    "weapon_types": [
+      "Sword",
+      "Dragonstone"
+    ],
+    "growths": {
+      "HP": 30.0,
+      "Str": 35.0,
+      "Mag": 30.0,
+      "Skl": 40.0,
+      "Spd": 45.0,
+      "Luck": 45.0,
+      "Def": 25.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Shigure",
+    "game": "Fates",
+    "starting_class": "Sky Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 35.0,
+      "Str": 45.0,
+      "Mag": 5.0,
+      "Skl": 45.0,
+      "Spd": 35.0,
+      "Luck": 25.0,
+      "Def": 35.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Dwyer",
+    "game": "Fates",
+    "starting_class": "Troubadour",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 45.0,
+      "Mag": 30.0,
+      "Skl": 20.0,
+      "Spd": 30.0,
+      "Luck": 30.0,
+      "Def": 30.0,
+      "Res": 35.0
+    },
+    "low_growth_stats": [
+      "Skl"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Sophie",
+    "game": "Fates",
+    "starting_class": "Cavalier",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 35.0,
+      "Str": 35.0,
+      "Mag": 10.0,
+      "Skl": 55.0,
+      "Spd": 50.0,
+      "Luck": 35.0,
+      "Def": 25.0,
+      "Res": 35.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Midori",
+    "game": "Fates",
+    "starting_class": "Apothecary",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 35.0,
+      "Mag": 5.0,
+      "Skl": 55.0,
+      "Spd": 35.0,
+      "Luck": 50.0,
+      "Def": 30.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Shiro",
+    "game": "Fates",
+    "starting_class": "Spear Fighter",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 50.0,
+      "Mag": 0.0,
+      "Skl": 40.0,
+      "Spd": 35.0,
+      "Luck": 35.0,
+      "Def": 45.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Kiragi",
+    "game": "Fates",
+    "starting_class": "Archer",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 40.0,
+      "Mag": 0.0,
+      "Skl": 45.0,
+      "Spd": 50.0,
+      "Luck": 45.0,
+      "Def": 40.0,
+      "Res": 15.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Asugi",
+    "game": "Fates",
+    "starting_class": "Ninja",
+    "weapon_types": [
+      "Dagger"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 45.0,
+      "Mag": 50.0,
+      "Skl": 55.0,
+      "Spd": 45.0,
+      "Luck": 50.0,
+      "Def": 30.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Selkie",
+    "game": "Fates",
+    "starting_class": "Kitsune",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 35.0,
+      "Str": 30.0,
+      "Mag": 15.0,
+      "Skl": 35.0,
+      "Spd": 55.0,
+      "Luck": 60.0,
+      "Def": 30.0,
+      "Res": 50.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Hisame",
+    "game": "Fates",
+    "starting_class": "Samurai",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 40.0,
+      "Mag": 0.0,
+      "Skl": 40.0,
+      "Spd": 40.0,
+      "Luck": 25.0,
+      "Def": 30.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Mitama",
+    "game": "Fates",
+    "starting_class": "Shrine Maiden",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 40.0,
+      "Mag": 35.0,
+      "Skl": 45.0,
+      "Spd": 50.0,
+      "Luck": 50.0,
+      "Def": 30.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Caeldori",
+    "game": "Fates",
+    "starting_class": "Sky Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 55.0,
+      "Str": 35.0,
+      "Mag": 15.0,
+      "Skl": 40.0,
+      "Spd": 40.0,
+      "Luck": 45.0,
+      "Def": 35.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Rhajat",
+    "game": "Fates",
+    "starting_class": "Diviner",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 15.0,
+      "Mag": 60.0,
+      "Skl": 10.0,
+      "Spd": 50.0,
+      "Luck": 30.0,
+      "Def": 25.0,
+      "Res": 35.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Skl"
+    ],
+    "high_growth_stats": [
+      "Mag"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Gunter",
+    "game": "Fates",
+    "starting_class": "Great Knight",
+    "weapon_types": [
+      "Sword",
+      "Lance",
+      "Axe"
+    ],
+    "growths": {
+      "HP": 15.0,
+      "Str": 5.0,
+      "Mag": 0.0,
+      "Skl": 5.0,
+      "Spd": 0.0,
+      "Luck": 15.0,
+      "Def": 5.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "HP",
+      "Str",
+      "Mag",
+      "Skl",
+      "Spd",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Elise",
+    "game": "Fates",
+    "starting_class": "Troubadour",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 30.0,
+      "Str": 5.0,
+      "Mag": 65.0,
+      "Skl": 25.0,
+      "Spd": 55.0,
+      "Luck": 70.0,
+      "Def": 15.0,
+      "Res": 40.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Mag",
+      "Luck"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Arthur",
+    "game": "Fates",
+    "starting_class": "Fighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 45.0,
+      "Mag": 0.0,
+      "Skl": 55.0,
+      "Spd": 35.0,
+      "Luck": 5.0,
+      "Def": 45.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Effie",
+    "game": "Fates",
+    "starting_class": "Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 35.0,
+      "Str": 60.0,
+      "Mag": 0.0,
+      "Skl": 35.0,
+      "Spd": 50.0,
+      "Luck": 50.0,
+      "Def": 35.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "Str"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Odin",
+    "game": "Fates",
+    "starting_class": "Dark Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 55.0,
+      "Str": 35.0,
+      "Mag": 30.0,
+      "Skl": 55.0,
+      "Spd": 35.0,
+      "Luck": 60.0,
+      "Def": 40.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Niles",
+    "game": "Fates",
+    "starting_class": "Outlaw",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 35.0,
+      "Mag": 20.0,
+      "Skl": 40.0,
+      "Spd": 50.0,
+      "Luck": 30.0,
+      "Def": 30.0,
+      "Res": 40.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Nyx",
+    "game": "Fates",
+    "starting_class": "Dark Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 30.0,
+      "Str": 5.0,
+      "Mag": 50.0,
+      "Skl": 35.0,
+      "Spd": 50.0,
+      "Luck": 20.0,
+      "Def": 15.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Luck",
+      "Def"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Camilla",
+    "game": "Fates",
+    "starting_class": "Malig Knight",
+    "weapon_types": [
+      "Axe",
+      "Tome"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 50.0,
+      "Mag": 25.0,
+      "Skl": 50.0,
+      "Spd": 55.0,
+      "Luck": 25.0,
+      "Def": 35.0,
+      "Res": 45.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Selena",
+    "game": "Fates",
+    "starting_class": "Mercenary",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 30.0,
+      "Mag": 5.0,
+      "Skl": 25.0,
+      "Spd": 45.0,
+      "Luck": 30.0,
+      "Def": 45.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Beruka",
+    "game": "Fates",
+    "starting_class": "Wyvern Rider",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 30.0,
+      "Mag": 10.0,
+      "Skl": 55.0,
+      "Spd": 30.0,
+      "Luck": 45.0,
+      "Def": 40.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Laslow",
+    "game": "Fates",
+    "starting_class": "Mercenary",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 45.0,
+      "Mag": 0.0,
+      "Skl": 45.0,
+      "Spd": 30.0,
+      "Luck": 55.0,
+      "Def": 35.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Peri",
+    "game": "Fates",
+    "starting_class": "Cavalier",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 30.0,
+      "Str": 50.0,
+      "Mag": 5.0,
+      "Skl": 30.0,
+      "Spd": 50.0,
+      "Luck": 35.0,
+      "Def": 25.0,
+      "Res": 45.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Benny",
+    "game": "Fates",
+    "starting_class": "Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 40.0,
+      "Mag": 0.0,
+      "Skl": 50.0,
+      "Spd": 10.0,
+      "Luck": 35.0,
+      "Def": 55.0,
+      "Res": 45.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Spd"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Charlotte",
+    "game": "Fates",
+    "starting_class": "Fighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 65.0,
+      "Str": 55.0,
+      "Mag": 0.0,
+      "Skl": 35.0,
+      "Spd": 50.0,
+      "Luck": 45.0,
+      "Def": 20.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Leo",
+    "game": "Fates",
+    "starting_class": "Dark Knight",
+    "weapon_types": [
+      "Sword",
+      "Tome"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 25.0,
+      "Mag": 55.0,
+      "Skl": 35.0,
+      "Spd": 45.0,
+      "Luck": 45.0,
+      "Def": 30.0,
+      "Res": 45.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Keaton",
+    "game": "Fates",
+    "starting_class": "Wolfskin",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 60.0,
+      "Mag": 0.0,
+      "Skl": 20.0,
+      "Spd": 35.0,
+      "Luck": 30.0,
+      "Def": 50.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Skl"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Xander",
+    "game": "Fates",
+    "starting_class": "Paladin",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 50.0,
+      "Mag": 5.0,
+      "Skl": 40.0,
+      "Spd": 35.0,
+      "Luck": 60.0,
+      "Def": 40.0,
+      "Res": 15.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Flora",
+    "game": "Fates",
+    "starting_class": "Maid",
+    "weapon_types": [
+      "Dagger"
+    ],
+    "growths": {
+      "HP": 35.0,
+      "Str": 40.0,
+      "Mag": 20.0,
+      "Skl": 45.0,
+      "Spd": 30.0,
+      "Luck": 35.0,
+      "Def": 30.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Siegbert",
+    "game": "Fates",
+    "starting_class": "Cavalier",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 45.0,
+      "Mag": 5.0,
+      "Skl": 45.0,
+      "Spd": 45.0,
+      "Luck": 45.0,
+      "Def": 35.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Forrest",
+    "game": "Fates",
+    "starting_class": "Troubadour",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 55.0,
+      "Str": 15.0,
+      "Mag": 65.0,
+      "Skl": 20.0,
+      "Spd": 35.0,
+      "Luck": 25.0,
+      "Def": 25.0,
+      "Res": 55.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Skl"
+    ],
+    "high_growth_stats": [
+      "Mag"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Ignatius",
+    "game": "Fates",
+    "starting_class": "Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 50.0,
+      "Mag": 0.0,
+      "Skl": 40.0,
+      "Spd": 30.0,
+      "Luck": 55.0,
+      "Def": 45.0,
+      "Res": 35.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Velouria",
+    "game": "Fates",
+    "starting_class": "Wolfskin",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 50.0,
+      "Mag": 0.0,
+      "Skl": 40.0,
+      "Spd": 40.0,
+      "Luck": 35.0,
+      "Def": 45.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Percy",
+    "game": "Fates",
+    "starting_class": "Wyvern Rider",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 30.0,
+      "Str": 30.0,
+      "Mag": 5.0,
+      "Skl": 45.0,
+      "Spd": 40.0,
+      "Luck": 75.0,
+      "Def": 55.0,
+      "Res": 15.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Ophelia",
+    "game": "Fates",
+    "starting_class": "Dark Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 15.0,
+      "Mag": 45.0,
+      "Skl": 40.0,
+      "Spd": 45.0,
+      "Luck": 65.0,
+      "Def": 20.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Soleil",
+    "game": "Fates",
+    "starting_class": "Mercenary",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 25.0,
+      "Str": 60.0,
+      "Mag": 0.0,
+      "Skl": 35.0,
+      "Spd": 35.0,
+      "Luck": 45.0,
+      "Def": 35.0,
+      "Res": 40.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "Str"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Nina",
+    "game": "Fates",
+    "starting_class": "Outlaw",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 30.0,
+      "Str": 45.0,
+      "Mag": 30.0,
+      "Skl": 35.0,
+      "Spd": 40.0,
+      "Luck": 50.0,
+      "Def": 25.0,
+      "Res": 45.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Fuga",
+    "game": "Fates",
+    "starting_class": "Master of Arms",
+    "weapon_types": [
+      "Sword",
+      "Lance",
+      "Axe"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": "",
+    "growths": {
+      "HP": null,
+      "Str": null,
+      "Mag": null,
+      "Skl": null,
+      "Spd": null,
+      "Luck": null,
+      "Def": null,
+      "Res": null
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": []
+  }
+]

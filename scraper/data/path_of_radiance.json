@@ -1,0 +1,1281 @@
+[
+  {
+    "name": "Ike",
+    "game": "Path of Radiance",
+    "starting_class": "Ranger",
+    "weapon_types": [
+      "Sword",
+      "Bow"
+    ],
+    "growths": {
+      "HP": 75.0,
+      "Str": 50.0,
+      "Mag": 20.0,
+      "Skl": 50.0,
+      "Spd": 55.0,
+      "Luck": 35.0,
+      "Def": 40.0,
+      "Res": 40.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "Prologue",
+    "is_recruitable_enemy": false,
+    "recruit_note": "From the start"
+  },
+  {
+    "name": "Titania",
+    "game": "Path of Radiance",
+    "starting_class": "Paladin",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 45.0,
+      "Mag": 25.0,
+      "Skl": 60.0,
+      "Spd": 50.0,
+      "Luck": 45.0,
+      "Def": 40.0,
+      "Res": 45.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "HP",
+      "Skl"
+    ],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "From the start"
+  },
+  {
+    "name": "Oscar",
+    "game": "Path of Radiance",
+    "starting_class": "Lance Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 55.0,
+      "Str": 45.0,
+      "Mag": 20.0,
+      "Skl": 50.0,
+      "Spd": 45.0,
+      "Luck": 30.0,
+      "Def": 35.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "From the start"
+  },
+  {
+    "name": "Boyd",
+    "game": "Path of Radiance",
+    "starting_class": "Fighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 75.0,
+      "Str": 60.0,
+      "Mag": 5.0,
+      "Skl": 50.0,
+      "Spd": 45.0,
+      "Luck": 35.0,
+      "Def": 25.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str"
+    ],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "From the start"
+  },
+  {
+    "name": "Rhys",
+    "game": "Path of Radiance",
+    "starting_class": "Priest",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 5.0,
+      "Mag": 60.0,
+      "Skl": 50.0,
+      "Spd": 40.0,
+      "Luck": 50.0,
+      "Def": 25.0,
+      "Res": 55.0
+    },
+    "low_growth_stats": [
+      "Str"
+    ],
+    "high_growth_stats": [
+      "Mag"
+    ],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": false,
+    "recruit_note": "From the start"
+  },
+  {
+    "name": "Shinon",
+    "game": "Path of Radiance",
+    "starting_class": "Sniper",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 75.0,
+      "Str": 65.0,
+      "Mag": 20.0,
+      "Skl": 70.0,
+      "Spd": 65.0,
+      "Luck": 35.0,
+      "Def": 50.0,
+      "Res": 40.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str",
+      "Skl",
+      "Spd"
+    ],
+    "chapter_joined": "3",
+    "is_recruitable_enemy": false,
+    "recruit_note": "From the start"
+  },
+  {
+    "name": "Gatrie",
+    "game": "Path of Radiance",
+    "starting_class": "Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 55.0,
+      "Mag": 5.0,
+      "Skl": 55.0,
+      "Spd": 25.0,
+      "Luck": 25.0,
+      "Def": 60.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Def"
+    ],
+    "chapter_joined": "3",
+    "is_recruitable_enemy": false,
+    "recruit_note": "From the start"
+  },
+  {
+    "name": "Soren",
+    "game": "Path of Radiance",
+    "starting_class": "Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 5.0,
+      "Mag": 60.0,
+      "Skl": 55.0,
+      "Spd": 40.0,
+      "Luck": 30.0,
+      "Def": 15.0,
+      "Res": 55.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Mag"
+    ],
+    "chapter_joined": "4",
+    "is_recruitable_enemy": false,
+    "recruit_note": "From the start"
+  },
+  {
+    "name": "Mia",
+    "game": "Path of Radiance",
+    "starting_class": "Myrmidon",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 40.0,
+      "Mag": 30.0,
+      "Skl": 45.0,
+      "Spd": 60.0,
+      "Luck": 45.0,
+      "Def": 20.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Spd"
+    ],
+    "chapter_joined": "7",
+    "is_recruitable_enemy": false,
+    "recruit_note": "NPC, talk with Ike"
+  },
+  {
+    "name": "Ilyana",
+    "game": "Path of Radiance",
+    "starting_class": "Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 25.0,
+      "Mag": 50.0,
+      "Skl": 45.0,
+      "Spd": 30.0,
+      "Luck": 45.0,
+      "Def": 15.0,
+      "Res": 50.0
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "8",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Ike"
+  },
+  {
+    "name": "Marcia",
+    "game": "Path of Radiance",
+    "starting_class": "Pegasus Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 55.0,
+      "Str": 40.0,
+      "Mag": 20.0,
+      "Skl": 50.0,
+      "Spd": 55.0,
+      "Luck": 40.0,
+      "Def": 25.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "9",
+    "is_recruitable_enemy": false,
+    "recruit_note": "NPC, talk with Ike (must have made Ike talk to her in Ch 3)"
+  },
+  {
+    "name": "Mist",
+    "game": "Path of Radiance",
+    "starting_class": "Cleric",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 35.0,
+      "Mag": 50.0,
+      "Skl": 25.0,
+      "Spd": 40.0,
+      "Luck": 60.0,
+      "Def": 15.0,
+      "Res": 40.0
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": "9",
+    "is_recruitable_enemy": false,
+    "recruit_note": "From the start"
+  },
+  {
+    "name": "Rolf",
+    "game": "Path of Radiance",
+    "starting_class": "Archer",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 40.0,
+      "Mag": 20.0,
+      "Skl": 45.0,
+      "Spd": 50.0,
+      "Luck": 40.0,
+      "Def": 30.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "9",
+    "is_recruitable_enemy": false,
+    "recruit_note": "From the start"
+  },
+  {
+    "name": "Lethe",
+    "game": "Path of Radiance",
+    "starting_class": "Beast tribe (Cat)",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 130.0,
+      "Str": 50.0,
+      "Mag": 5.0,
+      "Skl": 65.0,
+      "Spd": 70.0,
+      "Luck": 50.0,
+      "Def": 40.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Skl",
+      "Spd"
+    ],
+    "chapter_joined": "10",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Lethe must have survived Ch 9"
+  },
+  {
+    "name": "Mordecai",
+    "game": "Path of Radiance",
+    "starting_class": "Beast tribe (Tiger)",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 150.0,
+      "Str": 65.0,
+      "Mag": 0.0,
+      "Skl": 55.0,
+      "Spd": 50.0,
+      "Luck": 40.0,
+      "Def": 40.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str"
+    ],
+    "chapter_joined": "10",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Mordecai must have survived Ch 9"
+  },
+  {
+    "name": "Volke",
+    "game": "Path of Radiance",
+    "starting_class": "Thief",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 65.0,
+      "Str": 50.0,
+      "Mag": 5.0,
+      "Skl": 55.0,
+      "Spd": 65.0,
+      "Luck": 35.0,
+      "Def": 20.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Spd"
+    ],
+    "chapter_joined": "10",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Hire from the start"
+  },
+  {
+    "name": "Kieran",
+    "game": "Path of Radiance",
+    "starting_class": "Axe Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 50.0,
+      "Mag": 15.0,
+      "Skl": 50.0,
+      "Spd": 40.0,
+      "Luck": 25.0,
+      "Def": 40.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "11",
+    "is_recruitable_enemy": false,
+    "recruit_note": "If the prison door was opened and he survived Ch 10 *"
+  },
+  {
+    "name": "Brom",
+    "game": "Path of Radiance",
+    "starting_class": "Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 75.0,
+      "Str": 45.0,
+      "Mag": 10.0,
+      "Skl": 50.0,
+      "Spd": 25.0,
+      "Luck": 20.0,
+      "Def": 55.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Luck"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "11",
+    "is_recruitable_enemy": false,
+    "recruit_note": "If the prison door was opened and he survived Ch 10 *"
+  },
+  {
+    "name": "Nephenee",
+    "game": "Path of Radiance",
+    "starting_class": "Soldier",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 55.0,
+      "Str": 40.0,
+      "Mag": 20.0,
+      "Skl": 55.0,
+      "Spd": 55.0,
+      "Luck": 25.0,
+      "Def": 35.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "11",
+    "is_recruitable_enemy": false,
+    "recruit_note": "If the prison door was opened and she survived Ch 10 *"
+  },
+  {
+    "name": "Zihark",
+    "game": "Path of Radiance",
+    "starting_class": "Myrmidon",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 55.0,
+      "Str": 45.0,
+      "Mag": 15.0,
+      "Skl": 50.0,
+      "Spd": 60.0,
+      "Luck": 40.0,
+      "Def": 30.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Spd"
+    ],
+    "chapter_joined": "11",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Lethe or Mordecai"
+  },
+  {
+    "name": "Jill",
+    "game": "Path of Radiance",
+    "starting_class": "Wyvern Rider",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 40.0,
+      "Mag": 30.0,
+      "Skl": 45.0,
+      "Spd": 45.0,
+      "Luck": 25.0,
+      "Def": 35.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "12",
+    "is_recruitable_enemy": false,
+    "recruit_note": "NPC, talk with Ike"
+  },
+  {
+    "name": "Sothe",
+    "game": "Path of Radiance",
+    "starting_class": "Thief",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 55.0,
+      "Mag": 10.0,
+      "Skl": 70.0,
+      "Spd": 65.0,
+      "Luck": 55.0,
+      "Def": 35.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Skl",
+      "Spd"
+    ],
+    "chapter_joined": "12",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Read one of the Info conversations"
+  },
+  {
+    "name": "Astrid",
+    "game": "Path of Radiance",
+    "starting_class": "Bow Knight",
+    "weapon_types": [
+      "Bow",
+      "Sword"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 40.0,
+      "Mag": 20.0,
+      "Skl": 55.0,
+      "Spd": 50.0,
+      "Luck": 40.0,
+      "Def": 30.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "13",
+    "is_recruitable_enemy": false,
+    "recruit_note": "NPC, talk with Ike"
+  },
+  {
+    "name": "Makalov",
+    "game": "Path of Radiance",
+    "starting_class": "Sword Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 55.0,
+      "Mag": 5.0,
+      "Skl": 45.0,
+      "Spd": 50.0,
+      "Luck": 25.0,
+      "Def": 45.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "14",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Marcia"
+  },
+  {
+    "name": "Stefan",
+    "game": "Path of Radiance",
+    "starting_class": "Swordmaster",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 50.0,
+      "Mag": 20.0,
+      "Skl": 40.0,
+      "Spd": 55.0,
+      "Luck": 25.0,
+      "Def": 35.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "15",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Make Lethe or Mordecai step on the Vague Katti space"
+  },
+  {
+    "name": "Muarim",
+    "game": "Path of Radiance",
+    "starting_class": "Beast tribe (Tiger)",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 145.0,
+      "Str": 70.0,
+      "Mag": 5.0,
+      "Skl": 70.0,
+      "Spd": 55.0,
+      "Luck": 35.0,
+      "Def": 60.0,
+      "Res": 45.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str",
+      "Skl",
+      "Def"
+    ],
+    "chapter_joined": "15",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Joins after completing chapter"
+  },
+  {
+    "name": "Tormod",
+    "game": "Path of Radiance",
+    "starting_class": "Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 20.0,
+      "Mag": 45.0,
+      "Skl": 40.0,
+      "Spd": 45.0,
+      "Luck": 35.0,
+      "Def": 25.0,
+      "Res": 45.0
+    },
+    "low_growth_stats": [
+      "Str"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "15",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Joins after completing chapter"
+  },
+  {
+    "name": "Devdan",
+    "game": "Path of Radiance",
+    "starting_class": "Halberdier",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 75.0,
+      "Str": 60.0,
+      "Mag": 30.0,
+      "Skl": 40.0,
+      "Spd": 35.0,
+      "Luck": 40.0,
+      "Def": 45.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "HP",
+      "Str"
+    ],
+    "chapter_joined": "16",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Soren, Mist, Rolf, Sothe or Tormod"
+  },
+  {
+    "name": "Tanith",
+    "game": "Path of Radiance",
+    "starting_class": "Falcon Knight",
+    "weapon_types": [
+      "Lance",
+      "Staff"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 40.0,
+      "Mag": 35.0,
+      "Skl": 70.0,
+      "Spd": 40.0,
+      "Luck": 30.0,
+      "Def": 25.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "HP",
+      "Skl"
+    ],
+    "chapter_joined": "18",
+    "is_recruitable_enemy": false,
+    "recruit_note": "From the start"
+  },
+  {
+    "name": "Reyson",
+    "game": "Path of Radiance",
+    "starting_class": "Bird tribe (Heron)",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 65.0,
+      "Str": 5.0,
+      "Mag": 40.0,
+      "Skl": 50.0,
+      "Spd": 50.0,
+      "Luck": 60.0,
+      "Def": 15.0,
+      "Res": 50.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Luck"
+    ],
+    "chapter_joined": "18",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Accept his request during the start of the chapter"
+  },
+  {
+    "name": "Janaff",
+    "game": "Path of Radiance",
+    "starting_class": "Bird tribe (Hawk)",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 130.0,
+      "Str": 55.0,
+      "Mag": 10.0,
+      "Skl": 70.0,
+      "Spd": 65.0,
+      "Luck": 40.0,
+      "Def": 30.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Skl",
+      "Spd"
+    ],
+    "chapter_joined": "18",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Comes with Reyson"
+  },
+  {
+    "name": "Ulki",
+    "game": "Path of Radiance",
+    "starting_class": "Bird tribe (Hawk)",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 140.0,
+      "Str": 60.0,
+      "Mag": 10.0,
+      "Skl": 65.0,
+      "Spd": 60.0,
+      "Luck": 35.0,
+      "Def": 35.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str",
+      "Skl",
+      "Spd"
+    ],
+    "chapter_joined": "18",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Comes with Reyson"
+  },
+  {
+    "name": "Calill",
+    "game": "Path of Radiance",
+    "starting_class": "Sage",
+    "weapon_types": [
+      "Tome",
+      "Staff"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 25.0,
+      "Mag": 45.0,
+      "Skl": 45.0,
+      "Spd": 45.0,
+      "Luck": 30.0,
+      "Def": 40.0,
+      "Res": 35.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [],
+    "chapter_joined": "20",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Read one of the Info conversations"
+  },
+  {
+    "name": "Tauroneo",
+    "game": "Path of Radiance",
+    "starting_class": "General",
+    "weapon_types": [
+      "Lance",
+      "Axe",
+      "Sword"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 55.0,
+      "Mag": 5.0,
+      "Skl": 50.0,
+      "Spd": 30.0,
+      "Luck": 15.0,
+      "Def": 60.0,
+      "Res": 40.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Luck"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Def"
+    ],
+    "chapter_joined": "21",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Ike"
+  },
+  {
+    "name": "Ranulf",
+    "game": "Path of Radiance",
+    "starting_class": "Beast tribe (Cat)",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 130.0,
+      "Str": 50.0,
+      "Mag": 0.0,
+      "Skl": 55.0,
+      "Spd": 55.0,
+      "Luck": 35.0,
+      "Def": 35.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "23",
+    "is_recruitable_enemy": false,
+    "recruit_note": "From the start"
+  },
+  {
+    "name": "Haar",
+    "game": "Path of Radiance",
+    "starting_class": "Wyvern Lord",
+    "weapon_types": [
+      "Lance",
+      "Axe"
+    ],
+    "growths": {
+      "HP": 65.0,
+      "Str": 60.0,
+      "Mag": 5.0,
+      "Skl": 60.0,
+      "Spd": 35.0,
+      "Luck": 15.0,
+      "Def": 45.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str",
+      "Skl"
+    ],
+    "chapter_joined": "23",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Jill"
+  },
+  {
+    "name": "Lucia",
+    "game": "Path of Radiance",
+    "starting_class": "Swordmaster",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 50.0,
+      "Mag": 30.0,
+      "Skl": 70.0,
+      "Spd": 65.0,
+      "Luck": 50.0,
+      "Def": 40.0,
+      "Res": 40.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "HP",
+      "Skl",
+      "Spd"
+    ],
+    "chapter_joined": "24",
+    "is_recruitable_enemy": false,
+    "recruit_note": "From Turn 2"
+  },
+  {
+    "name": "Bastian",
+    "game": "Path of Radiance",
+    "starting_class": "Sage",
+    "weapon_types": [
+      "Tome",
+      "Staff"
+    ],
+    "growths": {
+      "HP": 55.0,
+      "Str": 40.0,
+      "Mag": 65.0,
+      "Skl": 65.0,
+      "Spd": 55.0,
+      "Luck": 30.0,
+      "Def": 35.0,
+      "Res": 50.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "Mag",
+      "Skl"
+    ],
+    "chapter_joined": "24",
+    "is_recruitable_enemy": false,
+    "recruit_note": "From Turn 2"
+  },
+  {
+    "name": "Geoffrey",
+    "game": "Path of Radiance",
+    "starting_class": "Paladin",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 65.0,
+      "Str": 50.0,
+      "Mag": 25.0,
+      "Skl": 55.0,
+      "Spd": 55.0,
+      "Luck": 20.0,
+      "Def": 45.0,
+      "Res": 45.0
+    },
+    "low_growth_stats": [
+      "Luck"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "25",
+    "is_recruitable_enemy": false,
+    "recruit_note": "He must have survived Ch 24"
+  },
+  {
+    "name": "Largo",
+    "game": "Path of Radiance",
+    "starting_class": "Berserker",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 70.0,
+      "Mag": 5.0,
+      "Skl": 45.0,
+      "Spd": 45.0,
+      "Luck": 30.0,
+      "Def": 25.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str"
+    ],
+    "chapter_joined": "25",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Read one of the Info conversations (need to have Calill)"
+  },
+  {
+    "name": "Elincia",
+    "game": "Path of Radiance",
+    "starting_class": "Princess Crimea",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 30.0,
+      "Mag": 80.0,
+      "Skl": 45.0,
+      "Spd": 40.0,
+      "Luck": 60.0,
+      "Def": 25.0,
+      "Res": 35.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "HP",
+      "Mag",
+      "Luck"
+    ],
+    "chapter_joined": "26",
+    "is_recruitable_enemy": false,
+    "recruit_note": "From the start"
+  },
+  {
+    "name": "Ena",
+    "game": "Path of Radiance",
+    "starting_class": "Dragon tribe (Red)",
+    "weapon_types": [
+      "Dragonstone"
+    ],
+    "growths": {
+      "HP": 145.0,
+      "Str": 35.0,
+      "Mag": 5.0,
+      "Skl": 50.0,
+      "Spd": 60.0,
+      "Luck": 40.0,
+      "Def": 40.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Spd"
+    ],
+    "chapter_joined": "28",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Nasir joins if the Black Knight was defeated. Otherwise Ena joins instead."
+  },
+  {
+    "name": "Nasir",
+    "game": "Path of Radiance",
+    "starting_class": "Dragon tribe (White)",
+    "weapon_types": [
+      "Dragonstone"
+    ],
+    "growths": {
+      "HP": 150.0,
+      "Str": 50.0,
+      "Mag": 10.0,
+      "Skl": 55.0,
+      "Spd": 45.0,
+      "Luck": 35.0,
+      "Def": 60.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Def"
+    ],
+    "chapter_joined": "28",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Nasir joins if the Black Knight was defeated. Otherwise Ena joins instead."
+  },
+  {
+    "name": "Tibarn",
+    "game": "Path of Radiance",
+    "starting_class": "Bird tribe (Hawk)",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 145.0,
+      "Str": 70.0,
+      "Mag": 5.0,
+      "Skl": 70.0,
+      "Spd": 65.0,
+      "Luck": 50.0,
+      "Def": 60.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str",
+      "Skl",
+      "Spd",
+      "Def"
+    ],
+    "chapter_joined": "Final",
+    "is_recruitable_enemy": false,
+    "recruit_note": "You can choose one of the three, near the beginning of the chapter (Easy/Normal Mode) or during the beginning of the 2nd part of the chapter (Hard Mode)"
+  },
+  {
+    "name": "Naesala",
+    "game": "Path of Radiance",
+    "starting_class": "Bird tribe (Raven)",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 135.0,
+      "Str": 60.0,
+      "Mag": 40.0,
+      "Skl": 70.0,
+      "Spd": 75.0,
+      "Luck": 20.0,
+      "Def": 55.0,
+      "Res": 35.0
+    },
+    "low_growth_stats": [
+      "Luck"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str",
+      "Skl",
+      "Spd"
+    ],
+    "chapter_joined": "Final",
+    "is_recruitable_enemy": false,
+    "recruit_note": "You can choose one of the three, near the beginning of the chapter (Easy/Normal Mode) or during the beginning of the 2nd part of the chapter (Hard Mode)"
+  },
+  {
+    "name": "Giffca",
+    "game": "Path of Radiance",
+    "starting_class": "Beast tribe (Lion)",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 160.0,
+      "Str": 75.0,
+      "Mag": 5.0,
+      "Skl": 70.0,
+      "Spd": 60.0,
+      "Luck": 40.0,
+      "Def": 50.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str",
+      "Skl",
+      "Spd"
+    ],
+    "chapter_joined": "Final",
+    "is_recruitable_enemy": false,
+    "recruit_note": "You can choose one of the three, near the beginning of the chapter (Easy/Normal Mode) or during the beginning of the 2nd part of the chapter (Hard Mode)"
+  }
+]

@@ -1,0 +1,1009 @@
+[
+  {
+    "name": "Alm",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Fighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 50.0,
+      "Mag": 50.0,
+      "Skl": 55.0,
+      "Spd": 45.0,
+      "Luck": 35.0,
+      "Def": 50.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Lukas",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Soldier",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 30.0,
+      "Mag": 30.0,
+      "Skl": 40.0,
+      "Spd": 25.0,
+      "Luck": 30.0,
+      "Def": 45.0,
+      "Res": 2.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Gray",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Villager",
+    "weapon_types": [],
+    "growths": {
+      "HP": 45.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 30.0,
+      "Spd": 30.0,
+      "Luck": 25.0,
+      "Def": 25.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Tobin",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Villager",
+    "weapon_types": [],
+    "growths": {
+      "HP": 40.0,
+      "Str": 30.0,
+      "Mag": 30.0,
+      "Skl": 50.0,
+      "Spd": 25.0,
+      "Luck": 30.0,
+      "Def": 30.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Kliff",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Villager",
+    "weapon_types": [],
+    "growths": {
+      "HP": 35.0,
+      "Str": 30.0,
+      "Mag": 30.0,
+      "Skl": 45.0,
+      "Spd": 60.0,
+      "Luck": 20.0,
+      "Def": 40.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Spd"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Silque",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Cleric",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 35.0,
+      "Spd": 30.0,
+      "Luck": 60.0,
+      "Def": 40.0,
+      "Res": 2.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Clair",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Pegasus Kn.",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 35.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 55.0,
+      "Spd": 70.0,
+      "Luck": 50.0,
+      "Def": 30.0,
+      "Res": 2.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Spd"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Clive",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Cavalier",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 55.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 35.0,
+      "Spd": 25.0,
+      "Luck": 25.0,
+      "Def": 30.0,
+      "Res": 2.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Forsyth",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Soldier",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 30.0,
+      "Spd": 40.0,
+      "Luck": 40.0,
+      "Def": 30.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Python",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Archer",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 25.0,
+      "Spd": 55.0,
+      "Luck": 20.0,
+      "Def": 25.0,
+      "Res": 4.0
+    },
+    "low_growth_stats": [
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Luthier",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 30.0,
+      "Mag": 30.0,
+      "Skl": 75.0,
+      "Spd": 40.0,
+      "Luck": 50.0,
+      "Def": 35.0,
+      "Res": 2.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Skl"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Mathilda",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Paladin",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 50.0,
+      "Mag": 50.0,
+      "Skl": 45.0,
+      "Spd": 55.0,
+      "Luck": 45.0,
+      "Def": 40.0,
+      "Res": 4.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Delthea",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 30.0,
+      "Str": 70.0,
+      "Mag": 70.0,
+      "Skl": 35.0,
+      "Spd": 55.0,
+      "Luck": 40.0,
+      "Def": 20.0,
+      "Res": 4.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Str",
+      "Mag"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Tatiana",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Saint",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 30.0,
+      "Str": 50.0,
+      "Mag": 50.0,
+      "Skl": 45.0,
+      "Spd": 40.0,
+      "Luck": 35.0,
+      "Def": 30.0,
+      "Res": 4.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Zeke",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Gold Knight",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 45.0,
+      "Mag": 45.0,
+      "Skl": 55.0,
+      "Spd": 55.0,
+      "Luck": 40.0,
+      "Def": 45.0,
+      "Res": 1.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Mycen",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Gold Knight",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 20.0,
+      "Str": 10.0,
+      "Mag": 10.0,
+      "Skl": 10.0,
+      "Spd": 10.0,
+      "Luck": 5.0,
+      "Def": 10.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "HP",
+      "Str",
+      "Mag",
+      "Skl",
+      "Spd",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Faye",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Villager",
+    "weapon_types": [],
+    "growths": {
+      "HP": 40.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 30.0,
+      "Spd": 30.0,
+      "Luck": 30.0,
+      "Def": 40.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Celica",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Priestess",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 60.0,
+      "Mag": 60.0,
+      "Skl": 50.0,
+      "Spd": 50.0,
+      "Luck": 45.0,
+      "Def": 35.0,
+      "Res": 4.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Str",
+      "Mag"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Mae",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 35.0,
+      "Str": 60.0,
+      "Mag": 60.0,
+      "Skl": 35.0,
+      "Spd": 40.0,
+      "Luck": 40.0,
+      "Def": 30.0,
+      "Res": 2.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Str",
+      "Mag"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Boey",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 55.0,
+      "Str": 45.0,
+      "Mag": 45.0,
+      "Skl": 55.0,
+      "Spd": 30.0,
+      "Luck": 25.0,
+      "Def": 45.0,
+      "Res": 1.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Genny",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Cleric",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 30.0,
+      "Str": 60.0,
+      "Mag": 60.0,
+      "Skl": 50.0,
+      "Spd": 30.0,
+      "Luck": 35.0,
+      "Def": 20.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Str",
+      "Mag"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Saber",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Mercenary",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 35.0,
+      "Mag": 35.0,
+      "Skl": 30.0,
+      "Spd": 35.0,
+      "Luck": 25.0,
+      "Def": 45.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Valbar",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 40.0,
+      "Spd": 30.0,
+      "Luck": 25.0,
+      "Def": 50.0,
+      "Res": 1.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Kamui",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Mercenary",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 30.0,
+      "Spd": 40.0,
+      "Luck": 25.0,
+      "Def": 30.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Leon",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Archer",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 30.0,
+      "Mag": 30.0,
+      "Skl": 50.0,
+      "Spd": 30.0,
+      "Luck": 30.0,
+      "Def": 30.0,
+      "Res": 4.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Palla",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Pegasus Kn.",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 60.0,
+      "Mag": 60.0,
+      "Skl": 50.0,
+      "Spd": 30.0,
+      "Luck": 25.0,
+      "Def": 45.0,
+      "Res": 1.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Str",
+      "Mag"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Catria",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Pegasus Kn.",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 45.0,
+      "Spd": 55.0,
+      "Luck": 30.0,
+      "Def": 35.0,
+      "Res": 2.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Atlas",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Villager",
+    "weapon_types": [],
+    "growths": {
+      "HP": 45.0,
+      "Str": 50.0,
+      "Mag": 50.0,
+      "Skl": 30.0,
+      "Spd": 25.0,
+      "Luck": 25.0,
+      "Def": 25.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Jesse",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Mercenary",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 35.0,
+      "Mag": 35.0,
+      "Skl": 40.0,
+      "Spd": 45.0,
+      "Luck": 55.0,
+      "Def": 30.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Sonya",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 45.0,
+      "Mag": 45.0,
+      "Skl": 50.0,
+      "Spd": 35.0,
+      "Luck": 30.0,
+      "Def": 40.0,
+      "Res": 4.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Deen",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Myrmidon",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 45.0,
+      "Mag": 45.0,
+      "Skl": 35.0,
+      "Spd": 40.0,
+      "Luck": 15.0,
+      "Def": 40.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Est",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Pegasus Kn.",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 35.0,
+      "Str": 55.0,
+      "Mag": 55.0,
+      "Skl": 50.0,
+      "Spd": 40.0,
+      "Luck": 55.0,
+      "Def": 50.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Nomah",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Sage",
+    "weapon_types": [
+      "Tome",
+      "Staff"
+    ],
+    "growths": {
+      "HP": 15.0,
+      "Str": 20.0,
+      "Mag": 20.0,
+      "Skl": 25.0,
+      "Spd": 15.0,
+      "Luck": 10.0,
+      "Def": 10.0,
+      "Res": 1.0
+    },
+    "low_growth_stats": [
+      "HP",
+      "Str",
+      "Mag",
+      "Spd",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Conrad",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Paladin",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 30.0,
+      "Mag": 30.0,
+      "Skl": 60.0,
+      "Spd": 45.0,
+      "Luck": 40.0,
+      "Def": 50.0,
+      "Res": 8.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Skl"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Emma",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Falcon Kn.",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 40.0,
+      "Spd": 45.0,
+      "Luck": 55.0,
+      "Def": 40.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Randal",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Paladin",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 60.0,
+      "Mag": 60.0,
+      "Skl": 50.0,
+      "Spd": 50.0,
+      "Luck": 15.0,
+      "Def": 35.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Str",
+      "Mag"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Yuzu",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Priestess",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 55.0,
+      "Mag": 55.0,
+      "Skl": 60.0,
+      "Spd": 60.0,
+      "Luck": 35.0,
+      "Def": 30.0,
+      "Res": 2.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Skl",
+      "Spd"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Shade",
+    "game": "Echoes: Shadows of Valentia",
+    "starting_class": "Saint",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 45.0,
+      "Mag": 45.0,
+      "Skl": 35.0,
+      "Spd": 40.0,
+      "Luck": 35.0,
+      "Def": 45.0,
+      "Res": 4.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  }
+]

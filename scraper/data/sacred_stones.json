@@ -1,0 +1,1180 @@
+[
+  {
+    "name": "Eirika",
+    "game": "Sacred Stones",
+    "starting_class": "Lord",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 60.0,
+      "Spd": 60.0,
+      "Luck": 60.0,
+      "Def": 30.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "HP",
+      "Skl",
+      "Spd",
+      "Luck"
+    ],
+    "chapter_joined": "Prologue",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Seth",
+    "game": "Sacred Stones",
+    "starting_class": "Paladin",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 50.0,
+      "Mag": 50.0,
+      "Skl": 45.0,
+      "Spd": 45.0,
+      "Luck": 25.0,
+      "Def": 40.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "Prologue",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Franz",
+    "game": "Sacred Stones",
+    "starting_class": "Cavalier",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 40.0,
+      "Spd": 50.0,
+      "Luck": 40.0,
+      "Def": 25.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from Turn 2"
+  },
+  {
+    "name": "Gilliam",
+    "game": "Sacred Stones",
+    "starting_class": "Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 45.0,
+      "Mag": 45.0,
+      "Skl": 35.0,
+      "Spd": 30.0,
+      "Luck": 30.0,
+      "Def": 55.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from Turn 2"
+  },
+  {
+    "name": "Vanessa",
+    "game": "Sacred Stones",
+    "starting_class": "Pegasus Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 35.0,
+      "Mag": 35.0,
+      "Skl": 55.0,
+      "Spd": 60.0,
+      "Luck": 50.0,
+      "Def": 20.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Spd"
+    ],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically at the end of the chapter"
+  },
+  {
+    "name": "Moulder",
+    "game": "Sacred Stones",
+    "starting_class": "Priest",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 50.0,
+      "Spd": 40.0,
+      "Luck": 20.0,
+      "Def": 25.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Luck"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically at the end of the chapter"
+  },
+  {
+    "name": "Ross",
+    "game": "Sacred Stones",
+    "starting_class": "Journeyman",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 50.0,
+      "Mag": 50.0,
+      "Skl": 35.0,
+      "Spd": 30.0,
+      "Luck": 40.0,
+      "Def": 25.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": false,
+    "recruit_note": "NPC, talk with Eirika or keep him and Garcia alive"
+  },
+  {
+    "name": "Garcia",
+    "game": "Sacred Stones",
+    "starting_class": "Fighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 65.0,
+      "Mag": 65.0,
+      "Skl": 40.0,
+      "Spd": 20.0,
+      "Luck": 40.0,
+      "Def": 25.0,
+      "Res": 15.0
+    },
+    "low_growth_stats": [
+      "Spd",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str",
+      "Mag"
+    ],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": false,
+    "recruit_note": "NPC, talk with Ross or keep him and Ross alive"
+  },
+  {
+    "name": "Neimi",
+    "game": "Sacred Stones",
+    "starting_class": "Archer",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 55.0,
+      "Str": 45.0,
+      "Mag": 45.0,
+      "Skl": 50.0,
+      "Spd": 60.0,
+      "Luck": 50.0,
+      "Def": 15.0,
+      "Res": 35.0
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Spd"
+    ],
+    "chapter_joined": "3",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start."
+  },
+  {
+    "name": "Colm",
+    "game": "Sacred Stones",
+    "starting_class": "Thief",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 75.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 40.0,
+      "Spd": 65.0,
+      "Luck": 45.0,
+      "Def": 25.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Spd"
+    ],
+    "chapter_joined": "3",
+    "is_recruitable_enemy": false,
+    "recruit_note": "NPC, talk with Neimi or keep him and Neimi alive"
+  },
+  {
+    "name": "Artur",
+    "game": "Sacred Stones",
+    "starting_class": "Monk",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 55.0,
+      "Str": 50.0,
+      "Mag": 50.0,
+      "Skl": 50.0,
+      "Spd": 40.0,
+      "Luck": 25.0,
+      "Def": 15.0,
+      "Res": 55.0
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "4",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Lute",
+    "game": "Sacred Stones",
+    "starting_class": "Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 65.0,
+      "Mag": 65.0,
+      "Skl": 30.0,
+      "Spd": 45.0,
+      "Luck": 45.0,
+      "Def": 15.0,
+      "Res": 40.0
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Str",
+      "Mag"
+    ],
+    "chapter_joined": "4",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Visit village to the south west or finish the chapter"
+  },
+  {
+    "name": "Natasha",
+    "game": "Sacred Stones",
+    "starting_class": "Cleric",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 60.0,
+      "Mag": 60.0,
+      "Skl": 25.0,
+      "Spd": 40.0,
+      "Luck": 60.0,
+      "Def": 15.0,
+      "Res": 55.0
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Str",
+      "Mag",
+      "Luck"
+    ],
+    "chapter_joined": "5",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Joshua",
+    "game": "Sacred Stones",
+    "starting_class": "Myrmidon",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 35.0,
+      "Mag": 35.0,
+      "Skl": 55.0,
+      "Spd": 55.0,
+      "Luck": 30.0,
+      "Def": 20.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "5",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Natasha"
+  },
+  {
+    "name": "Ephraim",
+    "game": "Sacred Stones",
+    "starting_class": "Lord",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 55.0,
+      "Mag": 55.0,
+      "Skl": 55.0,
+      "Spd": 45.0,
+      "Luck": 50.0,
+      "Def": 35.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "5x / 8",
+    "is_recruitable_enemy": false,
+    "recruit_note": "5x: Automatically from the start / 8: Automatically from Turn 2"
+  },
+  {
+    "name": "Forde",
+    "game": "Sacred Stones",
+    "starting_class": "Cavalier",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 85.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 50.0,
+      "Spd": 45.0,
+      "Luck": 35.0,
+      "Def": 20.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "5x / 8",
+    "is_recruitable_enemy": false,
+    "recruit_note": "5x: Automatically from the start / 8: Automatically from Turn 2"
+  },
+  {
+    "name": "Kyle",
+    "game": "Sacred Stones",
+    "starting_class": "Cavalier",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 50.0,
+      "Mag": 50.0,
+      "Skl": 40.0,
+      "Spd": 40.0,
+      "Luck": 20.0,
+      "Def": 25.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "5x / 8",
+    "is_recruitable_enemy": false,
+    "recruit_note": "5x: Automatically from the start / 8: Automatically from Turn 2"
+  },
+  {
+    "name": "Orson",
+    "game": "Sacred Stones",
+    "starting_class": "Paladin",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 55.0,
+      "Mag": 55.0,
+      "Skl": 45.0,
+      "Spd": 40.0,
+      "Luck": 25.0,
+      "Def": 45.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "5x",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Tana",
+    "game": "Sacred Stones",
+    "starting_class": "Pegasus Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 65.0,
+      "Str": 45.0,
+      "Mag": 45.0,
+      "Skl": 40.0,
+      "Spd": 65.0,
+      "Luck": 60.0,
+      "Def": 20.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Spd",
+      "Luck"
+    ],
+    "chapter_joined": "9",
+    "is_recruitable_enemy": false,
+    "recruit_note": "nan"
+  },
+  {
+    "name": "Amelia",
+    "game": "Sacred Stones",
+    "starting_class": "Recruit",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 35.0,
+      "Mag": 35.0,
+      "Skl": 40.0,
+      "Spd": 40.0,
+      "Luck": 50.0,
+      "Def": 30.0,
+      "Res": 15.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "9 / 13",
+    "is_recruitable_enemy": false,
+    "recruit_note": "nan"
+  },
+  {
+    "name": "Innes",
+    "game": "Sacred Stones",
+    "starting_class": "Sniper",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 75.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 40.0,
+      "Spd": 45.0,
+      "Luck": 45.0,
+      "Def": 20.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "10",
+    "is_recruitable_enemy": false,
+    "recruit_note": "nan"
+  },
+  {
+    "name": "Gerik",
+    "game": "Sacred Stones",
+    "starting_class": "Mercenary",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 45.0,
+      "Mag": 45.0,
+      "Skl": 40.0,
+      "Spd": 30.0,
+      "Luck": 30.0,
+      "Def": 35.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "10",
+    "is_recruitable_enemy": false,
+    "recruit_note": "nan"
+  },
+  {
+    "name": "Tethys",
+    "game": "Sacred Stones",
+    "starting_class": "Dancer",
+    "weapon_types": [],
+    "growths": {
+      "HP": 85.0,
+      "Str": 5.0,
+      "Mag": 5.0,
+      "Skl": 10.0,
+      "Spd": 70.0,
+      "Luck": 80.0,
+      "Def": 30.0,
+      "Res": 75.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Mag",
+      "Skl"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Spd",
+      "Luck",
+      "Res"
+    ],
+    "chapter_joined": "10",
+    "is_recruitable_enemy": false,
+    "recruit_note": "nan"
+  },
+  {
+    "name": "Marisa",
+    "game": "Sacred Stones",
+    "starting_class": "Myrmidon",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 75.0,
+      "Str": 30.0,
+      "Mag": 30.0,
+      "Skl": 55.0,
+      "Spd": 60.0,
+      "Luck": 50.0,
+      "Def": 15.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Spd"
+    ],
+    "chapter_joined": "10",
+    "is_recruitable_enemy": false,
+    "recruit_note": "nan"
+  },
+  {
+    "name": "L'Arachel",
+    "game": "Sacred Stones",
+    "starting_class": "Troubadour",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 50.0,
+      "Mag": 50.0,
+      "Skl": 45.0,
+      "Spd": 45.0,
+      "Luck": 65.0,
+      "Def": 15.0,
+      "Res": 50.0
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": "11",
+    "is_recruitable_enemy": false,
+    "recruit_note": "nan"
+  },
+  {
+    "name": "Dozla",
+    "game": "Sacred Stones",
+    "starting_class": "Berserker",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 85.0,
+      "Str": 50.0,
+      "Mag": 50.0,
+      "Skl": 35.0,
+      "Spd": 40.0,
+      "Luck": 30.0,
+      "Def": 30.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "11",
+    "is_recruitable_enemy": false,
+    "recruit_note": "nan"
+  },
+  {
+    "name": "Saleh",
+    "game": "Sacred Stones",
+    "starting_class": "Sage",
+    "weapon_types": [
+      "Tome",
+      "Staff"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 30.0,
+      "Mag": 30.0,
+      "Skl": 25.0,
+      "Spd": 40.0,
+      "Luck": 40.0,
+      "Def": 30.0,
+      "Res": 35.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [],
+    "chapter_joined": "12",
+    "is_recruitable_enemy": false,
+    "recruit_note": "nan"
+  },
+  {
+    "name": "Ewan",
+    "game": "Sacred Stones",
+    "starting_class": "Pupil",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 45.0,
+      "Mag": 45.0,
+      "Skl": 40.0,
+      "Spd": 35.0,
+      "Luck": 50.0,
+      "Def": 15.0,
+      "Res": 40.0
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "12",
+    "is_recruitable_enemy": false,
+    "recruit_note": "nan"
+  },
+  {
+    "name": "Cormag",
+    "game": "Sacred Stones",
+    "starting_class": "Wyvern Rider",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 85.0,
+      "Str": 55.0,
+      "Mag": 55.0,
+      "Skl": 40.0,
+      "Spd": 45.0,
+      "Luck": 35.0,
+      "Def": 25.0,
+      "Res": 15.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "13",
+    "is_recruitable_enemy": false,
+    "recruit_note": "nan"
+  },
+  {
+    "name": "Rennac",
+    "game": "Sacred Stones",
+    "starting_class": "Rogue",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 65.0,
+      "Str": 25.0,
+      "Mag": 25.0,
+      "Skl": 45.0,
+      "Spd": 60.0,
+      "Luck": 25.0,
+      "Def": 25.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "HP",
+      "Spd"
+    ],
+    "chapter_joined": "14",
+    "is_recruitable_enemy": false,
+    "recruit_note": "nan"
+  },
+  {
+    "name": "Duessel",
+    "game": "Sacred Stones",
+    "starting_class": "Great Knight",
+    "weapon_types": [
+      "Sword",
+      "Lance",
+      "Axe"
+    ],
+    "growths": {
+      "HP": 85.0,
+      "Str": 55.0,
+      "Mag": 55.0,
+      "Skl": 40.0,
+      "Spd": 30.0,
+      "Luck": 20.0,
+      "Def": 45.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Luck"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "15",
+    "is_recruitable_enemy": false,
+    "recruit_note": "nan"
+  },
+  {
+    "name": "Knoll",
+    "game": "Sacred Stones",
+    "starting_class": "Shaman",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 50.0,
+      "Mag": 50.0,
+      "Skl": 40.0,
+      "Spd": 35.0,
+      "Luck": 20.0,
+      "Def": 10.0,
+      "Res": 45.0
+    },
+    "low_growth_stats": [
+      "Luck",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "15",
+    "is_recruitable_enemy": false,
+    "recruit_note": "nan"
+  },
+  {
+    "name": "Myrrh",
+    "game": "Sacred Stones",
+    "starting_class": "Manakete",
+    "weapon_types": [
+      "Dragonstone"
+    ],
+    "growths": {
+      "HP": 130.0,
+      "Str": 90.0,
+      "Mag": 90.0,
+      "Skl": 85.0,
+      "Spd": 65.0,
+      "Luck": 30.0,
+      "Def": 150.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "HP",
+      "Str",
+      "Mag",
+      "Skl",
+      "Spd",
+      "Def"
+    ],
+    "chapter_joined": 16,
+    "is_recruitable_enemy": false,
+    "recruit_note": "From character select screen, once chapter begins"
+  },
+  {
+    "name": "Syrene",
+    "game": "Sacred Stones",
+    "starting_class": "Falcoknight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 50.0,
+      "Spd": 60.0,
+      "Luck": 30.0,
+      "Def": 20.0,
+      "Res": 50.0
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Spd"
+    ],
+    "chapter_joined": 17,
+    "is_recruitable_enemy": false,
+    "recruit_note": "NPC, talk with Tana, Vanessa or Innes (alternatively just keep her alive)"
+  },
+  {
+    "name": "Caellach",
+    "game": "Sacred Stones",
+    "starting_class": "Hero",
+    "weapon_types": [
+      "Sword",
+      "Axe"
+    ],
+    "growths": {
+      "HP": 85.0,
+      "Str": 50.0,
+      "Mag": 50.0,
+      "Skl": 45.0,
+      "Spd": 45.0,
+      "Luck": 20.0,
+      "Def": 30.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": NaN,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Tower of Valni: Clear the 3rd floor"
+  },
+  {
+    "name": "Riev",
+    "game": "Sacred Stones",
+    "starting_class": "Bishop",
+    "weapon_types": [
+      "Staff",
+      "Tome"
+    ],
+    "growths": {
+      "HP": 75.0,
+      "Str": 45.0,
+      "Mag": 45.0,
+      "Skl": 50.0,
+      "Spd": 40.0,
+      "Luck": 15.0,
+      "Def": 20.0,
+      "Res": 45.0
+    },
+    "low_growth_stats": [
+      "Luck",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": NaN,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Tower of Valni: Defeat 200 or more enemies in the same Tower run"
+  },
+  {
+    "name": "Ismaire",
+    "game": "Sacred Stones",
+    "starting_class": "Swordmaster",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 75.0,
+      "Str": 30.0,
+      "Mag": 30.0,
+      "Skl": 60.0,
+      "Spd": 55.0,
+      "Luck": 30.0,
+      "Def": 20.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Skl"
+    ],
+    "chapter_joined": NaN,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Tower of Valni: Clear the 8th floor"
+  },
+  {
+    "name": "Selena",
+    "game": "Sacred Stones",
+    "starting_class": "Mage Knight",
+    "weapon_types": [
+      "Tome",
+      "Staff"
+    ],
+    "growths": {
+      "HP": 85.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 55.0,
+      "Spd": 40.0,
+      "Luck": 25.0,
+      "Def": 20.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": NaN,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Tower of Valni: Clear the 8th floor, three times"
+  },
+  {
+    "name": "Glen",
+    "game": "Sacred Stones",
+    "starting_class": "Wyvern Lord",
+    "weapon_types": [
+      "Lance",
+      "Axe"
+    ],
+    "growths": {
+      "HP": 85.0,
+      "Str": 45.0,
+      "Mag": 45.0,
+      "Skl": 50.0,
+      "Spd": 45.0,
+      "Luck": 20.0,
+      "Def": 35.0,
+      "Res": 40.0
+    },
+    "low_growth_stats": [
+      "Luck"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": NaN,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Lagdou Ruins: Clear the 5th floor"
+  },
+  {
+    "name": "Hayden",
+    "game": "Sacred Stones",
+    "starting_class": "Ranger",
+    "weapon_types": [
+      "Sword",
+      "Bow"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 45.0,
+      "Spd": 45.0,
+      "Luck": 40.0,
+      "Def": 25.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": NaN,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Lagdou Ruins: Defeat 200 or more enemies in the same Ruins run"
+  },
+  {
+    "name": "Valter",
+    "game": "Sacred Stones",
+    "starting_class": "Wyvern Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 55.0,
+      "Spd": 50.0,
+      "Luck": 15.0,
+      "Def": 20.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": NaN,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Lagdou Ruins: Clear the 7th floor"
+  },
+  {
+    "name": "Fado",
+    "game": "Sacred Stones",
+    "starting_class": "General",
+    "weapon_types": [
+      "Lance",
+      "Axe",
+      "Sword"
+    ],
+    "growths": {
+      "HP": 85.0,
+      "Str": 55.0,
+      "Mag": 55.0,
+      "Skl": 40.0,
+      "Spd": 30.0,
+      "Luck": 25.0,
+      "Def": 45.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": NaN,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Lagdou Ruins: Clear the 10th floor"
+  },
+  {
+    "name": "Lyon",
+    "game": "Sacred Stones",
+    "starting_class": "Necromancer",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 85.0,
+      "Str": 50.0,
+      "Mag": 50.0,
+      "Skl": 55.0,
+      "Spd": 55.0,
+      "Luck": 30.0,
+      "Def": 45.0,
+      "Res": 55.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": NaN,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Lagdou Ruins: Clear the 10th floor, three times"
+  }
+]

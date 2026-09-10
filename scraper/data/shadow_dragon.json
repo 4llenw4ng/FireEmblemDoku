@@ -1,0 +1,1760 @@
+[
+  {
+    "name": "Marth",
+    "game": "Shadow Dragon",
+    "starting_class": "Lord",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 50.0,
+      "Mag": 0.0,
+      "Skl": 40.0,
+      "Spd": 50.0,
+      "Luck": 70.0,
+      "Def": 20.0,
+      "Res": 2.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Luck"
+    ],
+    "chapter_joined": "P-1 *1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Frey",
+    "game": "Shadow Dragon",
+    "starting_class": "Cavalier",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 35.0,
+      "Mag": 0.0,
+      "Skl": 55.0,
+      "Spd": 55.0,
+      "Luck": 45.0,
+      "Def": 20.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "P-2",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Abel",
+    "game": "Shadow Dragon",
+    "starting_class": "Cavalier",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 65.0,
+      "Str": 40.0,
+      "Mag": 0.0,
+      "Skl": 50.0,
+      "Spd": 50.0,
+      "Luck": 25.0,
+      "Def": 20.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "P-2 *1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Cain",
+    "game": "Shadow Dragon",
+    "starting_class": "Cavalier",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 75.0,
+      "Str": 35.0,
+      "Mag": 0.0,
+      "Skl": 50.0,
+      "Spd": 50.0,
+      "Luck": 40.0,
+      "Def": 20.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "P-3 *1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Jagen",
+    "game": "Shadow Dragon",
+    "starting_class": "Paladin",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 20.0,
+      "Mag": 0.0,
+      "Skl": 35.0,
+      "Spd": 15.0,
+      "Luck": 30.0,
+      "Def": 20.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Mag",
+      "Spd",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "P-3 *1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Gordin",
+    "game": "Shadow Dragon",
+    "starting_class": "Archer",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 20.0,
+      "Mag": 0.0,
+      "Skl": 40.0,
+      "Spd": 35.0,
+      "Luck": 40.0,
+      "Def": 30.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "P-4 *1",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Marth"
+  },
+  {
+    "name": "Draug",
+    "game": "Shadow Dragon",
+    "starting_class": "Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 20.0,
+      "Mag": 0.0,
+      "Skl": 40.0,
+      "Spd": 40.0,
+      "Luck": 30.0,
+      "Def": 30.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Norne",
+    "game": "Shadow Dragon",
+    "starting_class": "Archer",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 25.0,
+      "Mag": 0.0,
+      "Skl": 40.0,
+      "Spd": 55.0,
+      "Luck": 30.0,
+      "Def": 20.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start *2"
+  },
+  {
+    "name": "Shiida",
+    "game": "Shadow Dragon",
+    "starting_class": "Pegasus Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 20.0,
+      "Mag": 0.0,
+      "Skl": 60.0,
+      "Spd": 85.0,
+      "Luck": 70.0,
+      "Def": 10.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Mag",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Skl",
+      "Spd",
+      "Luck"
+    ],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Wrys",
+    "game": "Shadow Dragon",
+    "starting_class": "Curate",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 20.0,
+      "Str": 0.0,
+      "Mag": 20.0,
+      "Skl": 20.0,
+      "Spd": 20.0,
+      "Luck": 40.0,
+      "Def": 0.0,
+      "Res": 45.0
+    },
+    "low_growth_stats": [
+      "HP",
+      "Str",
+      "Mag",
+      "Skl",
+      "Spd",
+      "Def"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Visit the western village with Marth"
+  },
+  {
+    "name": "Ogma",
+    "game": "Shadow Dragon",
+    "starting_class": "Mercenary",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 40.0,
+      "Mag": 0.0,
+      "Skl": 40.0,
+      "Spd": 30.0,
+      "Luck": 40.0,
+      "Def": 20.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Barst",
+    "game": "Shadow Dragon",
+    "starting_class": "Fighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 40.0,
+      "Mag": 0.0,
+      "Skl": 40.0,
+      "Spd": 30.0,
+      "Luck": 40.0,
+      "Def": 15.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Bord",
+    "game": "Shadow Dragon",
+    "starting_class": "Fighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 55.0,
+      "Mag": 0.0,
+      "Skl": 45.0,
+      "Spd": 10.0,
+      "Luck": 35.0,
+      "Def": 10.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Spd",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Cord",
+    "game": "Shadow Dragon",
+    "starting_class": "Fighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 50.0,
+      "Mag": 0.0,
+      "Skl": 20.0,
+      "Spd": 40.0,
+      "Luck": 40.0,
+      "Def": 10.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Skl",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Castor",
+    "game": "Shadow Dragon",
+    "starting_class": "Hunter",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 40.0,
+      "Mag": 0.0,
+      "Skl": 40.0,
+      "Spd": 40.0,
+      "Luck": 20.0,
+      "Def": 20.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Shiida"
+  },
+  {
+    "name": "Darros",
+    "game": "Shadow Dragon",
+    "starting_class": "Pirate",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 60.0,
+      "Mag": 0.0,
+      "Skl": 20.0,
+      "Spd": 10.0,
+      "Luck": 40.0,
+      "Def": 30.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Skl",
+      "Spd",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str"
+    ],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Marth"
+  },
+  {
+    "name": "Julian",
+    "game": "Shadow Dragon",
+    "starting_class": "Thief",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 50.0,
+      "Mag": 0.0,
+      "Skl": 50.0,
+      "Spd": 50.0,
+      "Luck": 80.0,
+      "Def": 30.0,
+      "Res": 2.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Luck"
+    ],
+    "chapter_joined": "3",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Lena",
+    "game": "Shadow Dragon",
+    "starting_class": "Cleric",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 15.0,
+      "Str": 0.0,
+      "Mag": 25.0,
+      "Skl": 25.0,
+      "Spd": 20.0,
+      "Luck": 60.0,
+      "Def": 0.0,
+      "Res": 50.0
+    },
+    "low_growth_stats": [
+      "HP",
+      "Str",
+      "Spd",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": "3",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Nabarl",
+    "game": "Shadow Dragon",
+    "starting_class": "Myrmidon",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 30.0,
+      "Mag": 0.0,
+      "Skl": 40.0,
+      "Spd": 50.0,
+      "Luck": 40.0,
+      "Def": 10.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "3",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Shiida"
+  },
+  {
+    "name": "Merric",
+    "game": "Shadow Dragon",
+    "starting_class": "Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 0.0,
+      "Mag": 40.0,
+      "Skl": 50.0,
+      "Spd": 40.0,
+      "Luck": 45.0,
+      "Def": 5.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "4",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Visit the western village with Marth"
+  },
+  {
+    "name": "Matthis",
+    "game": "Shadow Dragon",
+    "starting_class": "Cavalier",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 40.0,
+      "Mag": 0.0,
+      "Skl": 30.0,
+      "Spd": 20.0,
+      "Luck": 30.0,
+      "Def": 30.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Spd",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "4",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Lena"
+  },
+  {
+    "name": "Hardin",
+    "game": "Shadow Dragon",
+    "starting_class": "Cavalier",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 30.0,
+      "Mag": 0.0,
+      "Skl": 55.0,
+      "Spd": 55.0,
+      "Luck": 30.0,
+      "Def": 20.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "5",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Wolf",
+    "game": "Shadow Dragon",
+    "starting_class": "Horseman",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 160.0,
+      "Str": 100.0,
+      "Mag": 0.0,
+      "Skl": 85.0,
+      "Spd": 85.0,
+      "Luck": 50.0,
+      "Def": 65.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str",
+      "Skl",
+      "Spd",
+      "Def"
+    ],
+    "chapter_joined": "5",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Sedgar",
+    "game": "Shadow Dragon",
+    "starting_class": "Horseman",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 160.0,
+      "Str": 80.0,
+      "Mag": 0.0,
+      "Skl": 95.0,
+      "Spd": 85.0,
+      "Luck": 30.0,
+      "Def": 85.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str",
+      "Skl",
+      "Spd",
+      "Def"
+    ],
+    "chapter_joined": "5",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Roshea",
+    "game": "Shadow Dragon",
+    "starting_class": "Cavalier",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 40.0,
+      "Mag": 0.0,
+      "Skl": 55.0,
+      "Spd": 10.0,
+      "Luck": 10.0,
+      "Def": 20.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Spd",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "5",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Vyland",
+    "game": "Shadow Dragon",
+    "starting_class": "Cavalier",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 30.0,
+      "Mag": 0.0,
+      "Skl": 25.0,
+      "Spd": 40.0,
+      "Luck": 30.0,
+      "Def": 15.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "5",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Wendell",
+    "game": "Shadow Dragon",
+    "starting_class": "Sage",
+    "weapon_types": [
+      "Tome",
+      "Staff"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 0.0,
+      "Mag": 20.0,
+      "Skl": 20.0,
+      "Spd": 20.0,
+      "Luck": 40.0,
+      "Def": 0.0,
+      "Res": 35.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Mag",
+      "Skl",
+      "Spd",
+      "Def"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "5",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Marth or Merric"
+  },
+  {
+    "name": "Rickard",
+    "game": "Shadow Dragon",
+    "starting_class": "Thief",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 50.0,
+      "Mag": 0.0,
+      "Skl": 30.0,
+      "Spd": 50.0,
+      "Luck": 40.0,
+      "Def": 10.0,
+      "Res": 2.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "6",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Marth or Julian"
+  },
+  {
+    "name": "Athena",
+    "game": "Shadow Dragon",
+    "starting_class": "Myrmidon",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 75.0,
+      "Str": 25.0,
+      "Mag": 0.0,
+      "Skl": 40.0,
+      "Spd": 50.0,
+      "Luck": 25.0,
+      "Def": 10.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "6x",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Visit the village with Marth"
+  },
+  {
+    "name": "Bantu",
+    "game": "Shadow Dragon",
+    "starting_class": "Manakete",
+    "weapon_types": [
+      "Dragonstone"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 20.0,
+      "Mag": 10.0,
+      "Skl": 20.0,
+      "Spd": 10.0,
+      "Luck": 10.0,
+      "Def": 10.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Mag",
+      "Skl",
+      "Spd",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "7",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Visit the village with Marth"
+  },
+  {
+    "name": "Caesar",
+    "game": "Shadow Dragon",
+    "starting_class": "Mercenary",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 40.0,
+      "Mag": 0.0,
+      "Skl": 35.0,
+      "Spd": 45.0,
+      "Luck": 20.0,
+      "Def": 15.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "8",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Radd",
+    "game": "Shadow Dragon",
+    "starting_class": "Myrmidon",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 40.0,
+      "Mag": 0.0,
+      "Skl": 35.0,
+      "Spd": 45.0,
+      "Luck": 40.0,
+      "Def": 20.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "8",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Roger",
+    "game": "Shadow Dragon",
+    "starting_class": "Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 50.0,
+      "Mag": 0.0,
+      "Skl": 30.0,
+      "Spd": 10.0,
+      "Luck": 80.0,
+      "Def": 30.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Spd",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Luck"
+    ],
+    "chapter_joined": "8",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Shiida"
+  },
+  {
+    "name": "Jeorge",
+    "game": "Shadow Dragon",
+    "starting_class": "Sniper",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 20.0,
+      "Mag": 0.0,
+      "Skl": 50.0,
+      "Spd": 40.0,
+      "Luck": 20.0,
+      "Def": 10.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Mag",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "9",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Visit the village with Marth"
+  },
+  {
+    "name": "Maria",
+    "game": "Shadow Dragon",
+    "starting_class": "Cleric",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 15.0,
+      "Str": 0.0,
+      "Mag": 20.0,
+      "Skl": 25.0,
+      "Spd": 25.0,
+      "Luck": 75.0,
+      "Def": 0.0,
+      "Res": 50.0
+    },
+    "low_growth_stats": [
+      "HP",
+      "Str",
+      "Mag",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": "10",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Marth"
+  },
+  {
+    "name": "Minerva",
+    "game": "Shadow Dragon",
+    "starting_class": "Dracoknight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 35.0,
+      "Mag": 0.0,
+      "Skl": 50.0,
+      "Spd": 35.0,
+      "Luck": 40.0,
+      "Def": 30.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "10",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Marth *3"
+  },
+  {
+    "name": "Linde",
+    "game": "Shadow Dragon",
+    "starting_class": "Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 0.0,
+      "Mag": 50.0,
+      "Skl": 40.0,
+      "Spd": 35.0,
+      "Luck": 60.0,
+      "Def": 0.0,
+      "Res": 15.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": "11",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Visit the village with Marth"
+  },
+  {
+    "name": "Jake",
+    "game": "Shadow Dragon",
+    "starting_class": "Ballistician",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 30.0,
+      "Mag": 0.0,
+      "Skl": 50.0,
+      "Spd": 20.0,
+      "Luck": 50.0,
+      "Def": 20.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Spd",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "11",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Shiida *4"
+  },
+  {
+    "name": "Midia",
+    "game": "Shadow Dragon",
+    "starting_class": "Paladin",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 30.0,
+      "Mag": 0.0,
+      "Skl": 50.0,
+      "Spd": 50.0,
+      "Luck": 10.0,
+      "Def": 20.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "12",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Dolph",
+    "game": "Shadow Dragon",
+    "starting_class": "Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 30.0,
+      "Mag": 0.0,
+      "Skl": 40.0,
+      "Spd": 30.0,
+      "Luck": 10.0,
+      "Def": 45.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "12",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Macellan",
+    "game": "Shadow Dragon",
+    "starting_class": "Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 35.0,
+      "Mag": 0.0,
+      "Skl": 25.0,
+      "Spd": 25.0,
+      "Luck": 30.0,
+      "Def": 30.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "12",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Tomas",
+    "game": "Shadow Dragon",
+    "starting_class": "Archer",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 65.0,
+      "Str": 25.0,
+      "Mag": 0.0,
+      "Skl": 30.0,
+      "Spd": 50.0,
+      "Luck": 25.0,
+      "Def": 10.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "12",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Boah",
+    "game": "Shadow Dragon",
+    "starting_class": "Bishop",
+    "weapon_types": [
+      "Staff",
+      "Tome"
+    ],
+    "growths": {
+      "HP": 10.0,
+      "Str": 0.0,
+      "Mag": 20.0,
+      "Skl": 20.0,
+      "Spd": 20.0,
+      "Luck": 20.0,
+      "Def": 0.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "HP",
+      "Str",
+      "Mag",
+      "Skl",
+      "Spd",
+      "Luck",
+      "Def"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "12",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Horace",
+    "game": "Shadow Dragon",
+    "starting_class": "General",
+    "weapon_types": [
+      "Lance",
+      "Axe",
+      "Sword"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 15.0,
+      "Mag": 0.0,
+      "Skl": 35.0,
+      "Spd": 10.0,
+      "Luck": 15.0,
+      "Def": 35.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Mag",
+      "Spd",
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "12x",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Clear the chapter without killing him"
+  },
+  {
+    "name": "Beck",
+    "game": "Shadow Dragon",
+    "starting_class": "Ballistician",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 25.0,
+      "Mag": 0.0,
+      "Skl": 30.0,
+      "Spd": 40.0,
+      "Luck": 35.0,
+      "Def": 25.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "13",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Visit the village with Marth"
+  },
+  {
+    "name": "Astram",
+    "game": "Shadow Dragon",
+    "starting_class": "Hero",
+    "weapon_types": [
+      "Sword",
+      "Axe"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 50.0,
+      "Mag": 0.0,
+      "Skl": 40.0,
+      "Spd": 20.0,
+      "Luck": 50.0,
+      "Def": 10.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Spd",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "13",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Midia"
+  },
+  {
+    "name": "Palla",
+    "game": "Shadow Dragon",
+    "starting_class": "Pegasus Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 55.0,
+      "Mag": 0.0,
+      "Skl": 70.0,
+      "Spd": 25.0,
+      "Luck": 10.0,
+      "Def": 25.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Skl"
+    ],
+    "chapter_joined": "14",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Marth"
+  },
+  {
+    "name": "Catria",
+    "game": "Shadow Dragon",
+    "starting_class": "Pegasus Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 45.0,
+      "Mag": 0.0,
+      "Skl": 80.0,
+      "Spd": 65.0,
+      "Luck": 40.0,
+      "Def": 25.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Skl",
+      "Spd"
+    ],
+    "chapter_joined": "14",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Marth"
+  },
+  {
+    "name": "Arran",
+    "game": "Shadow Dragon",
+    "starting_class": "Paladin",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 50.0,
+      "Mag": 0.0,
+      "Skl": 30.0,
+      "Spd": 40.0,
+      "Luck": 40.0,
+      "Def": 15.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "16",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Visit the village to the left with Marth *5"
+  },
+  {
+    "name": "Samson",
+    "game": "Shadow Dragon",
+    "starting_class": "Hero",
+    "weapon_types": [
+      "Sword",
+      "Axe"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 35.0,
+      "Mag": 0.0,
+      "Skl": 25.0,
+      "Spd": 25.0,
+      "Luck": 55.0,
+      "Def": 15.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "16",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Visit the village to the right with Marth *5"
+  },
+  {
+    "name": "Xane",
+    "game": "Shadow Dragon",
+    "starting_class": "Chameleon",
+    "weapon_types": [
+      "Dragonstone"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 30.0,
+      "Mag": 0.0,
+      "Skl": 30.0,
+      "Spd": 30.0,
+      "Luck": 20.0,
+      "Def": 15.0,
+      "Res": 2.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "16",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Marth"
+  },
+  {
+    "name": "Etzel",
+    "game": "Shadow Dragon",
+    "starting_class": "Sorcerer",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 0.0,
+      "Mag": 30.0,
+      "Skl": 40.0,
+      "Spd": 40.0,
+      "Luck": 20.0,
+      "Def": 0.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Luck",
+      "Def"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "17x",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Clear the chapter without killing him"
+  },
+  {
+    "name": "Est",
+    "game": "Shadow Dragon",
+    "starting_class": "Pegasus Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 55.0,
+      "Mag": 0.0,
+      "Skl": 60.0,
+      "Spd": 55.0,
+      "Luck": 50.0,
+      "Def": 20.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Skl"
+    ],
+    "chapter_joined": "18",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Marth"
+  },
+  {
+    "name": "Tiki",
+    "game": "Shadow Dragon",
+    "starting_class": "Manakete",
+    "weapon_types": [
+      "Dragonstone"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 50.0,
+      "Mag": 10.0,
+      "Skl": 80.0,
+      "Spd": 80.0,
+      "Luck": 90.0,
+      "Def": 20.0,
+      "Res": 2.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Skl",
+      "Spd",
+      "Luck"
+    ],
+    "chapter_joined": "19",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Bantu"
+  },
+  {
+    "name": "Lorenz",
+    "game": "Shadow Dragon",
+    "starting_class": "General",
+    "weapon_types": [
+      "Lance",
+      "Axe",
+      "Sword"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 50.0,
+      "Mag": 0.0,
+      "Skl": 70.0,
+      "Spd": 20.0,
+      "Luck": 40.0,
+      "Def": 30.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Spd",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Skl"
+    ],
+    "chapter_joined": "20",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Marth or Shiida"
+  },
+  {
+    "name": "Ymir",
+    "game": "Shadow Dragon",
+    "starting_class": "Warrior",
+    "weapon_types": [
+      "Axe",
+      "Bow"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 50.0,
+      "Mag": 0.0,
+      "Skl": 25.0,
+      "Spd": 30.0,
+      "Luck": 25.0,
+      "Def": 10.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "20x",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Talk with Marth and complete the chapter"
+  },
+  {
+    "name": "Elice",
+    "game": "Shadow Dragon",
+    "starting_class": "Cleric",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 0.0,
+      "Mag": 30.0,
+      "Skl": 50.0,
+      "Spd": 60.0,
+      "Luck": 80.0,
+      "Def": 0.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Spd",
+      "Luck"
+    ],
+    "chapter_joined": "24",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Nagi",
+    "game": "Shadow Dragon",
+    "starting_class": "Manakete",
+    "weapon_types": [
+      "Dragonstone"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 50.0,
+      "Mag": 10.0,
+      "Skl": 80.0,
+      "Spd": 80.0,
+      "Luck": 90.0,
+      "Def": 20.0,
+      "Res": 2.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Skl",
+      "Spd",
+      "Luck"
+    ],
+    "chapter_joined": "24x",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Clear the chapter"
+  },
+  {
+    "name": "Gotoh",
+    "game": "Shadow Dragon",
+    "starting_class": "Sage",
+    "weapon_types": [
+      "Tome",
+      "Staff"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 0.0,
+      "Mag": 20.0,
+      "Skl": 50.0,
+      "Spd": 60.0,
+      "Luck": 80.0,
+      "Def": 0.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Mag",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Spd",
+      "Luck"
+    ],
+    "chapter_joined": "Final",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start *6"
+  }
+]

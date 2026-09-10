@@ -1,0 +1,1765 @@
+[
+  {
+    "name": "Marth",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Lord",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 50.0,
+      "Mag": null,
+      "Skl": 40.0,
+      "Spd": 50.0,
+      "Luck": 70.0,
+      "Def": 20.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Luck"
+    ],
+    "chapter_joined": 1,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Sheeda",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Pegasus Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 20.0,
+      "Mag": null,
+      "Skl": 70.0,
+      "Spd": 90.0,
+      "Luck": 70.0,
+      "Def": 20.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Skl",
+      "Spd",
+      "Luck"
+    ],
+    "chapter_joined": 1,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Jeigan",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Paladin",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 10.0,
+      "Str": 10.0,
+      "Mag": null,
+      "Skl": 10.0,
+      "Spd": 10.0,
+      "Luck": 0.0,
+      "Def": 0.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "HP",
+      "Str",
+      "Skl",
+      "Spd",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": 1,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Kain",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Social Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 30.0,
+      "Mag": null,
+      "Skl": 60.0,
+      "Spd": 60.0,
+      "Luck": 50.0,
+      "Def": 20.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Skl",
+      "Spd"
+    ],
+    "chapter_joined": 1,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Abel",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Social Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 40.0,
+      "Mag": null,
+      "Skl": 50.0,
+      "Spd": 50.0,
+      "Luck": 40.0,
+      "Def": 20.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": 1,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Doga",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Armour Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 20.0,
+      "Mag": null,
+      "Skl": 40.0,
+      "Spd": 40.0,
+      "Luck": 20.0,
+      "Def": 10.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": 1,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Gordon",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Archer",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 30.0,
+      "Mag": null,
+      "Skl": 30.0,
+      "Spd": 30.0,
+      "Luck": 40.0,
+      "Def": 10.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": 1,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Oguma",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Mercenary",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 40.0,
+      "Mag": null,
+      "Skl": 20.0,
+      "Spd": 30.0,
+      "Luck": 40.0,
+      "Def": 30.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Skl",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": 2,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Barts",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Fighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 50.0,
+      "Mag": null,
+      "Skl": 50.0,
+      "Spd": 50.0,
+      "Luck": 70.0,
+      "Def": 50.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Luck"
+    ],
+    "chapter_joined": 2,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Saji",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Fighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 50.0,
+      "Mag": null,
+      "Skl": 50.0,
+      "Spd": 10.0,
+      "Luck": 30.0,
+      "Def": 50.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Spd",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": 2,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Maji",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Fighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 10.0,
+      "Str": 30.0,
+      "Mag": null,
+      "Skl": 20.0,
+      "Spd": 40.0,
+      "Luck": 40.0,
+      "Def": 40.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "HP",
+      "Skl",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": 2,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Kashim",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Hunter",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 60.0,
+      "Mag": null,
+      "Skl": 40.0,
+      "Spd": 40.0,
+      "Luck": 20.0,
+      "Def": 20.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str"
+    ],
+    "chapter_joined": 2,
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Sheeda"
+  },
+  {
+    "name": "Julian",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Thief",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 70.0,
+      "Mag": null,
+      "Skl": 50.0,
+      "Spd": 50.0,
+      "Luck": 80.0,
+      "Def": 30.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str",
+      "Luck"
+    ],
+    "chapter_joined": 3,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Rena",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Sister",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 10.0,
+      "Str": 20.0,
+      "Mag": null,
+      "Skl": 40.0,
+      "Spd": 20.0,
+      "Luck": 70.0,
+      "Def": 10.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "HP",
+      "Str",
+      "Spd",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": 3,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Navarre",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Mercenary",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 50.0,
+      "Mag": null,
+      "Skl": 40.0,
+      "Spd": 50.0,
+      "Luck": 60.0,
+      "Def": 20.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Luck"
+    ],
+    "chapter_joined": 3,
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Sheeda"
+  },
+  {
+    "name": "Hardin",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Social Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 30.0,
+      "Mag": null,
+      "Skl": 50.0,
+      "Spd": 60.0,
+      "Luck": 30.0,
+      "Def": 20.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Spd"
+    ],
+    "chapter_joined": 4,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Wolf",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Horsemen",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 40.0,
+      "Mag": null,
+      "Skl": 10.0,
+      "Spd": 20.0,
+      "Luck": 50.0,
+      "Def": 20.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Skl",
+      "Spd",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": 4,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Zagaro",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Horsemen",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 30.0,
+      "Mag": null,
+      "Skl": 20.0,
+      "Spd": 10.0,
+      "Luck": 10.0,
+      "Def": 20.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Skl",
+      "Spd",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": 4,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Roshe",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Social Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 40.0,
+      "Mag": null,
+      "Skl": 50.0,
+      "Spd": 40.0,
+      "Luck": 50.0,
+      "Def": 30.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": 4,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Biraku",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Social Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 30.0,
+      "Mag": null,
+      "Skl": 10.0,
+      "Spd": 20.0,
+      "Luck": 10.0,
+      "Def": 10.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Skl",
+      "Spd",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": 4,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Machis",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Social Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 40.0,
+      "Mag": null,
+      "Skl": 30.0,
+      "Spd": 20.0,
+      "Luck": 20.0,
+      "Def": 20.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Spd",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": 4,
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Rena"
+  },
+  {
+    "name": "Marich",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 20.0,
+      "Mag": null,
+      "Skl": 30.0,
+      "Spd": 50.0,
+      "Luck": 50.0,
+      "Def": 20.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": 4,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Visit the northern village"
+  },
+  {
+    "name": "Ricardo",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Thief",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 50.0,
+      "Mag": null,
+      "Skl": 20.0,
+      "Spd": 60.0,
+      "Luck": 40.0,
+      "Def": 20.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Skl",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Spd"
+    ],
+    "chapter_joined": 5,
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Julian or Marth"
+  },
+  {
+    "name": "Wendel",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Bishop",
+    "weapon_types": [
+      "Staff",
+      "Tome"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 10.0,
+      "Mag": null,
+      "Skl": 30.0,
+      "Spd": 20.0,
+      "Luck": 40.0,
+      "Def": 10.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Spd",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": 5,
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Marich or Marth"
+  },
+  {
+    "name": "Banutu",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Mamkute",
+    "weapon_types": [
+      "Dragonstone"
+    ],
+    "growths": {
+      "HP": 10.0,
+      "Str": 0.0,
+      "Mag": null,
+      "Skl": 0.0,
+      "Spd": 0.0,
+      "Luck": 10.0,
+      "Def": 0.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "HP",
+      "Str",
+      "Skl",
+      "Spd",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": 6,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Visit the village"
+  },
+  {
+    "name": "Caesar",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Mercenary",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 30.0,
+      "Mag": null,
+      "Skl": 30.0,
+      "Spd": 20.0,
+      "Luck": 10.0,
+      "Def": 10.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Spd",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": 7,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Raddy",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Mercenary",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 50.0,
+      "Mag": null,
+      "Skl": 40.0,
+      "Spd": 70.0,
+      "Luck": 40.0,
+      "Def": 20.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Spd"
+    ],
+    "chapter_joined": 7,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Maria",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Sister",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 10.0,
+      "Str": 10.0,
+      "Mag": null,
+      "Skl": 10.0,
+      "Spd": 30.0,
+      "Luck": 30.0,
+      "Def": 0.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "HP",
+      "Str",
+      "Skl",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": 8,
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Marth"
+  },
+  {
+    "name": "Minerva",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Dragon Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 30.0,
+      "Mag": null,
+      "Skl": 50.0,
+      "Spd": 40.0,
+      "Luck": 40.0,
+      "Def": 20.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": 8,
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Marth or let her talk to Marth (must have Maria)"
+  },
+  {
+    "name": "Linda",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 20.0,
+      "Mag": null,
+      "Skl": 70.0,
+      "Spd": 60.0,
+      "Luck": 80.0,
+      "Def": 10.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Skl",
+      "Spd",
+      "Luck"
+    ],
+    "chapter_joined": 9,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Visit the southern village"
+  },
+  {
+    "name": "George",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Sniper",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 20.0,
+      "Mag": null,
+      "Skl": 10.0,
+      "Spd": 20.0,
+      "Luck": 10.0,
+      "Def": 10.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Skl",
+      "Spd",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": 9,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Visit the northern village"
+  },
+  {
+    "name": "Midia",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Paladin",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 30.0,
+      "Mag": null,
+      "Skl": 50.0,
+      "Spd": 50.0,
+      "Luck": 10.0,
+      "Def": 20.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": 10,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Tomth",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Armour Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 30.0,
+      "Mag": null,
+      "Skl": 40.0,
+      "Spd": 30.0,
+      "Luck": 10.0,
+      "Def": 20.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": 10,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Mishelan",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Armour Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 30.0,
+      "Mag": null,
+      "Skl": 10.0,
+      "Spd": 20.0,
+      "Luck": 10.0,
+      "Def": 10.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Skl",
+      "Spd",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": 10,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Thomas",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Archer",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 20.0,
+      "Mag": null,
+      "Skl": 20.0,
+      "Spd": 30.0,
+      "Luck": 10.0,
+      "Def": 10.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Skl",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": 10,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Boa",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Bishop",
+    "weapon_types": [
+      "Staff",
+      "Tome"
+    ],
+    "growths": {
+      "HP": 10.0,
+      "Str": 10.0,
+      "Mag": null,
+      "Skl": 10.0,
+      "Spd": 10.0,
+      "Luck": 10.0,
+      "Def": 10.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "HP",
+      "Str",
+      "Skl",
+      "Spd",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": 10,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Paola",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Pegasus Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 50.0,
+      "Mag": null,
+      "Skl": 80.0,
+      "Spd": 20.0,
+      "Luck": 10.0,
+      "Def": 30.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Spd",
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Skl"
+    ],
+    "chapter_joined": 11,
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, let her talk to Marth (must have Minerva)"
+  },
+  {
+    "name": "Katua",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Pegasus Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 40.0,
+      "Mag": null,
+      "Skl": 80.0,
+      "Spd": 80.0,
+      "Luck": 40.0,
+      "Def": 30.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Skl",
+      "Spd"
+    ],
+    "chapter_joined": 11,
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, let her talk to Marth (must have Minerva)"
+  },
+  {
+    "name": "Astria",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Hero",
+    "weapon_types": [
+      "Sword",
+      "Axe"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 50.0,
+      "Mag": null,
+      "Skl": 40.0,
+      "Spd": 20.0,
+      "Luck": 50.0,
+      "Def": 10.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Spd",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": 11,
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Midia"
+  },
+  {
+    "name": "Alan",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Paladin",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 50.0,
+      "Mag": null,
+      "Skl": 30.0,
+      "Spd": 40.0,
+      "Luck": 40.0,
+      "Def": 10.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": 13,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Visit the western village (cannot get Samson)"
+  },
+  {
+    "name": "Samson",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Hero",
+    "weapon_types": [
+      "Sword",
+      "Axe"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 30.0,
+      "Mag": null,
+      "Skl": 10.0,
+      "Spd": 20.0,
+      "Luck": 50.0,
+      "Def": 20.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Skl",
+      "Spd",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": 13,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Visit the eastern village (cannot get Alan)"
+  },
+  {
+    "name": "Chainy",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Commando",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 30.0,
+      "Mag": null,
+      "Skl": 10.0,
+      "Spd": 40.0,
+      "Luck": 30.0,
+      "Def": 20.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Skl",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": 13,
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Marth or let him talk to Marth"
+  },
+  {
+    "name": "Chiki",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Mamkute",
+    "weapon_types": [
+      "Dragonstone"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 50.0,
+      "Mag": null,
+      "Skl": 90.0,
+      "Spd": 90.0,
+      "Luck": 90.0,
+      "Def": 0.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Skl",
+      "Spd",
+      "Luck"
+    ],
+    "chapter_joined": 15,
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Banutu"
+  },
+  {
+    "name": "Est",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Pegasus Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 70.0,
+      "Mag": null,
+      "Skl": 70.0,
+      "Spd": 70.0,
+      "Luck": 60.0,
+      "Def": 20.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Str",
+      "Skl",
+      "Spd",
+      "Luck"
+    ],
+    "chapter_joined": 16,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Visit the village"
+  },
+  {
+    "name": "Lawrence",
+    "game": "Mystery of the Emblem",
+    "starting_class": "General",
+    "weapon_types": [
+      "Lance",
+      "Axe",
+      "Sword"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 50.0,
+      "Mag": null,
+      "Skl": 70.0,
+      "Spd": 20.0,
+      "Luck": 50.0,
+      "Def": 20.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Spd",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Skl"
+    ],
+    "chapter_joined": 16,
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Sheeda"
+  },
+  {
+    "name": "Ellis",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Sister",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 10.0,
+      "Mag": null,
+      "Skl": 50.0,
+      "Spd": 60.0,
+      "Luck": 80.0,
+      "Def": 10.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Spd",
+      "Luck"
+    ],
+    "chapter_joined": 19,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Cecil",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Social Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 30.0,
+      "Mag": null,
+      "Skl": 60.0,
+      "Spd": 60.0,
+      "Luck": 30.0,
+      "Def": 10.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Skl",
+      "Spd"
+    ],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Luke",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Social Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 30.0,
+      "Mag": null,
+      "Skl": 30.0,
+      "Spd": 40.0,
+      "Luck": 10.0,
+      "Def": 20.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Rody",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Social Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 40.0,
+      "Mag": null,
+      "Skl": 50.0,
+      "Spd": 50.0,
+      "Luck": 40.0,
+      "Def": 20.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Ryan",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Archer",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 40.0,
+      "Mag": null,
+      "Skl": 70.0,
+      "Spd": 40.0,
+      "Luck": 30.0,
+      "Def": 20.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Skl"
+    ],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Malliesia",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Sister",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 30.0,
+      "Mag": null,
+      "Skl": 20.0,
+      "Spd": 50.0,
+      "Luck": 30.0,
+      "Def": 10.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Skl",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Visit the village"
+  },
+  {
+    "name": "Warren",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Hunter",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 50.0,
+      "Mag": null,
+      "Skl": 50.0,
+      "Spd": 10.0,
+      "Luck": 20.0,
+      "Def": 20.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Spd",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk wtih Katua"
+  },
+  {
+    "name": "Yumina",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Sister",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 30.0,
+      "Str": 20.0,
+      "Mag": null,
+      "Skl": 30.0,
+      "Spd": 40.0,
+      "Luck": 40.0,
+      "Def": 10.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "4",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Yubello",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 50.0,
+      "Mag": null,
+      "Skl": 30.0,
+      "Spd": 40.0,
+      "Luck": 40.0,
+      "Def": 10.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "4",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Sirius",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Paladin",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 50.0,
+      "Mag": null,
+      "Skl": 50.0,
+      "Spd": 40.0,
+      "Luck": 30.0,
+      "Def": 30.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "4",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Oguma or let him talk to Oguma"
+  },
+  {
+    "name": "Samto",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Mercenary",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 20.0,
+      "Mag": null,
+      "Skl": 20.0,
+      "Spd": 60.0,
+      "Luck": 10.0,
+      "Def": 10.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Skl",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Spd"
+    ],
+    "chapter_joined": "6",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Oguma or Sheeda"
+  },
+  {
+    "name": "Feena",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Dancer",
+    "weapon_types": [],
+    "growths": {
+      "HP": 40.0,
+      "Str": 60.0,
+      "Mag": null,
+      "Skl": 70.0,
+      "Spd": 80.0,
+      "Luck": 70.0,
+      "Def": 20.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Str",
+      "Skl",
+      "Spd",
+      "Luck"
+    ],
+    "chapter_joined": "7",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Ellerean",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 10.0,
+      "Mag": null,
+      "Skl": 30.0,
+      "Spd": 40.0,
+      "Luck": 10.0,
+      "Def": 30.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "10",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Wendel"
+  },
+  {
+    "name": "Sheema",
+    "game": "Mystery of the Emblem",
+    "starting_class": "General",
+    "weapon_types": [
+      "Lance",
+      "Axe",
+      "Sword"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 60.0,
+      "Mag": null,
+      "Skl": 70.0,
+      "Spd": 50.0,
+      "Luck": 60.0,
+      "Def": 20.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str",
+      "Skl",
+      "Luck"
+    ],
+    "chapter_joined": "17",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Marth if Samson and all the Gra soldiers survived"
+  },
+  {
+    "name": "Nina",
+    "game": "Mystery of the Emblem",
+    "starting_class": "Bishop",
+    "weapon_types": [
+      "Staff",
+      "Tome"
+    ],
+    "growths": {
+      "HP": 10.0,
+      "Str": 10.0,
+      "Mag": null,
+      "Skl": 10.0,
+      "Spd": 10.0,
+      "Luck": 10.0,
+      "Def": 10.0,
+      "Res": 3.0
+    },
+    "low_growth_stats": [
+      "HP",
+      "Str",
+      "Skl",
+      "Spd",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "F2-3",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Sirius"
+  }
+]

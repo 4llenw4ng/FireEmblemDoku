@@ -1,0 +1,1470 @@
+[
+  {
+    "name": "Leaf",
+    "game": "Thracia 776",
+    "starting_class": "Lord",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 35.0,
+      "Mag": 10.0,
+      "Skl": 35.0,
+      "Spd": 40.0,
+      "Luck": 40.0,
+      "Def": 25.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Fin",
+    "game": "Thracia 776",
+    "starting_class": "Lance Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 35.0,
+      "Mag": 5.0,
+      "Skl": 30.0,
+      "Spd": 35.0,
+      "Luck": 45.0,
+      "Def": 30.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Evayle",
+    "game": "Thracia 776",
+    "starting_class": "Swordmaster",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 30.0,
+      "Str": 15.0,
+      "Mag": 10.0,
+      "Skl": 15.0,
+      "Spd": 10.0,
+      "Luck": 25.0,
+      "Def": 5.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Str",
+      "Mag",
+      "Skl",
+      "Spd",
+      "Def"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Halvan",
+    "game": "Thracia 776",
+    "starting_class": "Axe Fighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 40.0,
+      "Mag": 5.0,
+      "Skl": 20.0,
+      "Spd": 30.0,
+      "Luck": 30.0,
+      "Def": 30.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Skl"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Othin",
+    "game": "Thracia 776",
+    "starting_class": "Axe Fighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 85.0,
+      "Str": 30.0,
+      "Mag": 5.0,
+      "Skl": 25.0,
+      "Spd": 35.0,
+      "Luck": 55.0,
+      "Def": 25.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Dagda",
+    "game": "Thracia 776",
+    "starting_class": "Warrior",
+    "weapon_types": [
+      "Axe",
+      "Bow"
+    ],
+    "growths": {
+      "HP": 15.0,
+      "Str": 10.0,
+      "Mag": 5.0,
+      "Skl": 10.0,
+      "Spd": 10.0,
+      "Luck": 30.0,
+      "Def": 10.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "HP",
+      "Str",
+      "Mag",
+      "Skl",
+      "Spd",
+      "Def"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Tania",
+    "game": "Thracia 776",
+    "starting_class": "Bow Fighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 35.0,
+      "Mag": 15.0,
+      "Skl": 55.0,
+      "Spd": 70.0,
+      "Luck": 60.0,
+      "Def": 15.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Spd",
+      "Luck"
+    ],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Marty",
+    "game": "Thracia 776",
+    "starting_class": "Mountain Thief",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 15.0,
+      "Mag": 5.0,
+      "Skl": 10.0,
+      "Spd": 15.0,
+      "Luck": 50.0,
+      "Def": 40.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Str",
+      "Mag",
+      "Skl",
+      "Spd"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Ronan",
+    "game": "Thracia 776",
+    "starting_class": "Bow Fighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 15.0,
+      "Mag": 55.0,
+      "Skl": 45.0,
+      "Spd": 55.0,
+      "Luck": 20.0,
+      "Def": 5.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Str",
+      "Luck",
+      "Def"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Rifis",
+    "game": "Thracia 776",
+    "starting_class": "Thief",
+    "weapon_types": [
+      "Sword"
+    ],
+    "chapter_joined": "3",
+    "is_recruitable_enemy": false,
+    "recruit_note": "",
+    "growths": {
+      "HP": null,
+      "Str": null,
+      "Mag": null,
+      "Skl": null,
+      "Spd": null,
+      "Luck": null,
+      "Def": null,
+      "Res": null
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": []
+  },
+  {
+    "name": "Safy",
+    "game": "Thracia 776",
+    "starting_class": "Priest",
+    "weapon_types": [
+      "Staff"
+    ],
+    "chapter_joined": "3",
+    "is_recruitable_enemy": false,
+    "recruit_note": "",
+    "growths": {
+      "HP": null,
+      "Str": null,
+      "Mag": null,
+      "Skl": null,
+      "Spd": null,
+      "Luck": null,
+      "Def": null,
+      "Res": null
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": []
+  },
+  {
+    "name": "Brighton",
+    "game": "Thracia 776",
+    "starting_class": "Axe Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 30.0,
+      "Mag": 5.0,
+      "Skl": 25.0,
+      "Spd": 30.0,
+      "Luck": 15.0,
+      "Def": 35.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Luck"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "4",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Machua",
+    "game": "Thracia 776",
+    "starting_class": "Swordfighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 30.0,
+      "Mag": 10.0,
+      "Skl": 55.0,
+      "Spd": 60.0,
+      "Luck": 35.0,
+      "Def": 25.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Spd"
+    ],
+    "chapter_joined": "4",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Lara",
+    "game": "Thracia 776",
+    "starting_class": "Thief",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 10.0,
+      "Mag": 10.0,
+      "Skl": 50.0,
+      "Spd": 70.0,
+      "Luck": 60.0,
+      "Def": 20.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Str",
+      "Mag",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Spd",
+      "Luck"
+    ],
+    "chapter_joined": "4",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Felgus",
+    "game": "Thracia 776",
+    "starting_class": "Free Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 65.0,
+      "Str": 35.0,
+      "Mag": 10.0,
+      "Skl": 45.0,
+      "Spd": 35.0,
+      "Luck": 40.0,
+      "Def": 25.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "4",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Karin",
+    "game": "Thracia 776",
+    "starting_class": "Pegasus Rider",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 55.0,
+      "Str": 30.0,
+      "Mag": 15.0,
+      "Skl": 35.0,
+      "Spd": 70.0,
+      "Luck": 70.0,
+      "Def": 15.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Spd",
+      "Luck"
+    ],
+    "chapter_joined": "4",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Dalsin",
+    "game": "Thracia 776",
+    "starting_class": "Axe Armour",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 50.0,
+      "Mag": 5.0,
+      "Skl": 40.0,
+      "Spd": 25.0,
+      "Luck": 25.0,
+      "Def": 20.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "4",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Asvel",
+    "game": "Thracia 776",
+    "starting_class": "Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 55.0,
+      "Str": 10.0,
+      "Mag": 35.0,
+      "Skl": 55.0,
+      "Spd": 75.0,
+      "Luck": 35.0,
+      "Def": 10.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Str",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Spd"
+    ],
+    "chapter_joined": "4x",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Nanna",
+    "game": "Thracia 776",
+    "starting_class": "Troubadour",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 25.0,
+      "Mag": 10.0,
+      "Skl": 40.0,
+      "Spd": 35.0,
+      "Luck": 55.0,
+      "Def": 15.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "5",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Hicks",
+    "game": "Thracia 776",
+    "starting_class": "Axe Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 35.0,
+      "Mag": 5.0,
+      "Skl": 40.0,
+      "Spd": 30.0,
+      "Luck": 55.0,
+      "Def": 30.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "6",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Shiva",
+    "game": "Thracia 776",
+    "starting_class": "Swordfighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 45.0,
+      "Mag": 5.0,
+      "Skl": 50.0,
+      "Spd": 35.0,
+      "Luck": 60.0,
+      "Def": 30.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Luck"
+    ],
+    "chapter_joined": "7",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Carrion",
+    "game": "Thracia 776",
+    "starting_class": "Social Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 75.0,
+      "Str": 40.0,
+      "Mag": 10.0,
+      "Skl": 65.0,
+      "Spd": 45.0,
+      "Luck": 55.0,
+      "Def": 25.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Skl"
+    ],
+    "chapter_joined": "8",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Selphina",
+    "game": "Thracia 776",
+    "starting_class": "Arch Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 25.0,
+      "Mag": 10.0,
+      "Skl": 40.0,
+      "Spd": 35.0,
+      "Luck": 55.0,
+      "Def": 15.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "9",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Kein",
+    "game": "Thracia 776",
+    "starting_class": "Lance Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 75.0,
+      "Str": 55.0,
+      "Mag": 5.0,
+      "Skl": 40.0,
+      "Spd": 35.0,
+      "Luck": 50.0,
+      "Def": 35.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "9",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Alva",
+    "game": "Thracia 776",
+    "starting_class": "Lance Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 40.0,
+      "Mag": 10.0,
+      "Skl": 45.0,
+      "Spd": 50.0,
+      "Luck": 65.0,
+      "Def": 30.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Luck"
+    ],
+    "chapter_joined": "9",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Robert",
+    "game": "Thracia 776",
+    "starting_class": "Arch Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 65.0,
+      "Str": 45.0,
+      "Mag": 10.0,
+      "Skl": 50.0,
+      "Spd": 60.0,
+      "Luck": 70.0,
+      "Def": 25.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Spd",
+      "Luck"
+    ],
+    "chapter_joined": "9",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Fred",
+    "game": "Thracia 776",
+    "starting_class": "Paladin",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 75.0,
+      "Str": 60.0,
+      "Mag": 15.0,
+      "Skl": 40.0,
+      "Spd": 35.0,
+      "Luck": 25.0,
+      "Def": 35.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str"
+    ],
+    "chapter_joined": "11x",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Olwen",
+    "game": "Thracia 776",
+    "starting_class": "Mage Knight",
+    "weapon_types": [
+      "Tome",
+      "Staff"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 40.0,
+      "Mag": 45.0,
+      "Skl": 55.0,
+      "Spd": 50.0,
+      "Luck": 70.0,
+      "Def": 15.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": "11x",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Mareeta",
+    "game": "Thracia 776",
+    "starting_class": "Swordfighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 65.0,
+      "Str": 60.0,
+      "Mag": 15.0,
+      "Skl": 75.0,
+      "Spd": 80.0,
+      "Luck": 60.0,
+      "Def": 20.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str",
+      "Skl",
+      "Spd",
+      "Luck"
+    ],
+    "chapter_joined": "12",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Salem",
+    "game": "Thracia 776",
+    "starting_class": "Loputo Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 5.0,
+      "Mag": 30.0,
+      "Skl": 45.0,
+      "Spd": 40.0,
+      "Luck": 10.0,
+      "Def": 15.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Str",
+      "Luck",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "12x",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Pahn",
+    "game": "Thracia 776",
+    "starting_class": "Thief Fighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 65.0,
+      "Str": 40.0,
+      "Mag": 10.0,
+      "Skl": 45.0,
+      "Spd": 65.0,
+      "Luck": 70.0,
+      "Def": 25.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Spd",
+      "Luck"
+    ],
+    "chapter_joined": "12x",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Tina",
+    "game": "Thracia 776",
+    "starting_class": "Priest",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 3.0,
+      "Mag": 50.0,
+      "Skl": 25.0,
+      "Spd": 65.0,
+      "Luck": 90.0,
+      "Def": 5.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Str",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Spd",
+      "Luck"
+    ],
+    "chapter_joined": "12x",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Trewd",
+    "game": "Thracia 776",
+    "starting_class": "Swordfighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 35.0,
+      "Mag": 5.0,
+      "Skl": 45.0,
+      "Spd": 35.0,
+      "Luck": 60.0,
+      "Def": 30.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Luck"
+    ],
+    "chapter_joined": "12x",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Glade",
+    "game": "Thracia 776",
+    "starting_class": "Duke Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 45.0,
+      "Mag": 5.0,
+      "Skl": 35.0,
+      "Spd": 35.0,
+      "Luck": 35.0,
+      "Def": 30.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "13",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Dean",
+    "game": "Thracia 776",
+    "starting_class": "Dragon Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 75.0,
+      "Str": 55.0,
+      "Mag": 5.0,
+      "Skl": 50.0,
+      "Spd": 30.0,
+      "Luck": 40.0,
+      "Def": 30.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "14",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Eda",
+    "game": "Thracia 776",
+    "starting_class": "Dragon Rider",
+    "weapon_types": [
+      "Dragonstone"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 40.0,
+      "Mag": 20.0,
+      "Skl": 35.0,
+      "Spd": 60.0,
+      "Luck": 30.0,
+      "Def": 20.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Spd"
+    ],
+    "chapter_joined": "14",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Homeros",
+    "game": "Thracia 776",
+    "starting_class": "Bard",
+    "weapon_types": [],
+    "growths": {
+      "HP": 65.0,
+      "Str": 0.0,
+      "Mag": 40.0,
+      "Skl": 70.0,
+      "Spd": 70.0,
+      "Luck": 55.0,
+      "Def": 15.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Str",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Skl",
+      "Spd"
+    ],
+    "chapter_joined": "14",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Linoan",
+    "game": "Thracia 776",
+    "starting_class": "Sister",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 3.0,
+      "Mag": 45.0,
+      "Skl": 60.0,
+      "Spd": 55.0,
+      "Luck": 55.0,
+      "Def": 10.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Str",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Skl"
+    ],
+    "chapter_joined": "14x / 15",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Ralph",
+    "game": "Thracia 776",
+    "starting_class": "Mercenary",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 35.0,
+      "Mag": 5.0,
+      "Skl": 30.0,
+      "Spd": 20.0,
+      "Luck": 15.0,
+      "Def": 35.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Spd",
+      "Luck"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "15",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Eyrios",
+    "game": "Thracia 776",
+    "starting_class": "Mage Knight",
+    "weapon_types": [
+      "Tome",
+      "Staff"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 40.0,
+      "Mag": 45.0,
+      "Skl": 55.0,
+      "Spd": 50.0,
+      "Luck": 70.0,
+      "Def": 15.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": "16A",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Sleuf",
+    "game": "Thracia 776",
+    "starting_class": "Priest",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 35.0,
+      "Str": 3.0,
+      "Mag": 40.0,
+      "Skl": 75.0,
+      "Spd": 45.0,
+      "Luck": 25.0,
+      "Def": 10.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Str",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Skl"
+    ],
+    "chapter_joined": "16A",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Sara",
+    "game": "Thracia 776",
+    "starting_class": "Sister",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 0.0,
+      "Mag": 80.0,
+      "Skl": 80.0,
+      "Spd": 80.0,
+      "Luck": 40.0,
+      "Def": 10.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Str",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Mag",
+      "Skl",
+      "Spd"
+    ],
+    "chapter_joined": "17A / 16B",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Miranda",
+    "game": "Thracia 776",
+    "starting_class": "Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 5.0,
+      "Mag": 70.0,
+      "Skl": 55.0,
+      "Spd": 70.0,
+      "Luck": 35.0,
+      "Def": 15.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Str",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Mag",
+      "Spd"
+    ],
+    "chapter_joined": "16B",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Shanam",
+    "game": "Thracia 776",
+    "starting_class": "Swordmaster",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 50.0,
+      "Mag": 5.0,
+      "Skl": 5.0,
+      "Spd": 50.0,
+      "Luck": 50.0,
+      "Def": 5.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Skl",
+      "Def"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "16B",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Misha",
+    "game": "Thracia 776",
+    "starting_class": "Pegasus Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 65.0,
+      "Str": 55.0,
+      "Mag": 15.0,
+      "Skl": 65.0,
+      "Spd": 80.0,
+      "Luck": 40.0,
+      "Def": 20.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Skl",
+      "Spd"
+    ],
+    "chapter_joined": "17A",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Xavier",
+    "game": "Thracia 776",
+    "starting_class": "General",
+    "weapon_types": [
+      "Lance",
+      "Axe",
+      "Sword"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 40.0,
+      "Mag": 45.0,
+      "Skl": 55.0,
+      "Spd": 50.0,
+      "Luck": 70.0,
+      "Def": 15.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": "18",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Amalda",
+    "game": "Thracia 776",
+    "starting_class": "Paladin",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 55.0,
+      "Mag": 15.0,
+      "Skl": 50.0,
+      "Spd": 45.0,
+      "Luck": 60.0,
+      "Def": 25.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Luck"
+    ],
+    "chapter_joined": "19",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Conomore",
+    "game": "Thracia 776",
+    "starting_class": "Paladin",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 60.0,
+      "Mag": 5.0,
+      "Skl": 35.0,
+      "Spd": 50.0,
+      "Luck": 20.0,
+      "Def": 20.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Luck",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str"
+    ],
+    "chapter_joined": "19",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Delmud",
+    "game": "Thracia 776",
+    "starting_class": "Forrest Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 40.0,
+      "Mag": 15.0,
+      "Skl": 65.0,
+      "Spd": 45.0,
+      "Luck": 65.0,
+      "Def": 30.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Skl",
+      "Luck"
+    ],
+    "chapter_joined": "21",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Cyas",
+    "game": "Thracia 776",
+    "starting_class": "High Priest",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 0.0,
+      "Mag": 35.0,
+      "Skl": 40.0,
+      "Spd": 40.0,
+      "Luck": 55.0,
+      "Def": 15.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Str",
+      "Def"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "23",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Sety",
+    "game": "Thracia 776",
+    "starting_class": "Sage",
+    "weapon_types": [
+      "Tome",
+      "Staff"
+    ],
+    "growths": {
+      "HP": 75.0,
+      "Str": 10.0,
+      "Mag": 75.0,
+      "Skl": 75.0,
+      "Spd": 80.0,
+      "Luck": 65.0,
+      "Def": 20.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Str",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Mag",
+      "Skl",
+      "Spd",
+      "Luck"
+    ],
+    "chapter_joined": "23",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  },
+  {
+    "name": "Galzus",
+    "game": "Thracia 776",
+    "starting_class": "Mercenary",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 40.0,
+      "Mag": 45.0,
+      "Skl": 55.0,
+      "Spd": 50.0,
+      "Luck": 70.0,
+      "Def": 15.0,
+      "Res": null
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": "24",
+    "is_recruitable_enemy": false,
+    "recruit_note": ""
+  }
+]

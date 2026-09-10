@@ -1,0 +1,1553 @@
+[
+  {
+    "name": "Roy",
+    "game": "Binding Blade",
+    "starting_class": "Lord",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 50.0,
+      "Spd": 40.0,
+      "Luck": 60.0,
+      "Def": 25.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "HP",
+      "Luck"
+    ],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Marcus",
+    "game": "Binding Blade",
+    "starting_class": "Paladin",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 25.0,
+      "Mag": 25.0,
+      "Skl": 20.0,
+      "Spd": 25.0,
+      "Luck": 20.0,
+      "Def": 15.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Skl",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Allen",
+    "game": "Binding Blade",
+    "starting_class": "Cavalier",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 85.0,
+      "Str": 45.0,
+      "Mag": 45.0,
+      "Skl": 40.0,
+      "Spd": 45.0,
+      "Luck": 40.0,
+      "Def": 25.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Lance",
+    "game": "Binding Blade",
+    "starting_class": "Cavalier",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 45.0,
+      "Spd": 50.0,
+      "Luck": 35.0,
+      "Def": 20.0,
+      "Res": 15.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Wolt",
+    "game": "Binding Blade",
+    "starting_class": "Archer",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 50.0,
+      "Spd": 40.0,
+      "Luck": 40.0,
+      "Def": 20.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Bors",
+    "game": "Binding Blade",
+    "starting_class": "Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 30.0,
+      "Mag": 30.0,
+      "Skl": 30.0,
+      "Spd": 40.0,
+      "Luck": 50.0,
+      "Def": 35.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Merlinus",
+    "game": "Binding Blade",
+    "starting_class": "Transporter",
+    "weapon_types": [],
+    "growths": {
+      "HP": 100.0,
+      "Str": 0.0,
+      "Mag": 0.0,
+      "Skl": 50.0,
+      "Spd": 50.0,
+      "Luck": 100.0,
+      "Def": 20.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Mag",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Luck"
+    ],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Ellen",
+    "game": "Binding Blade",
+    "starting_class": "Priest",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 50.0,
+      "Mag": 50.0,
+      "Skl": 30.0,
+      "Spd": 20.0,
+      "Luck": 70.0,
+      "Def": 5.0,
+      "Res": 60.0
+    },
+    "low_growth_stats": [
+      "Spd",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Luck",
+      "Res"
+    ],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Dieck",
+    "game": "Binding Blade",
+    "starting_class": "Mercenary",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 40.0,
+      "Spd": 30.0,
+      "Luck": 35.0,
+      "Def": 20.0,
+      "Res": 15.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from Turn 2"
+  },
+  {
+    "name": "Wade",
+    "game": "Binding Blade",
+    "starting_class": "Fighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 75.0,
+      "Str": 50.0,
+      "Mag": 50.0,
+      "Skl": 45.0,
+      "Spd": 20.0,
+      "Luck": 45.0,
+      "Def": 30.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Spd",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from Turn 2"
+  },
+  {
+    "name": "Lott",
+    "game": "Binding Blade",
+    "starting_class": "Fighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 30.0,
+      "Mag": 30.0,
+      "Skl": 30.0,
+      "Spd": 35.0,
+      "Luck": 30.0,
+      "Def": 40.0,
+      "Res": 15.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from Turn 2"
+  },
+  {
+    "name": "Thany",
+    "game": "Binding Blade",
+    "starting_class": "Pegasus Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 30.0,
+      "Mag": 30.0,
+      "Skl": 55.0,
+      "Spd": 60.0,
+      "Luck": 60.0,
+      "Def": 10.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Spd",
+      "Luck"
+    ],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from Turn 2"
+  },
+  {
+    "name": "Chad",
+    "game": "Binding Blade",
+    "starting_class": "Thief",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 85.0,
+      "Str": 50.0,
+      "Mag": 50.0,
+      "Skl": 50.0,
+      "Spd": 80.0,
+      "Luck": 60.0,
+      "Def": 25.0,
+      "Res": 15.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Spd",
+      "Luck"
+    ],
+    "chapter_joined": "3",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Lugh",
+    "game": "Binding Blade",
+    "starting_class": "Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 50.0,
+      "Spd": 50.0,
+      "Luck": 35.0,
+      "Def": 15.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "3",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Visit the north west village"
+  },
+  {
+    "name": "Clarine",
+    "game": "Binding Blade",
+    "starting_class": "Troubadour",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 30.0,
+      "Mag": 30.0,
+      "Skl": 40.0,
+      "Spd": 50.0,
+      "Luck": 65.0,
+      "Def": 10.0,
+      "Res": 40.0
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": "4",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Appears as an NPC from Turn 4, let her talk to Roy"
+  },
+  {
+    "name": "Rutger",
+    "game": "Binding Blade",
+    "starting_class": "Myrmidon",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 30.0,
+      "Mag": 30.0,
+      "Skl": 60.0,
+      "Spd": 50.0,
+      "Luck": 30.0,
+      "Def": 20.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Skl"
+    ],
+    "chapter_joined": "4",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Appears as an enemy from Turn 6, talk with Clarine"
+  },
+  {
+    "name": "Saul",
+    "game": "Binding Blade",
+    "starting_class": "Priest",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 45.0,
+      "Spd": 45.0,
+      "Luck": 15.0,
+      "Def": 15.0,
+      "Res": 50.0
+    },
+    "low_growth_stats": [
+      "Luck",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "6",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Dorothy",
+    "game": "Binding Blade",
+    "starting_class": "Archer",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 85.0,
+      "Str": 50.0,
+      "Mag": 50.0,
+      "Skl": 45.0,
+      "Spd": 45.0,
+      "Luck": 35.0,
+      "Def": 15.0,
+      "Res": 15.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "6",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Sue",
+    "game": "Binding Blade",
+    "starting_class": "Nomad",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 55.0,
+      "Str": 30.0,
+      "Mag": 30.0,
+      "Skl": 55.0,
+      "Spd": 65.0,
+      "Luck": 50.0,
+      "Def": 10.0,
+      "Res": 15.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Spd"
+    ],
+    "chapter_joined": "6",
+    "is_recruitable_enemy": false,
+    "recruit_note": "NPC, talk with Roy"
+  },
+  {
+    "name": "Zealot",
+    "game": "Binding Blade",
+    "starting_class": "Paladin",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 75.0,
+      "Str": 25.0,
+      "Mag": 25.0,
+      "Skl": 20.0,
+      "Spd": 20.0,
+      "Luck": 15.0,
+      "Def": 30.0,
+      "Res": 15.0
+    },
+    "low_growth_stats": [
+      "Skl",
+      "Spd",
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "7",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Appears as an NPC from Turn 2, talk with Roy, Noah or Treck"
+  },
+  {
+    "name": "Treck",
+    "game": "Binding Blade",
+    "starting_class": "Cavalier",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 85.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 30.0,
+      "Spd": 35.0,
+      "Luck": 50.0,
+      "Def": 30.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "7",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Appears as an NPC from Turn 2, talk with Roy or Zealot"
+  },
+  {
+    "name": "Noah",
+    "game": "Binding Blade",
+    "starting_class": "Cavalier",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 75.0,
+      "Str": 30.0,
+      "Mag": 30.0,
+      "Skl": 45.0,
+      "Spd": 30.0,
+      "Luck": 40.0,
+      "Def": 30.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "7",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Appears as an NPC from Turn 3, talk with Roy or Zealot"
+  },
+  {
+    "name": "Astohl",
+    "game": "Binding Blade",
+    "starting_class": "Thief",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 35.0,
+      "Mag": 35.0,
+      "Skl": 40.0,
+      "Spd": 50.0,
+      "Luck": 15.0,
+      "Def": 20.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "8",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Lilina",
+    "game": "Binding Blade",
+    "starting_class": "Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 75.0,
+      "Mag": 75.0,
+      "Skl": 20.0,
+      "Spd": 35.0,
+      "Luck": 50.0,
+      "Def": 10.0,
+      "Res": 35.0
+    },
+    "low_growth_stats": [
+      "Skl",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Str",
+      "Mag"
+    ],
+    "chapter_joined": "8",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Wendy",
+    "game": "Binding Blade",
+    "starting_class": "Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 85.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 40.0,
+      "Spd": 40.0,
+      "Luck": 45.0,
+      "Def": 30.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "8",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from Turn 6"
+  },
+  {
+    "name": "Barth",
+    "game": "Binding Blade",
+    "starting_class": "Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 100.0,
+      "Str": 60.0,
+      "Mag": 60.0,
+      "Skl": 25.0,
+      "Spd": 20.0,
+      "Luck": 20.0,
+      "Def": 40.0,
+      "Res": 2.0
+    },
+    "low_growth_stats": [
+      "Spd",
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str",
+      "Mag"
+    ],
+    "chapter_joined": "8",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from Turn 6"
+  },
+  {
+    "name": "Oujay",
+    "game": "Binding Blade",
+    "starting_class": "Mercenary",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 85.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 30.0,
+      "Spd": 45.0,
+      "Luck": 55.0,
+      "Def": 20.0,
+      "Res": 15.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "8",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from Turn 6"
+  },
+  {
+    "name": "Fir",
+    "game": "Binding Blade",
+    "starting_class": "Myrmidon",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 75.0,
+      "Str": 25.0,
+      "Mag": 25.0,
+      "Skl": 50.0,
+      "Spd": 55.0,
+      "Luck": 50.0,
+      "Def": 15.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "9",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Appears as an enemy from Turn 2, talk with Noah"
+  },
+  {
+    "name": "Shin",
+    "game": "Binding Blade",
+    "starting_class": "Nomad",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 75.0,
+      "Str": 45.0,
+      "Mag": 45.0,
+      "Skl": 50.0,
+      "Spd": 50.0,
+      "Luck": 25.0,
+      "Def": 10.0,
+      "Res": 15.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "9",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Appears as an enemy from Turn 2, talk with Sue"
+  },
+  {
+    "name": "Gonzales",
+    "game": "Binding Blade",
+    "starting_class": "Bandit",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 60.0,
+      "Mag": 60.0,
+      "Skl": 15.0,
+      "Spd": 50.0,
+      "Luck": 35.0,
+      "Def": 25.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Skl",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str",
+      "Mag"
+    ],
+    "chapter_joined": "10A / 10B",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Appears as an enemy from Turn 6, talk with Lilina"
+  },
+  {
+    "name": "Geese",
+    "game": "Binding Blade",
+    "starting_class": "Pirate",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 85.0,
+      "Str": 50.0,
+      "Mag": 50.0,
+      "Skl": 30.0,
+      "Spd": 40.0,
+      "Luck": 40.0,
+      "Def": 20.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "10A / 11B",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Appears as an NPC from Turn 5 (A) / Turn 6 (B), talk with Roy"
+  },
+  {
+    "name": "Klein",
+    "game": "Binding Blade",
+    "starting_class": "Sniper",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 35.0,
+      "Mag": 35.0,
+      "Skl": 40.0,
+      "Spd": 45.0,
+      "Luck": 50.0,
+      "Def": 15.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "10B / 11A",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Appears as an enemy from Turn 5 (A) / Turn 8 (B), talk with Roy or Clarine"
+  },
+  {
+    "name": "Tate",
+    "game": "Binding Blade",
+    "starting_class": "Pegasus Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 45.0,
+      "Spd": 55.0,
+      "Luck": 40.0,
+      "Def": 15.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "10B / 11A",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Appears as an enemy from Turn 7 (A) / Turn 10 (B), talk with Klein (or talk with Thany before and after Klein has been recruited (note that if you only talk with Thany after recruiting Klein, Tate will just become an NPC))"
+  },
+  {
+    "name": "Lalum",
+    "game": "Binding Blade",
+    "starting_class": "Dancer",
+    "weapon_types": [],
+    "growths": {
+      "HP": 70.0,
+      "Str": 10.0,
+      "Mag": 10.0,
+      "Skl": 5.0,
+      "Spd": 70.0,
+      "Luck": 80.0,
+      "Def": 20.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Mag",
+      "Skl",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Spd",
+      "Luck"
+    ],
+    "chapter_joined": "11A",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Echidna",
+    "game": "Binding Blade",
+    "starting_class": "Hero",
+    "weapon_types": [
+      "Sword",
+      "Axe"
+    ],
+    "growths": {
+      "HP": 75.0,
+      "Str": 30.0,
+      "Mag": 30.0,
+      "Skl": 25.0,
+      "Spd": 30.0,
+      "Luck": 20.0,
+      "Def": 15.0,
+      "Res": 15.0
+    },
+    "low_growth_stats": [
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "11A",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Appears as an NPC from Turn 8, talk with Lalum"
+  },
+  {
+    "name": "Elphin",
+    "game": "Binding Blade",
+    "starting_class": "Bard",
+    "weapon_types": [],
+    "growths": {
+      "HP": 80.0,
+      "Str": 5.0,
+      "Mag": 5.0,
+      "Skl": 5.0,
+      "Spd": 65.0,
+      "Luck": 65.0,
+      "Def": 25.0,
+      "Res": 55.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Mag",
+      "Skl"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Spd",
+      "Luck"
+    ],
+    "chapter_joined": "11B",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Bartre",
+    "game": "Binding Blade",
+    "starting_class": "Warrior",
+    "weapon_types": [
+      "Axe",
+      "Bow"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 20.0,
+      "Spd": 30.0,
+      "Luck": 20.0,
+      "Def": 20.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Skl",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "11B",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Appears as an NPC from Turn 9, talk with Roy or Fir"
+  },
+  {
+    "name": "Ray",
+    "game": "Binding Blade",
+    "starting_class": "Shaman",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 55.0,
+      "Str": 45.0,
+      "Mag": 45.0,
+      "Skl": 55.0,
+      "Spd": 40.0,
+      "Luck": 15.0,
+      "Def": 15.0,
+      "Res": 35.0
+    },
+    "low_growth_stats": [
+      "Luck",
+      "Def"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "12",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Chad or Lugh"
+  },
+  {
+    "name": "Cath",
+    "game": "Binding Blade",
+    "starting_class": "Thief",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 45.0,
+      "Spd": 85.0,
+      "Luck": 50.0,
+      "Def": 15.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Spd"
+    ],
+    "chapter_joined": "12 / 16 / 20 / 22",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Roy three times and she\u2019ll join during the third time. She appears in Chapters 6 (Turn 5), 8 (Turn 10), 12 (Turn 7), 16 (Turn 10), 20 (Turn 10) and 22 (Turn 15)"
+  },
+  {
+    "name": "Miredy",
+    "game": "Binding Blade",
+    "starting_class": "Wyvern Rider",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 75.0,
+      "Str": 50.0,
+      "Mag": 50.0,
+      "Skl": 50.0,
+      "Spd": 45.0,
+      "Luck": 25.0,
+      "Def": 20.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "13",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from Turn 3"
+  },
+  {
+    "name": "Percival",
+    "game": "Binding Blade",
+    "starting_class": "Paladin",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 75.0,
+      "Str": 30.0,
+      "Mag": 30.0,
+      "Skl": 25.0,
+      "Spd": 35.0,
+      "Luck": 20.0,
+      "Def": 20.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "13 / 15",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Lalum or Elphin (in Chapter 13, he automatically leaves at the end of Turn 8)"
+  },
+  {
+    "name": "Cecilia",
+    "game": "Binding Blade",
+    "starting_class": "Valkyria",
+    "weapon_types": [
+      "Staff",
+      "Tome"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 35.0,
+      "Mag": 35.0,
+      "Skl": 45.0,
+      "Spd": 25.0,
+      "Luck": 25.0,
+      "Def": 20.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "14",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Sofiya",
+    "game": "Binding Blade",
+    "starting_class": "Shaman",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 55.0,
+      "Mag": 55.0,
+      "Skl": 40.0,
+      "Spd": 30.0,
+      "Luck": 20.0,
+      "Def": 20.0,
+      "Res": 55.0
+    },
+    "low_growth_stats": [
+      "Luck",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "14",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Igrene",
+    "game": "Binding Blade",
+    "starting_class": "Sniper",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 35.0,
+      "Mag": 35.0,
+      "Skl": 25.0,
+      "Spd": 35.0,
+      "Luck": 20.0,
+      "Def": 10.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "15",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Garret",
+    "game": "Binding Blade",
+    "starting_class": "Berserker",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 45.0,
+      "Mag": 45.0,
+      "Skl": 25.0,
+      "Spd": 25.0,
+      "Luck": 15.0,
+      "Def": 15.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "15",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Appears as an enemy from Turn 3, talk with Lilina"
+  },
+  {
+    "name": "Fa",
+    "game": "Binding Blade",
+    "starting_class": "Mamkute",
+    "weapon_types": [
+      "Dragonstone"
+    ],
+    "growths": {
+      "HP": 130.0,
+      "Str": 90.0,
+      "Mag": 90.0,
+      "Skl": 85.0,
+      "Spd": 65.0,
+      "Luck": 150.0,
+      "Def": 30.0,
+      "Res": 50.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "HP",
+      "Str",
+      "Mag",
+      "Skl",
+      "Spd",
+      "Luck"
+    ],
+    "chapter_joined": "16",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start (appears in the battle preparations)"
+  },
+  {
+    "name": "Hugh",
+    "game": "Binding Blade",
+    "starting_class": "Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 75.0,
+      "Str": 30.0,
+      "Mag": 30.0,
+      "Skl": 30.0,
+      "Spd": 45.0,
+      "Luck": 25.0,
+      "Def": 20.0,
+      "Res": 15.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "16",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Roy and pay him 10,000G to 5,000G (the less money you pay him, the lower his stats are)"
+  },
+  {
+    "name": "Zeis",
+    "game": "Binding Blade",
+    "starting_class": "Wyvern Rider",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 60.0,
+      "Mag": 60.0,
+      "Skl": 50.0,
+      "Spd": 35.0,
+      "Luck": 20.0,
+      "Def": 25.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str",
+      "Mag"
+    ],
+    "chapter_joined": "16",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Appears as an enemy from Turn 2, talk with Miredy"
+  },
+  {
+    "name": "Douglas",
+    "game": "Binding Blade",
+    "starting_class": "General",
+    "weapon_types": [
+      "Lance",
+      "Axe",
+      "Sword"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 30.0,
+      "Mag": 30.0,
+      "Skl": 30.0,
+      "Spd": 30.0,
+      "Luck": 20.0,
+      "Def": 30.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "16x",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Niime",
+    "game": "Binding Blade",
+    "starting_class": "Druid",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 25.0,
+      "Str": 15.0,
+      "Mag": 15.0,
+      "Skl": 15.0,
+      "Spd": 15.0,
+      "Luck": 5.0,
+      "Def": 15.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Mag",
+      "Skl",
+      "Spd",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "19A / 20B",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Dayan",
+    "game": "Binding Blade",
+    "starting_class": "Nomadic Trooper",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 55.0,
+      "Str": 20.0,
+      "Mag": 20.0,
+      "Skl": 20.0,
+      "Spd": 15.0,
+      "Luck": 20.0,
+      "Def": 10.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Mag",
+      "Skl",
+      "Spd",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "20B",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Appears as an NPC from Turn 3, talk with Roy, Sue or Shin"
+  },
+  {
+    "name": "Juno",
+    "game": "Binding Blade",
+    "starting_class": "Falcon Knight",
+    "weapon_types": [
+      "Lance",
+      "Staff"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 20.0,
+      "Mag": 20.0,
+      "Skl": 35.0,
+      "Spd": 30.0,
+      "Luck": 45.0,
+      "Def": 10.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Mag",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "20A",
+    "is_recruitable_enemy": false,
+    "recruit_note": "NPC, talk with Thany, Tate or Zealot"
+  },
+  {
+    "name": "Yodel",
+    "game": "Binding Blade",
+    "starting_class": "Bishop",
+    "weapon_types": [
+      "Staff",
+      "Tome"
+    ],
+    "growths": {
+      "HP": 20.0,
+      "Str": 30.0,
+      "Mag": 30.0,
+      "Skl": 15.0,
+      "Spd": 10.0,
+      "Luck": 20.0,
+      "Def": 10.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "HP",
+      "Skl",
+      "Spd",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "21",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from the start"
+  },
+  {
+    "name": "Karel",
+    "game": "Binding Blade",
+    "starting_class": "Swordmaster",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 210.0,
+      "Str": 130.0,
+      "Mag": 130.0,
+      "Skl": 140.0,
+      "Spd": 140.0,
+      "Luck": 120.0,
+      "Def": 110.0,
+      "Res": 100.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "HP",
+      "Str",
+      "Mag",
+      "Skl",
+      "Spd",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "chapter_joined": "23",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Visit the village with Fir or Bartre"
+  }
+]

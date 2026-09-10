@@ -1,0 +1,1287 @@
+[
+  {
+    "name": "Avatar",
+    "game": "Awakening",
+    "starting_class": "Tactician",
+    "weapon_types": [
+      "Sword",
+      "Tome"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 40.0,
+      "Mag": 35.0,
+      "Skl": 35.0,
+      "Spd": 35.0,
+      "Luck": 55.0,
+      "Def": 30.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "Premonition / Prologue",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Chrom",
+    "game": "Awakening",
+    "starting_class": "Lord",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 40.0,
+      "Mag": 10.0,
+      "Skl": 40.0,
+      "Spd": 40.0,
+      "Luck": 70.0,
+      "Def": 35.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": "Premonition / Prologue",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Lissa",
+    "game": "Awakening",
+    "starting_class": "Cleric",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 35.0,
+      "Str": 25.0,
+      "Mag": 35.0,
+      "Skl": 30.0,
+      "Spd": 35.0,
+      "Luck": 65.0,
+      "Def": 15.0,
+      "Res": 35.0
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": "Prologue",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Frederick",
+    "game": "Awakening",
+    "starting_class": "Great Knight",
+    "weapon_types": [
+      "Sword",
+      "Lance",
+      "Axe"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 40.0,
+      "Mag": 10.0,
+      "Skl": 40.0,
+      "Spd": 35.0,
+      "Luck": 40.0,
+      "Def": 40.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "Prologue",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Sully",
+    "game": "Awakening",
+    "starting_class": "Cavalier",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 35.0,
+      "Mag": 20.0,
+      "Skl": 40.0,
+      "Spd": 40.0,
+      "Luck": 60.0,
+      "Def": 35.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from Turn 2"
+  },
+  {
+    "name": "Virion",
+    "game": "Awakening",
+    "starting_class": "Archer",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 35.0,
+      "Str": 40.0,
+      "Mag": 30.0,
+      "Skl": 40.0,
+      "Spd": 45.0,
+      "Luck": 40.0,
+      "Def": 25.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from Turn 2"
+  },
+  {
+    "name": "Stahl",
+    "game": "Awakening",
+    "starting_class": "Cavalier",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 45.0,
+      "Mag": 10.0,
+      "Skl": 35.0,
+      "Spd": 30.0,
+      "Luck": 50.0,
+      "Def": 50.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Vaike",
+    "game": "Awakening",
+    "starting_class": "Fighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 50.0,
+      "Mag": 10.0,
+      "Skl": 45.0,
+      "Spd": 35.0,
+      "Luck": 45.0,
+      "Def": 40.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Miriel",
+    "game": "Awakening",
+    "starting_class": "Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 35.0,
+      "Str": 15.0,
+      "Mag": 40.0,
+      "Skl": 40.0,
+      "Spd": 40.0,
+      "Luck": 50.0,
+      "Def": 20.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Def"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from Turn 2"
+  },
+  {
+    "name": "Sumia",
+    "game": "Awakening",
+    "starting_class": "Pegasus Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 35.0,
+      "Str": 30.0,
+      "Mag": 20.0,
+      "Skl": 45.0,
+      "Spd": 45.0,
+      "Luck": 60.0,
+      "Def": 25.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": "3",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Kellam",
+    "game": "Awakening",
+    "starting_class": "Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 40.0,
+      "Mag": 15.0,
+      "Skl": 40.0,
+      "Spd": 35.0,
+      "Luck": 35.0,
+      "Def": 55.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "3",
+    "is_recruitable_enemy": false,
+    "recruit_note": "NPC, talk with Chrom"
+  },
+  {
+    "name": "Donnel",
+    "game": "Awakening",
+    "starting_class": "Villager",
+    "weapon_types": [],
+    "growths": {
+      "HP": 50.0,
+      "Str": 45.0,
+      "Mag": 15.0,
+      "Skl": 40.0,
+      "Spd": 45.0,
+      "Luck": 80.0,
+      "Def": 35.0,
+      "Res": 15.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": "Paralogue 1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "End of chapter if he gained a Level"
+  },
+  {
+    "name": "Lon'qu",
+    "game": "Awakening",
+    "starting_class": "Myrmidon",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 35.0,
+      "Mag": 20.0,
+      "Skl": 50.0,
+      "Spd": 50.0,
+      "Luck": 55.0,
+      "Def": 25.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "4",
+    "is_recruitable_enemy": false,
+    "recruit_note": "End of chapter"
+  },
+  {
+    "name": "Ricken",
+    "game": "Awakening",
+    "starting_class": "Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 20.0,
+      "Mag": 35.0,
+      "Skl": 30.0,
+      "Spd": 30.0,
+      "Luck": 65.0,
+      "Def": 30.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Str"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": "5",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Maribelle",
+    "game": "Awakening",
+    "starting_class": "Troubadour",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 30.0,
+      "Str": 20.0,
+      "Mag": 40.0,
+      "Skl": 40.0,
+      "Spd": 30.0,
+      "Luck": 80.0,
+      "Def": 10.0,
+      "Res": 40.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": "5",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Panne",
+    "game": "Awakening",
+    "starting_class": "Taguel",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 45.0,
+      "Mag": 15.0,
+      "Skl": 50.0,
+      "Spd": 55.0,
+      "Luck": 40.0,
+      "Def": 40.0,
+      "Res": 15.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "6",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from Turn 2"
+  },
+  {
+    "name": "Gaius",
+    "game": "Awakening",
+    "starting_class": "Thief",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 45.0,
+      "Mag": 15.0,
+      "Skl": 45.0,
+      "Spd": 45.0,
+      "Luck": 35.0,
+      "Def": 25.0,
+      "Res": 15.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "6",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Chrom"
+  },
+  {
+    "name": "Cordelia",
+    "game": "Awakening",
+    "starting_class": "Pegasus Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 45.0,
+      "Mag": 15.0,
+      "Skl": 35.0,
+      "Spd": 35.0,
+      "Luck": 45.0,
+      "Def": 40.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "7",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from Turn 3"
+  },
+  {
+    "name": "Gregor",
+    "game": "Awakening",
+    "starting_class": "Mercenary",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 40.0,
+      "Mag": 10.0,
+      "Skl": 40.0,
+      "Spd": 30.0,
+      "Luck": 45.0,
+      "Def": 40.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "8",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Nowi",
+    "game": "Awakening",
+    "starting_class": "Manakete",
+    "weapon_types": [
+      "Dragonstone"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 45.0,
+      "Mag": 35.0,
+      "Skl": 30.0,
+      "Spd": 30.0,
+      "Luck": 65.0,
+      "Def": 50.0,
+      "Res": 35.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "HP",
+      "Luck"
+    ],
+    "chapter_joined": "8",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Libra",
+    "game": "Awakening",
+    "starting_class": "War Monk",
+    "weapon_types": [
+      "Staff",
+      "Fist"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 25.0,
+      "Mag": 35.0,
+      "Skl": 45.0,
+      "Spd": 35.0,
+      "Luck": 45.0,
+      "Def": 25.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [],
+    "chapter_joined": "9",
+    "is_recruitable_enemy": false,
+    "recruit_note": "NPC, talk with Chrom"
+  },
+  {
+    "name": "Tharja",
+    "game": "Awakening",
+    "starting_class": "Dark Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 25.0,
+      "Mag": 45.0,
+      "Skl": 25.0,
+      "Spd": 45.0,
+      "Luck": 40.0,
+      "Def": 35.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "9",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Chrom"
+  },
+  {
+    "name": "Anna",
+    "game": "Awakening",
+    "starting_class": "Trickster",
+    "weapon_types": [
+      "Sword",
+      "Staff"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 30.0,
+      "Mag": 30.0,
+      "Skl": 35.0,
+      "Spd": 35.0,
+      "Luck": 80.0,
+      "Def": 30.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": "Paralogue 4",
+    "is_recruitable_enemy": false,
+    "recruit_note": "NPC, talk with Chrom"
+  },
+  {
+    "name": "Olivia",
+    "game": "Awakening",
+    "starting_class": "Dancer",
+    "weapon_types": [],
+    "growths": {
+      "HP": 40.0,
+      "Str": 35.0,
+      "Mag": 25.0,
+      "Skl": 45.0,
+      "Spd": 45.0,
+      "Luck": 60.0,
+      "Def": 20.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": "11",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Cherche",
+    "game": "Awakening",
+    "starting_class": "Wyvern Rider",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 55.0,
+      "Str": 40.0,
+      "Mag": 20.0,
+      "Skl": 40.0,
+      "Spd": 35.0,
+      "Luck": 50.0,
+      "Def": 45.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "12",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Henry",
+    "game": "Awakening",
+    "starting_class": "Dark Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 35.0,
+      "Mag": 35.0,
+      "Skl": 45.0,
+      "Spd": 40.0,
+      "Luck": 40.0,
+      "Def": 40.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "13",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Say'ri",
+    "game": "Awakening",
+    "starting_class": "Swordmaster",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 35.0,
+      "Mag": 20.0,
+      "Skl": 40.0,
+      "Spd": 40.0,
+      "Luck": 45.0,
+      "Def": 35.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "15",
+    "is_recruitable_enemy": false,
+    "recruit_note": "NPC, talk with Chrom"
+  },
+  {
+    "name": "Tiki",
+    "game": "Awakening",
+    "starting_class": "Manakete",
+    "weapon_types": [
+      "Dragonstone"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 40.0,
+      "Mag": 40.0,
+      "Skl": 35.0,
+      "Spd": 30.0,
+      "Luck": 80.0,
+      "Def": 45.0,
+      "Res": 45.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "HP",
+      "Luck"
+    ],
+    "chapter_joined": "Paralogue 17",
+    "is_recruitable_enemy": false,
+    "recruit_note": "End of chapter"
+  },
+  {
+    "name": "Basilio",
+    "game": "Awakening",
+    "starting_class": "Warrior",
+    "weapon_types": [
+      "Axe",
+      "Bow"
+    ],
+    "growths": {
+      "HP": 65.0,
+      "Str": 45.0,
+      "Mag": 10.0,
+      "Skl": 40.0,
+      "Spd": 35.0,
+      "Luck": 45.0,
+      "Def": 40.0,
+      "Res": 15.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "23",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically after defeating Validar"
+  },
+  {
+    "name": "Flavia",
+    "game": "Awakening",
+    "starting_class": "Hero",
+    "weapon_types": [
+      "Sword",
+      "Axe"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 35.0,
+      "Mag": 20.0,
+      "Skl": 45.0,
+      "Spd": 45.0,
+      "Luck": 55.0,
+      "Def": 30.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "23",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically after defeating Validar"
+  },
+  {
+    "name": "Lucina",
+    "game": "Awakening",
+    "starting_class": "Lord",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 35.0,
+      "Mag": 20.0,
+      "Skl": 45.0,
+      "Spd": 45.0,
+      "Luck": 80.0,
+      "Def": 25.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": "13",
+    "is_recruitable_enemy": false,
+    "recruit_note": "End of chapter"
+  },
+  {
+    "name": "Owain",
+    "game": "Awakening",
+    "starting_class": "Myrmidon",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 40.0,
+      "Mag": 30.0,
+      "Skl": 45.0,
+      "Spd": 35.0,
+      "Luck": 50.0,
+      "Def": 30.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [],
+    "chapter_joined": "Paralogue 5",
+    "is_recruitable_enemy": false,
+    "recruit_note": "NPC, talk with Chrom or Lissa"
+  },
+  {
+    "name": "Inigo",
+    "game": "Awakening",
+    "starting_class": "Mercenary",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 35.0,
+      "Mag": 15.0,
+      "Skl": 35.0,
+      "Spd": 45.0,
+      "Luck": 65.0,
+      "Def": 30.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": "Paralogue 6",
+    "is_recruitable_enemy": false,
+    "recruit_note": "NPC, talk with Chrom or Olivia"
+  },
+  {
+    "name": "Brady",
+    "game": "Awakening",
+    "starting_class": "Priest",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 55.0,
+      "Str": 30.0,
+      "Mag": 40.0,
+      "Skl": 25.0,
+      "Spd": 30.0,
+      "Luck": 60.0,
+      "Def": 30.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": "Paralogue 7",
+    "is_recruitable_enemy": false,
+    "recruit_note": "NPC, talk with Chrom or Maribelle"
+  },
+  {
+    "name": "Kjelle",
+    "game": "Awakening",
+    "starting_class": "Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 35.0,
+      "Mag": 25.0,
+      "Skl": 40.0,
+      "Spd": 45.0,
+      "Luck": 55.0,
+      "Def": 40.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "Paralogue 8",
+    "is_recruitable_enemy": false,
+    "recruit_note": "NPC, talk with Chrom or Sully"
+  },
+  {
+    "name": "Cynthia",
+    "game": "Awakening",
+    "starting_class": "Pegasus Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 35.0,
+      "Mag": 20.0,
+      "Skl": 25.0,
+      "Spd": 45.0,
+      "Luck": 70.0,
+      "Def": 30.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": "Paralogue 9",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Chrom or Sumia"
+  },
+  {
+    "name": "Severa",
+    "game": "Awakening",
+    "starting_class": "Mercenary",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 40.0,
+      "Mag": 10.0,
+      "Skl": 45.0,
+      "Spd": 35.0,
+      "Luck": 35.0,
+      "Def": 40.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "Paralogue 10",
+    "is_recruitable_enemy": true,
+    "recruit_note": "NPC, let her talk to Holland, the enemy Villager"
+  },
+  {
+    "name": "Gerome",
+    "game": "Awakening",
+    "starting_class": "Wyvern Rider",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 65.0,
+      "Str": 50.0,
+      "Mag": 15.0,
+      "Skl": 40.0,
+      "Spd": 40.0,
+      "Luck": 30.0,
+      "Def": 40.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "Paralogue 11",
+    "is_recruitable_enemy": false,
+    "recruit_note": "NPC, talk with Chrom or Cherche"
+  },
+  {
+    "name": "Morgan",
+    "game": "Awakening",
+    "starting_class": "",
+    "weapon_types": [],
+    "growths": {
+      "HP": 35.0,
+      "Str": 35.0,
+      "Mag": 40.0,
+      "Skl": 40.0,
+      "Spd": 40.0,
+      "Luck": 50.0,
+      "Def": 25.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [],
+    "chapter_joined": "Paralogue 12",
+    "is_recruitable_enemy": false,
+    "recruit_note": "NPC, talk with Chrom or the Avatar"
+  },
+  {
+    "name": "Yarne",
+    "game": "Awakening",
+    "starting_class": "Taguel",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 50.0,
+      "Mag": 10.0,
+      "Skl": 45.0,
+      "Spd": 40.0,
+      "Luck": 60.0,
+      "Def": 45.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Luck"
+    ],
+    "chapter_joined": "Paralogue 13",
+    "is_recruitable_enemy": true,
+    "recruit_note": "NPC/enemy, talk with Chrom or Panne"
+  },
+  {
+    "name": "Laurent",
+    "game": "Awakening",
+    "starting_class": "Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 20.0,
+      "Mag": 40.0,
+      "Skl": 40.0,
+      "Spd": 30.0,
+      "Luck": 50.0,
+      "Def": 25.0,
+      "Res": 35.0
+    },
+    "low_growth_stats": [
+      "Str"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "Paralogue 14",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Have Chrom or Miriel visit the south-western village"
+  },
+  {
+    "name": "Noire",
+    "game": "Awakening",
+    "starting_class": "Archer",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 30.0,
+      "Str": 45.0,
+      "Mag": 40.0,
+      "Skl": 35.0,
+      "Spd": 50.0,
+      "Luck": 40.0,
+      "Def": 30.0,
+      "Res": 40.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [],
+    "chapter_joined": "Paralogue 15",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from Turn 2"
+  },
+  {
+    "name": "Nah",
+    "game": "Awakening",
+    "starting_class": "Manakete",
+    "weapon_types": [
+      "Dragonstone"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 35.0,
+      "Mag": 35.0,
+      "Skl": 45.0,
+      "Spd": 35.0,
+      "Luck": 70.0,
+      "Def": 45.0,
+      "Res": 40.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "HP",
+      "Luck"
+    ],
+    "chapter_joined": "Paralogue 16",
+    "is_recruitable_enemy": false,
+    "recruit_note": "NPC, talk with Chrom or Nowi"
+  },
+  {
+    "name": "Gangrel",
+    "game": "Awakening",
+    "starting_class": "Trickster",
+    "weapon_types": [
+      "Sword",
+      "Staff"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 40.0,
+      "Mag": 30.0,
+      "Skl": 50.0,
+      "Spd": 50.0,
+      "Luck": 30.0,
+      "Def": 30.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [],
+    "chapter_joined": "Paralogue 18",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Enemy, talk with Chrom 3 times"
+  },
+  {
+    "name": "Walhart",
+    "game": "Awakening",
+    "starting_class": "Conqueror",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 75.0,
+      "Str": 60.0,
+      "Mag": 10.0,
+      "Skl": 30.0,
+      "Spd": 30.0,
+      "Luck": 45.0,
+      "Def": 45.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str"
+    ],
+    "chapter_joined": "Paralogue 19",
+    "is_recruitable_enemy": false,
+    "recruit_note": "End of chapter, if Chrom fought him in this chapter"
+  },
+  {
+    "name": "Emmeryn",
+    "game": "Awakening",
+    "starting_class": "Sage",
+    "weapon_types": [
+      "Tome",
+      "Staff"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 10.0,
+      "Mag": 55.0,
+      "Skl": 40.0,
+      "Spd": 40.0,
+      "Luck": 70.0,
+      "Def": 25.0,
+      "Res": 35.0
+    },
+    "low_growth_stats": [
+      "Str"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": "Paralogue 20",
+    "is_recruitable_enemy": false,
+    "recruit_note": "End of chapter, if she survived this chapter"
+  },
+  {
+    "name": "Yen'fay",
+    "game": "Awakening",
+    "starting_class": "Swordmaster",
+    "weapon_types": [
+      "Sword"
+    ],
+    "chapter_joined": "Paralogue 21",
+    "is_recruitable_enemy": false,
+    "recruit_note": "NPC, talk with Say\u2019ri",
+    "growths": {
+      "HP": null,
+      "Str": null,
+      "Mag": null,
+      "Skl": null,
+      "Spd": null,
+      "Luck": null,
+      "Def": null,
+      "Res": null
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": []
+  },
+  {
+    "name": "Aversa",
+    "game": "Awakening",
+    "starting_class": "Dark Flier",
+    "weapon_types": [
+      "Tome",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 25.0,
+      "Mag": 45.0,
+      "Skl": 35.0,
+      "Spd": 40.0,
+      "Luck": 65.0,
+      "Def": 30.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": "Paralogue 22",
+    "is_recruitable_enemy": false,
+    "recruit_note": "End of chapter, if she (NPC version) survived this chapter"
+  },
+  {
+    "name": "Priam",
+    "game": "Awakening",
+    "starting_class": "Hero",
+    "weapon_types": [
+      "Sword",
+      "Axe"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 60.0,
+      "Mag": 10.0,
+      "Skl": 40.0,
+      "Spd": 30.0,
+      "Luck": 50.0,
+      "Def": 40.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str"
+    ],
+    "chapter_joined": "Paralogue 23",
+    "is_recruitable_enemy": false,
+    "recruit_note": "End of chapter"
+  }
+]

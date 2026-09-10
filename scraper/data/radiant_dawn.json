@@ -1,0 +1,2106 @@
+[
+  {
+    "name": "Micaiah",
+    "game": "Radiant Dawn",
+    "starting_class": "Light Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 15.0,
+      "Mag": 80.0,
+      "Skl": 40.0,
+      "Spd": 35.0,
+      "Luck": 80.0,
+      "Def": 20.0,
+      "Res": 90.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Mag",
+      "Luck",
+      "Res"
+    ],
+    "chapter_joined": "Prologue",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Edward",
+    "game": "Radiant Dawn",
+    "starting_class": "Myrmidon",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 85.0,
+      "Str": 60.0,
+      "Mag": 5.0,
+      "Skl": 65.0,
+      "Spd": 60.0,
+      "Luck": 50.0,
+      "Def": 35.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str",
+      "Skl",
+      "Spd"
+    ],
+    "chapter_joined": "Prologue",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Leonardo",
+    "game": "Radiant Dawn",
+    "starting_class": "Archer",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 40.0,
+      "Mag": 15.0,
+      "Skl": 75.0,
+      "Spd": 35.0,
+      "Luck": 65.0,
+      "Def": 35.0,
+      "Res": 55.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Skl",
+      "Luck"
+    ],
+    "chapter_joined": "Prologue",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from Turn 4"
+  },
+  {
+    "name": "Nolan",
+    "game": "Radiant Dawn",
+    "starting_class": "Fighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 45.0,
+      "Mag": 20.0,
+      "Skl": 70.0,
+      "Spd": 60.0,
+      "Luck": 60.0,
+      "Def": 35.0,
+      "Res": 40.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Skl",
+      "Spd",
+      "Luck"
+    ],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Laura",
+    "game": "Radiant Dawn",
+    "starting_class": "Priest",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 20.0,
+      "Mag": 70.0,
+      "Skl": 70.0,
+      "Spd": 70.0,
+      "Luck": 50.0,
+      "Def": 20.0,
+      "Res": 35.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Mag",
+      "Skl",
+      "Spd"
+    ],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Sothe",
+    "game": "Radiant Dawn",
+    "starting_class": "Rogue",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 30.0,
+      "Str": 60.0,
+      "Mag": 20.0,
+      "Skl": 80.0,
+      "Spd": 45.0,
+      "Luck": 65.0,
+      "Def": 20.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Str",
+      "Skl",
+      "Luck"
+    ],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically from Turn 2"
+  },
+  {
+    "name": "Ilyana",
+    "game": "Radiant Dawn",
+    "starting_class": "Thunder Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 55.0,
+      "Str": 45.0,
+      "Mag": 50.0,
+      "Skl": 60.0,
+      "Spd": 30.0,
+      "Luck": 40.0,
+      "Def": 30.0,
+      "Res": 50.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "Skl"
+    ],
+    "chapter_joined": "3",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Aran",
+    "game": "Radiant Dawn",
+    "starting_class": "Soldier",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 75.0,
+      "Mag": 10.0,
+      "Skl": 75.0,
+      "Spd": 35.0,
+      "Luck": 35.0,
+      "Def": 70.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "Str",
+      "Skl",
+      "Def"
+    ],
+    "chapter_joined": "3",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Talk with Laura"
+  },
+  {
+    "name": "Meg",
+    "game": "Radiant Dawn",
+    "starting_class": "Armor Sword",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 35.0,
+      "Mag": 15.0,
+      "Skl": 40.0,
+      "Spd": 65.0,
+      "Luck": 75.0,
+      "Def": 35.0,
+      "Res": 50.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Spd",
+      "Luck"
+    ],
+    "chapter_joined": "4",
+    "is_recruitable_enemy": false,
+    "recruit_note": "From base conversation"
+  },
+  {
+    "name": "Volug",
+    "game": "Radiant Dawn",
+    "starting_class": "Wolf",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 95.0,
+      "Str": 25.0,
+      "Mag": 15.0,
+      "Skl": 35.0,
+      "Spd": 40.0,
+      "Luck": 90.0,
+      "Def": 15.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Luck"
+    ],
+    "chapter_joined": "5",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Tauroneo",
+    "game": "Radiant Dawn",
+    "starting_class": "Lance General",
+    "weapon_types": [
+      "Lance",
+      "Axe",
+      "Sword"
+    ],
+    "growths": {
+      "HP": 55.0,
+      "Str": 40.0,
+      "Mag": 5.0,
+      "Skl": 65.0,
+      "Spd": 50.0,
+      "Luck": 20.0,
+      "Def": 45.0,
+      "Res": 50.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Luck"
+    ],
+    "high_growth_stats": [
+      "Skl"
+    ],
+    "chapter_joined": "6",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Jill",
+    "game": "Radiant Dawn",
+    "starting_class": "Dracoknight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 45.0,
+      "Mag": 15.0,
+      "Skl": 45.0,
+      "Spd": 65.0,
+      "Luck": 60.0,
+      "Def": 35.0,
+      "Res": 45.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "Spd",
+      "Luck"
+    ],
+    "chapter_joined": "6",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Zihark",
+    "game": "Radiant Dawn",
+    "starting_class": "Swordmaster",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 55.0,
+      "Str": 35.0,
+      "Mag": 10.0,
+      "Skl": 75.0,
+      "Spd": 70.0,
+      "Luck": 40.0,
+      "Def": 25.0,
+      "Res": 35.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "Skl",
+      "Spd"
+    ],
+    "chapter_joined": "6",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Fiona",
+    "game": "Radiant Dawn",
+    "starting_class": "Lance Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 40.0,
+      "Mag": 15.0,
+      "Skl": 40.0,
+      "Spd": 60.0,
+      "Luck": 55.0,
+      "Def": 55.0,
+      "Res": 50.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "Spd"
+    ],
+    "chapter_joined": "7",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically if she survived Chapter 6-2"
+  },
+  {
+    "name": "Tormod",
+    "game": "Radiant Dawn",
+    "starting_class": "Fire Sage",
+    "weapon_types": [
+      "Tome",
+      "Staff"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 55.0,
+      "Mag": 40.0,
+      "Skl": 45.0,
+      "Spd": 55.0,
+      "Luck": 25.0,
+      "Def": 35.0,
+      "Res": 45.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [],
+    "chapter_joined": "7",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Talk with Sothe"
+  },
+  {
+    "name": "Muarim",
+    "game": "Radiant Dawn",
+    "starting_class": "Tiger",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 55.0,
+      "Mag": 5.0,
+      "Skl": 45.0,
+      "Spd": 20.0,
+      "Luck": 55.0,
+      "Def": 35.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Spd"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "7",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically when Tormod is recruited"
+  },
+  {
+    "name": "Vika",
+    "game": "Radiant Dawn",
+    "starting_class": "Raven",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 25.0,
+      "Mag": 50.0,
+      "Skl": 60.0,
+      "Spd": 60.0,
+      "Luck": 65.0,
+      "Def": 15.0,
+      "Res": 65.0
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Skl",
+      "Spd",
+      "Luck",
+      "Res"
+    ],
+    "chapter_joined": "7",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically when Tormod is recruited"
+  },
+  {
+    "name": "Nailah",
+    "game": "Radiant Dawn",
+    "starting_class": "Wolf Queen",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 30.0,
+      "Mag": 15.0,
+      "Skl": 20.0,
+      "Spd": 20.0,
+      "Luck": 45.0,
+      "Def": 30.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Skl",
+      "Spd"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "8",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Rafiel",
+    "game": "Radiant Dawn",
+    "starting_class": "Heron",
+    "weapon_types": [
+      "Sword",
+      "Axe"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 0.0,
+      "Mag": 40.0,
+      "Skl": 10.0,
+      "Spd": 20.0,
+      "Luck": 60.0,
+      "Def": 10.0,
+      "Res": 50.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Skl",
+      "Spd",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Luck"
+    ],
+    "chapter_joined": "8",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Black Knight",
+    "game": "Radiant Dawn",
+    "starting_class": "Black Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 0.0,
+      "Str": 0.0,
+      "Mag": 0.0,
+      "Skl": 0.0,
+      "Spd": 0.0,
+      "Luck": 0.0,
+      "Def": 0.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "HP",
+      "Str",
+      "Mag",
+      "Skl",
+      "Spd",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "9",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Elincia",
+    "game": "Radiant Dawn",
+    "starting_class": "Queen",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 65.0,
+      "Mag": 40.0,
+      "Skl": 50.0,
+      "Spd": 70.0,
+      "Luck": 60.0,
+      "Def": 20.0,
+      "Res": 35.0
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Str",
+      "Spd",
+      "Luck"
+    ],
+    "chapter_joined": "Prologue",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Marcia",
+    "game": "Radiant Dawn",
+    "starting_class": "Falcon Knight",
+    "weapon_types": [
+      "Lance",
+      "Staff"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 30.0,
+      "Mag": 20.0,
+      "Skl": 40.0,
+      "Spd": 65.0,
+      "Luck": 50.0,
+      "Def": 35.0,
+      "Res": 35.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Spd"
+    ],
+    "chapter_joined": "Prologue",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Nealuchi",
+    "game": "Radiant Dawn",
+    "starting_class": "Raven",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 55.0,
+      "Str": 35.0,
+      "Mag": 10.0,
+      "Skl": 40.0,
+      "Spd": 40.0,
+      "Luck": 80.0,
+      "Def": 40.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": "Prologue",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Leanne",
+    "game": "Radiant Dawn",
+    "starting_class": "Heron",
+    "weapon_types": [
+      "Sword",
+      "Axe"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 0.0,
+      "Mag": 40.0,
+      "Skl": 10.0,
+      "Spd": 20.0,
+      "Luck": 80.0,
+      "Def": 10.0,
+      "Res": 40.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Skl",
+      "Spd",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Luck"
+    ],
+    "chapter_joined": "Prologue",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Haar",
+    "game": "Radiant Dawn",
+    "starting_class": "Dragonmaster",
+    "weapon_types": [
+      "Dragonstone"
+    ],
+    "growths": {
+      "HP": 30.0,
+      "Str": 70.0,
+      "Mag": 5.0,
+      "Skl": 70.0,
+      "Spd": 30.0,
+      "Luck": 45.0,
+      "Def": 65.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Str",
+      "Skl",
+      "Def"
+    ],
+    "chapter_joined": "Prologue",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Talk with Marcia"
+  },
+  {
+    "name": "Brom",
+    "game": "Radiant Dawn",
+    "starting_class": "Axe General",
+    "weapon_types": [
+      "Lance",
+      "Axe",
+      "Sword"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 40.0,
+      "Mag": 5.0,
+      "Skl": 40.0,
+      "Spd": 30.0,
+      "Luck": 70.0,
+      "Def": 60.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Luck",
+      "Def"
+    ],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Nephenee",
+    "game": "Radiant Dawn",
+    "starting_class": "Halberdier",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 45.0,
+      "Str": 35.0,
+      "Mag": 15.0,
+      "Skl": 70.0,
+      "Spd": 65.0,
+      "Luck": 40.0,
+      "Def": 35.0,
+      "Res": 45.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "Skl",
+      "Spd"
+    ],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Heather",
+    "game": "Radiant Dawn",
+    "starting_class": "Rogue",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 25.0,
+      "Mag": 20.0,
+      "Skl": 50.0,
+      "Spd": 70.0,
+      "Luck": 75.0,
+      "Def": 30.0,
+      "Res": 40.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "Spd",
+      "Luck"
+    ],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Talk with Brom or Nephenee"
+  },
+  {
+    "name": "Lucia",
+    "game": "Radiant Dawn",
+    "starting_class": "Swordmaster",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 25.0,
+      "Mag": 20.0,
+      "Skl": 70.0,
+      "Spd": 60.0,
+      "Luck": 30.0,
+      "Def": 15.0,
+      "Res": 50.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Skl",
+      "Spd"
+    ],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Lethe",
+    "game": "Radiant Dawn",
+    "starting_class": "Cat",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 85.0,
+      "Str": 35.0,
+      "Mag": 5.0,
+      "Skl": 30.0,
+      "Spd": 50.0,
+      "Luck": 45.0,
+      "Def": 35.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Mordecai",
+    "game": "Radiant Dawn",
+    "starting_class": "Tiger",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 35.0,
+      "Mag": 10.0,
+      "Skl": 25.0,
+      "Spd": 15.0,
+      "Luck": 80.0,
+      "Def": 45.0,
+      "Res": 15.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Spd",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Luck"
+    ],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Geoffrey",
+    "game": "Radiant Dawn",
+    "starting_class": "Lance Paladin",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 50.0,
+      "Mag": 10.0,
+      "Skl": 60.0,
+      "Spd": 35.0,
+      "Luck": 30.0,
+      "Def": 30.0,
+      "Res": 55.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Skl"
+    ],
+    "chapter_joined": "3",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Kieran",
+    "game": "Radiant Dawn",
+    "starting_class": "Axe Paladin",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 75.0,
+      "Str": 60.0,
+      "Mag": 15.0,
+      "Skl": 40.0,
+      "Spd": 30.0,
+      "Luck": 30.0,
+      "Def": 60.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str",
+      "Def"
+    ],
+    "chapter_joined": "3",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Astrid",
+    "game": "Radiant Dawn",
+    "starting_class": "Bow Paladin",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 55.0,
+      "Str": 40.0,
+      "Mag": 20.0,
+      "Skl": 45.0,
+      "Spd": 40.0,
+      "Luck": 70.0,
+      "Def": 30.0,
+      "Res": 50.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": "3",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Makalov",
+    "game": "Radiant Dawn",
+    "starting_class": "Blade Paladin",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 55.0,
+      "Str": 40.0,
+      "Mag": 15.0,
+      "Skl": 40.0,
+      "Spd": 75.0,
+      "Luck": 45.0,
+      "Def": 50.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "Spd"
+    ],
+    "chapter_joined": "3",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Danved",
+    "game": "Radiant Dawn",
+    "starting_class": "Halberdier",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 75.0,
+      "Str": 40.0,
+      "Mag": 20.0,
+      "Skl": 30.0,
+      "Spd": 45.0,
+      "Luck": 60.0,
+      "Def": 45.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Luck"
+    ],
+    "chapter_joined": "3",
+    "is_recruitable_enemy": false,
+    "recruit_note": "From base conversation"
+  },
+  {
+    "name": "Calill",
+    "game": "Radiant Dawn",
+    "starting_class": "Fire Sage",
+    "weapon_types": [
+      "Tome",
+      "Staff"
+    ],
+    "growths": {
+      "HP": 35.0,
+      "Str": 25.0,
+      "Mag": 45.0,
+      "Skl": 60.0,
+      "Spd": 55.0,
+      "Luck": 55.0,
+      "Def": 15.0,
+      "Res": 50.0
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Skl"
+    ],
+    "chapter_joined": "Final",
+    "is_recruitable_enemy": false,
+    "recruit_note": "From base conversation"
+  },
+  {
+    "name": "Ike",
+    "game": "Radiant Dawn",
+    "starting_class": "Hero",
+    "weapon_types": [
+      "Sword",
+      "Axe"
+    ],
+    "growths": {
+      "HP": 65.0,
+      "Str": 55.0,
+      "Mag": 10.0,
+      "Skl": 60.0,
+      "Spd": 35.0,
+      "Luck": 30.0,
+      "Def": 40.0,
+      "Res": 15.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Skl"
+    ],
+    "chapter_joined": "Prologue",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Titania",
+    "game": "Radiant Dawn",
+    "starting_class": "Axe Paladin",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 60.0,
+      "Mag": 15.0,
+      "Skl": 55.0,
+      "Spd": 50.0,
+      "Luck": 40.0,
+      "Def": 20.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str"
+    ],
+    "chapter_joined": "Prologue",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Soren",
+    "game": "Radiant Dawn",
+    "starting_class": "Wind Sage",
+    "weapon_types": [
+      "Tome",
+      "Staff"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 25.0,
+      "Mag": 80.0,
+      "Skl": 60.0,
+      "Spd": 35.0,
+      "Luck": 35.0,
+      "Def": 25.0,
+      "Res": 70.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "Mag",
+      "Skl",
+      "Res"
+    ],
+    "chapter_joined": "Prologue",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Mist",
+    "game": "Radiant Dawn",
+    "starting_class": "Cleric",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 25.0,
+      "Mag": 45.0,
+      "Skl": 55.0,
+      "Spd": 50.0,
+      "Luck": 70.0,
+      "Def": 25.0,
+      "Res": 40.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "Luck"
+    ],
+    "chapter_joined": "Prologue",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Rolf",
+    "game": "Radiant Dawn",
+    "starting_class": "Sniper",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 85.0,
+      "Str": 75.0,
+      "Mag": 10.0,
+      "Skl": 45.0,
+      "Spd": 45.0,
+      "Luck": 35.0,
+      "Def": 35.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str"
+    ],
+    "chapter_joined": "Prologue",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Boyd",
+    "game": "Radiant Dawn",
+    "starting_class": "Warrior",
+    "weapon_types": [
+      "Axe",
+      "Bow"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 65.0,
+      "Mag": 5.0,
+      "Skl": 45.0,
+      "Spd": 45.0,
+      "Luck": 40.0,
+      "Def": 50.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str"
+    ],
+    "chapter_joined": "Prologue",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Oscar",
+    "game": "Radiant Dawn",
+    "starting_class": "Lance Paladin",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 35.0,
+      "Mag": 20.0,
+      "Skl": 65.0,
+      "Spd": 60.0,
+      "Luck": 55.0,
+      "Def": 30.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Skl",
+      "Spd"
+    ],
+    "chapter_joined": "Prologue",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Shinon",
+    "game": "Radiant Dawn",
+    "starting_class": "Sniper",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 40.0,
+      "Mag": 15.0,
+      "Skl": 70.0,
+      "Spd": 65.0,
+      "Luck": 30.0,
+      "Def": 45.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Skl",
+      "Spd"
+    ],
+    "chapter_joined": "Prologue",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Gatrie",
+    "game": "Radiant Dawn",
+    "starting_class": "Lance General",
+    "weapon_types": [
+      "Lance",
+      "Axe",
+      "Sword"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 60.0,
+      "Mag": 5.0,
+      "Skl": 45.0,
+      "Spd": 60.0,
+      "Luck": 30.0,
+      "Def": 60.0,
+      "Res": 35.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "Str",
+      "Spd",
+      "Def"
+    ],
+    "chapter_joined": "Prologue",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Rhys",
+    "game": "Radiant Dawn",
+    "starting_class": "Bishop",
+    "weapon_types": [
+      "Staff",
+      "Tome"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 25.0,
+      "Mag": 65.0,
+      "Skl": 35.0,
+      "Spd": 35.0,
+      "Luck": 60.0,
+      "Def": 20.0,
+      "Res": 75.0
+    },
+    "low_growth_stats": [
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Mag",
+      "Luck",
+      "Res"
+    ],
+    "chapter_joined": "Prologue",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Mia",
+    "game": "Radiant Dawn",
+    "starting_class": "Swordmaster",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 45.0,
+      "Mag": 15.0,
+      "Skl": 60.0,
+      "Spd": 65.0,
+      "Luck": 35.0,
+      "Def": 40.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Skl",
+      "Spd"
+    ],
+    "chapter_joined": "Prologue",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Ranulf",
+    "game": "Radiant Dawn",
+    "starting_class": "Cat",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 30.0,
+      "Mag": 15.0,
+      "Skl": 40.0,
+      "Spd": 35.0,
+      "Luck": 55.0,
+      "Def": 15.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "4",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Kyza",
+    "game": "Radiant Dawn",
+    "starting_class": "Tiger",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 85.0,
+      "Str": 40.0,
+      "Mag": 5.0,
+      "Skl": 45.0,
+      "Spd": 35.0,
+      "Luck": 50.0,
+      "Def": 40.0,
+      "Res": 15.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "4",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Lyre",
+    "game": "Radiant Dawn",
+    "starting_class": "Cat",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 35.0,
+      "Mag": 10.0,
+      "Skl": 65.0,
+      "Spd": 70.0,
+      "Luck": 50.0,
+      "Def": 20.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Skl",
+      "Spd"
+    ],
+    "chapter_joined": "4",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Reyson",
+    "game": "Radiant Dawn",
+    "starting_class": "Heron",
+    "weapon_types": [
+      "Sword",
+      "Axe"
+    ],
+    "growths": {
+      "HP": 65.0,
+      "Str": 5.0,
+      "Mag": 30.0,
+      "Skl": 20.0,
+      "Spd": 20.0,
+      "Luck": 60.0,
+      "Def": 20.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Skl",
+      "Spd",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Luck"
+    ],
+    "chapter_joined": "5",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Janaff",
+    "game": "Radiant Dawn",
+    "starting_class": "Hawk",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 55.0,
+      "Str": 40.0,
+      "Mag": 15.0,
+      "Skl": 45.0,
+      "Spd": 25.0,
+      "Luck": 50.0,
+      "Def": 35.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "7",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Talk with Ike or Reyson (Ulki will join at the same time), otherwise he will join automatically in Ch 8"
+  },
+  {
+    "name": "Ulki",
+    "game": "Radiant Dawn",
+    "starting_class": "Hawk",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 65.0,
+      "Str": 25.0,
+      "Mag": 30.0,
+      "Skl": 25.0,
+      "Spd": 40.0,
+      "Luck": 35.0,
+      "Def": 30.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "7",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Talk with Ike or Reyson (Janaff will join at the same time), otherwise he will join automatically in Ch 8"
+  },
+  {
+    "name": "Sigrun",
+    "game": "Radiant Dawn",
+    "starting_class": "Falcon Knight",
+    "weapon_types": [
+      "Lance",
+      "Staff"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 45.0,
+      "Mag": 10.0,
+      "Skl": 70.0,
+      "Spd": 25.0,
+      "Luck": 70.0,
+      "Def": 10.0,
+      "Res": 50.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "Skl",
+      "Luck"
+    ],
+    "chapter_joined": "11",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Tanith",
+    "game": "Radiant Dawn",
+    "starting_class": "Falcon Knight",
+    "weapon_types": [
+      "Lance",
+      "Staff"
+    ],
+    "growths": {
+      "HP": 35.0,
+      "Str": 55.0,
+      "Mag": 15.0,
+      "Skl": 75.0,
+      "Spd": 40.0,
+      "Luck": 35.0,
+      "Def": 40.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Mag"
+    ],
+    "high_growth_stats": [
+      "Skl"
+    ],
+    "chapter_joined": "11",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Sanaki",
+    "game": "Radiant Dawn",
+    "starting_class": "Empress",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 40.0,
+      "Mag": 60.0,
+      "Skl": 60.0,
+      "Spd": 35.0,
+      "Luck": 55.0,
+      "Def": 30.0,
+      "Res": 50.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "HP",
+      "Mag",
+      "Skl"
+    ],
+    "chapter_joined": "Prologue",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Skrimir",
+    "game": "Radiant Dawn",
+    "starting_class": "Lion",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 35.0,
+      "Mag": 5.0,
+      "Skl": 35.0,
+      "Spd": 25.0,
+      "Luck": 20.0,
+      "Def": 50.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "Prologue",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Tibarn",
+    "game": "Radiant Dawn",
+    "starting_class": "Hawk King",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 75.0,
+      "Str": 40.0,
+      "Mag": 5.0,
+      "Skl": 10.0,
+      "Spd": 20.0,
+      "Luck": 40.0,
+      "Def": 40.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Skl",
+      "Spd",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Naesala",
+    "game": "Radiant Dawn",
+    "starting_class": "Raven King",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 45.0,
+      "Mag": 15.0,
+      "Skl": 30.0,
+      "Spd": 45.0,
+      "Luck": 55.0,
+      "Def": 15.0,
+      "Res": 35.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Def"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "Prologue",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Pelleas",
+    "game": "Radiant Dawn",
+    "starting_class": "Dark Sage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 35.0,
+      "Str": 25.0,
+      "Mag": 55.0,
+      "Skl": 45.0,
+      "Spd": 60.0,
+      "Luck": 40.0,
+      "Def": 30.0,
+      "Res": 45.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "Spd"
+    ],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": false,
+    "recruit_note": "2nd playthrough onwards *1, automatically from Turn 2 if you spared him in Part 3 Chapter 13"
+  },
+  {
+    "name": "Stefan",
+    "game": "Radiant Dawn",
+    "starting_class": "Trueblade",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 55.0,
+      "Str": 50.0,
+      "Mag": 20.0,
+      "Skl": 60.0,
+      "Spd": 60.0,
+      "Luck": 15.0,
+      "Def": 40.0,
+      "Res": 50.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Luck"
+    ],
+    "high_growth_stats": [
+      "Skl",
+      "Spd"
+    ],
+    "chapter_joined": "3",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Move Micaiah (or Lethe or Mordecai *2) onto the spot 1 left and 12 up from the most bottom-right tile"
+  },
+  {
+    "name": "Oliver",
+    "game": "Radiant Dawn",
+    "starting_class": "Saint",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 65.0,
+      "Str": 55.0,
+      "Mag": 35.0,
+      "Skl": 35.0,
+      "Spd": 45.0,
+      "Luck": 30.0,
+      "Def": 30.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "4",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Let him talk to Rafiel"
+  },
+  {
+    "name": "Bastian",
+    "game": "Radiant Dawn",
+    "starting_class": "Arch Sage",
+    "weapon_types": [
+      "Tome",
+      "Staff"
+    ],
+    "growths": {
+      "HP": 25.0,
+      "Str": 20.0,
+      "Mag": 30.0,
+      "Skl": 70.0,
+      "Spd": 40.0,
+      "Luck": 40.0,
+      "Def": 25.0,
+      "Res": 50.0
+    },
+    "low_growth_stats": [
+      "Str"
+    ],
+    "high_growth_stats": [
+      "Skl"
+    ],
+    "chapter_joined": "5",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Volke",
+    "game": "Radiant Dawn",
+    "starting_class": "Assassin",
+    "weapon_types": [
+      "Sword",
+      "Bow"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 50.0,
+      "Mag": 5.0,
+      "Skl": 60.0,
+      "Spd": 65.0,
+      "Luck": 20.0,
+      "Def": 45.0,
+      "Res": 15.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Skl",
+      "Spd"
+    ],
+    "chapter_joined": "5",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Pay him 3000G with Bastian or Elincia"
+  },
+  {
+    "name": "Kurthnaga",
+    "game": "Radiant Dawn",
+    "starting_class": "Dragon Prince",
+    "weapon_types": [
+      "Dragonstone"
+    ],
+    "growths": {
+      "HP": 95.0,
+      "Str": 45.0,
+      "Mag": 15.0,
+      "Skl": 20.0,
+      "Spd": 35.0,
+      "Luck": 60.0,
+      "Def": 25.0,
+      "Res": 40.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Skl"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Luck"
+    ],
+    "chapter_joined": "F-1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Ena",
+    "game": "Radiant Dawn",
+    "starting_class": "Red Dragon",
+    "weapon_types": [
+      "Dragonstone"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 20.0,
+      "Mag": 50.0,
+      "Skl": 40.0,
+      "Spd": 40.0,
+      "Luck": 35.0,
+      "Def": 15.0,
+      "Res": 50.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Def"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "F-1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Caineghis",
+    "game": "Radiant Dawn",
+    "starting_class": "Lion King",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 40.0,
+      "Mag": 10.0,
+      "Skl": 40.0,
+      "Spd": 20.0,
+      "Luck": 40.0,
+      "Def": 30.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Spd",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "F-1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Giffca",
+    "game": "Radiant Dawn",
+    "starting_class": "Lion",
+    "weapon_types": [
+      "Beaststone"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 35.0,
+      "Mag": 10.0,
+      "Skl": 35.0,
+      "Spd": 50.0,
+      "Luck": 25.0,
+      "Def": 30.0,
+      "Res": 15.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "F-1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "\u2013"
+  },
+  {
+    "name": "Renning",
+    "game": "Radiant Dawn",
+    "starting_class": "Gold Knight",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 60.0,
+      "Mag": 10.0,
+      "Skl": 50.0,
+      "Spd": 40.0,
+      "Luck": 10.0,
+      "Def": 70.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "Str",
+      "Def"
+    ],
+    "chapter_joined": "F-1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "From base conversation"
+  },
+  {
+    "name": "Gareth",
+    "game": "Radiant Dawn",
+    "starting_class": "Red Dragon",
+    "weapon_types": [
+      "Dragonstone"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 40.0,
+      "Mag": 5.0,
+      "Skl": 30.0,
+      "Spd": 10.0,
+      "Luck": 65.0,
+      "Def": 30.0,
+      "Res": 25.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Spd"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Luck"
+    ],
+    "chapter_joined": "F-4",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically if he survived Part 4 Final-3"
+  },
+  {
+    "name": "Nasir",
+    "game": "Radiant Dawn",
+    "starting_class": "White Dragon",
+    "weapon_types": [
+      "Dragonstone"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 15.0,
+      "Mag": 45.0,
+      "Skl": 35.0,
+      "Spd": 20.0,
+      "Luck": 45.0,
+      "Def": 15.0,
+      "Res": 40.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Spd",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "F-4",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically if he survived Part 4 Final-3"
+  },
+  {
+    "name": "Lehran",
+    "game": "Radiant Dawn",
+    "starting_class": "Chancellor",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 0.0,
+      "Str": 0.0,
+      "Mag": 0.0,
+      "Skl": 0.0,
+      "Spd": 0.0,
+      "Luck": 0.0,
+      "Def": 0.0,
+      "Res": 0.0
+    },
+    "low_growth_stats": [
+      "HP",
+      "Str",
+      "Mag",
+      "Skl",
+      "Spd",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "F-5",
+    "is_recruitable_enemy": false,
+    "recruit_note": "2nd playthrough onwards *1, automatically if you viewed Ike\u2019s memory scene in Part 4 Final-2, which is triggered by: 1. Deploying the Black Knight in Part 1 Final and 2. Making Ike fight the Black Knight in Part 3 Chapter 7 (and the Black Knight survives)"
+  }
+]

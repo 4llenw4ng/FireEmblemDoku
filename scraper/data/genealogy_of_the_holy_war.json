@@ -1,0 +1,1817 @@
+[
+  {
+    "name": "Sigurd",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Lord Knight",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 30.0,
+      "Mag": 5.0,
+      "Skl": 30.0,
+      "Spd": 30.0,
+      "Luck": 20.0,
+      "Def": 40.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "P",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically on the first turn"
+  },
+  {
+    "name": "Noish",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Social Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 40.0,
+      "Mag": 5.0,
+      "Skl": 30.0,
+      "Spd": 20.0,
+      "Luck": 20.0,
+      "Def": 40.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Spd",
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "P",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically on the first turn"
+  },
+  {
+    "name": "Alec",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Social Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 30.0,
+      "Mag": 5.0,
+      "Skl": 40.0,
+      "Spd": 30.0,
+      "Luck": 30.0,
+      "Def": 30.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "P",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically on the first turn"
+  },
+  {
+    "name": "Arden",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Sword Armour",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 50.0,
+      "Mag": 5.0,
+      "Skl": 10.0,
+      "Spd": 20.0,
+      "Luck": 10.0,
+      "Def": 40.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Skl",
+      "Spd",
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "P",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically on the first turn"
+  },
+  {
+    "name": "Cuan",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Duke Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 30.0,
+      "Mag": 5.0,
+      "Skl": 30.0,
+      "Spd": 20.0,
+      "Luck": 10.0,
+      "Def": 30.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Spd",
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "P",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically on the third turn"
+  },
+  {
+    "name": "Ethlin",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Troubadour",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 20.0,
+      "Mag": 5.0,
+      "Skl": 20.0,
+      "Spd": 30.0,
+      "Luck": 10.0,
+      "Def": 20.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Mag",
+      "Skl",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "P",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically on the third turn"
+  },
+  {
+    "name": "Fin",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Lance Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 30.0,
+      "Mag": 5.0,
+      "Skl": 40.0,
+      "Spd": 30.0,
+      "Luck": 50.0,
+      "Def": 30.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "P",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically on the third turn"
+  },
+  {
+    "name": "Lex",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Axe Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 40.0,
+      "Mag": 5.0,
+      "Skl": 20.0,
+      "Spd": 20.0,
+      "Luck": 20.0,
+      "Def": 20.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Skl",
+      "Spd",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "P",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically on the second turn"
+  },
+  {
+    "name": "Azel",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 10.0,
+      "Mag": 10.0,
+      "Skl": 20.0,
+      "Spd": 50.0,
+      "Luck": 20.0,
+      "Def": 20.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Mag",
+      "Skl",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "P",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically on the second turn"
+  },
+  {
+    "name": "Midayle",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Arch Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 30.0,
+      "Mag": 5.0,
+      "Skl": 30.0,
+      "Spd": 40.0,
+      "Luck": 10.0,
+      "Def": 30.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "P",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically once you conquer Jungby"
+  },
+  {
+    "name": "Adean",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Priest",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 20.0,
+      "Mag": 30.0,
+      "Skl": 20.0,
+      "Spd": 30.0,
+      "Luck": 30.0,
+      "Def": 20.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Skl",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Automatically on the first enemy turn"
+  },
+  {
+    "name": "Dew",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Thief",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 40.0,
+      "Mag": 10.0,
+      "Skl": 40.0,
+      "Spd": 40.0,
+      "Luck": 40.0,
+      "Def": 40.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": true,
+    "recruit_note": "Automatically on the first enemy turn"
+  },
+  {
+    "name": "Ira",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Swordfighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 30.0,
+      "Mag": 5.0,
+      "Skl": 30.0,
+      "Spd": 30.0,
+      "Luck": 20.0,
+      "Def": 20.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Talk with Sigurd, after taking Genoa"
+  },
+  {
+    "name": "Diadora",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Shaman",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 10.0,
+      "Mag": 10.0,
+      "Skl": 20.0,
+      "Spd": 10.0,
+      "Luck": 10.0,
+      "Def": 10.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Mag",
+      "Skl",
+      "Spd",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Make Sigurd enter the forest between Marpha and Verdane"
+  },
+  {
+    "name": "Jamka",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Bow Fighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 50.0,
+      "Mag": 0.0,
+      "Skl": 10.0,
+      "Spd": 30.0,
+      "Luck": 40.0,
+      "Def": 30.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Skl",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "1",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Talk with Adean"
+  },
+  {
+    "name": "Holyn",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Swordfighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 30.0,
+      "Mag": 5.0,
+      "Skl": 50.0,
+      "Spd": 30.0,
+      "Luck": 20.0,
+      "Def": 30.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Beat the arena with a melee weapon user"
+  },
+  {
+    "name": "Lachesis",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Princess",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 20.0,
+      "Mag": 5.0,
+      "Skl": 10.0,
+      "Spd": 20.0,
+      "Luck": 40.0,
+      "Def": 20.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Mag",
+      "Skl",
+      "Spd",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Talk with Sigurd"
+  },
+  {
+    "name": "Levin",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Bard",
+    "weapon_types": [],
+    "growths": {
+      "HP": 50.0,
+      "Str": 10.0,
+      "Mag": 30.0,
+      "Skl": 40.0,
+      "Spd": 30.0,
+      "Luck": 20.0,
+      "Def": 20.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically the turn after Heirhein is conquered"
+  },
+  {
+    "name": "Sylvia",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Dancer",
+    "weapon_types": [],
+    "growths": {
+      "HP": 40.0,
+      "Str": 10.0,
+      "Mag": 20.0,
+      "Skl": 10.0,
+      "Spd": 10.0,
+      "Luck": 20.0,
+      "Def": 10.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Mag",
+      "Skl",
+      "Spd",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically the turn after Heirhein is conquered"
+  },
+  {
+    "name": "Fury",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Pegasus Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 20.0,
+      "Mag": 10.0,
+      "Skl": 20.0,
+      "Spd": 30.0,
+      "Luck": 20.0,
+      "Def": 30.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Mag",
+      "Skl",
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Talk with Levin"
+  },
+  {
+    "name": "Beowolf",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Free Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 40.0,
+      "Mag": 0.0,
+      "Skl": 40.0,
+      "Spd": 30.0,
+      "Luck": 20.0,
+      "Def": 30.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": "2",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Let someone pay him 10000 gold (he keeps it)"
+  },
+  {
+    "name": "Briggid",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Sniper",
+    "weapon_types": [
+      "Bow"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 30.0,
+      "Mag": 20.0,
+      "Skl": 30.0,
+      "Spd": 20.0,
+      "Luck": 10.0,
+      "Def": 20.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Spd",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "3",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically after Silvall is conquered"
+  },
+  {
+    "name": "Claude",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "High Priest",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 10.0,
+      "Mag": 20.0,
+      "Skl": 20.0,
+      "Spd": 30.0,
+      "Luck": 30.0,
+      "Def": 20.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Mag",
+      "Skl",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "3",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically after Silvall is conquered"
+  },
+  {
+    "name": "Tiltyu",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Thunder Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 40.0,
+      "Str": 10.0,
+      "Mag": 20.0,
+      "Skl": 30.0,
+      "Spd": 40.0,
+      "Luck": 50.0,
+      "Def": 10.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Mag",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": "3",
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically after Silvall is conquered"
+  },
+  {
+    "name": "Mana",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Priest",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 10.0,
+      "Mag": 30.0,
+      "Skl": 20.0,
+      "Spd": 20.0,
+      "Luck": 40.0,
+      "Def": 10.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Skl",
+      "Spd",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": null
+  },
+  {
+    "name": "Radney",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Swordfighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 40.0,
+      "Mag": 5.0,
+      "Skl": 30.0,
+      "Spd": 40.0,
+      "Luck": 20.0,
+      "Def": 30.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": null
+  },
+  {
+    "name": "Roddlevan",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Swordfighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 80.0,
+      "Str": 30.0,
+      "Mag": 5.0,
+      "Skl": 50.0,
+      "Spd": 30.0,
+      "Luck": 20.0,
+      "Def": 30.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": null
+  },
+  {
+    "name": "Oifey",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Paladin",
+    "weapon_types": [
+      "Sword",
+      "Lance"
+    ],
+    "growths": {
+      "HP": 100.0,
+      "Str": 40.0,
+      "Mag": 5.0,
+      "Skl": 50.0,
+      "Spd": 30.0,
+      "Luck": 40.0,
+      "Def": 30.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": 6,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically on the second turn"
+  },
+  {
+    "name": "Tristan",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Free Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 130.0,
+      "Str": 30.0,
+      "Mag": 5.0,
+      "Skl": 30.0,
+      "Spd": 20.0,
+      "Luck": 10.0,
+      "Def": 30.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Spd",
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": null
+  },
+  {
+    "name": "Dimna",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Arch Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 30.0,
+      "Mag": 5.0,
+      "Skl": 50.0,
+      "Spd": 20.0,
+      "Luck": 30.0,
+      "Def": 40.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Spd",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": null
+  },
+  {
+    "name": "Yuria",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Shaman",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 10.0,
+      "Mag": 100.0,
+      "Skl": 20.0,
+      "Spd": 30.0,
+      "Luck": 30.0,
+      "Def": 10.0,
+      "Res": 50.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Skl",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Mag"
+    ],
+    "chapter_joined": 6,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically after you conquer Ganeshire"
+  },
+  {
+    "name": "Femina",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Pegasus Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 30.0,
+      "Mag": 10.0,
+      "Skl": 20.0,
+      "Spd": 50.0,
+      "Luck": 50.0,
+      "Def": 20.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Skl",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": null
+  },
+  {
+    "name": "Amid",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Wind Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 20.0,
+      "Mag": 40.0,
+      "Skl": 50.0,
+      "Spd": 40.0,
+      "Luck": 20.0,
+      "Def": 20.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": null
+  },
+  {
+    "name": "Johan",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Axe Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 110.0,
+      "Str": 40.0,
+      "Mag": 5.0,
+      "Skl": 20.0,
+      "Spd": 50.0,
+      "Luck": 10.0,
+      "Def": 60.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Skl",
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Def"
+    ],
+    "chapter_joined": 6,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Talk with Radney/Lakche (you cannot recruit Johalva afterwards)"
+  },
+  {
+    "name": "Johalva",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Axe Fighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 110.0,
+      "Str": 40.0,
+      "Mag": 0.0,
+      "Skl": 50.0,
+      "Spd": 10.0,
+      "Luck": 10.0,
+      "Def": 60.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Spd",
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Def"
+    ],
+    "chapter_joined": 6,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Talk with Radney/Lakche (you cannot recruit Johan afterwards)"
+  },
+  {
+    "name": "Shanan",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Swordmaster",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 120.0,
+      "Str": 30.0,
+      "Mag": 5.0,
+      "Skl": 80.0,
+      "Spd": 20.0,
+      "Luck": 20.0,
+      "Def": 40.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Spd",
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Skl"
+    ],
+    "chapter_joined": 7,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically on the first turn"
+  },
+  {
+    "name": "Daisy",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Thief",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 50.0,
+      "Str": 10.0,
+      "Mag": 10.0,
+      "Skl": 30.0,
+      "Spd": 50.0,
+      "Luck": 30.0,
+      "Def": 20.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Mag",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": null
+  },
+  {
+    "name": "Janne",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Troubadour",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 20.0,
+      "Mag": 20.0,
+      "Skl": 50.0,
+      "Spd": 20.0,
+      "Luck": 10.0,
+      "Def": 30.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Mag",
+      "Spd",
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": null
+  },
+  {
+    "name": "Aless",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Social Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 130.0,
+      "Str": 90.0,
+      "Mag": 5.0,
+      "Skl": 20.0,
+      "Spd": 30.0,
+      "Luck": 50.0,
+      "Def": 40.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Skl"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str"
+    ],
+    "chapter_joined": 7,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically one turn after Melgen is conquered"
+  },
+  {
+    "name": "Laylea",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Dancer",
+    "weapon_types": [],
+    "growths": {
+      "HP": 50.0,
+      "Str": 50.0,
+      "Mag": 10.0,
+      "Skl": 20.0,
+      "Spd": 40.0,
+      "Luck": 30.0,
+      "Def": 20.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Skl",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": null
+  },
+  {
+    "name": "Linda",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Thunder Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 10.0,
+      "Mag": 40.0,
+      "Skl": 40.0,
+      "Spd": 30.0,
+      "Luck": 20.0,
+      "Def": 10.0,
+      "Res": 20.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": null
+  },
+  {
+    "name": "Asaello",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Bow Fighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 90.0,
+      "Str": 40.0,
+      "Mag": 5.0,
+      "Skl": 10.0,
+      "Spd": 20.0,
+      "Luck": 60.0,
+      "Def": 30.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Skl",
+      "Spd",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Luck"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": null
+  },
+  {
+    "name": "Hawk",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Sage",
+    "weapon_types": [
+      "Tome",
+      "Staff"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 10.0,
+      "Mag": 20.0,
+      "Skl": 20.0,
+      "Spd": 50.0,
+      "Luck": 20.0,
+      "Def": 20.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Mag",
+      "Skl",
+      "Luck",
+      "Def",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": null
+  },
+  {
+    "name": "Hannibal",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "General",
+    "weapon_types": [
+      "Lance",
+      "Axe",
+      "Sword"
+    ],
+    "growths": {
+      "HP": 60.0,
+      "Str": 50.0,
+      "Mag": 5.0,
+      "Skl": 10.0,
+      "Spd": 10.0,
+      "Luck": 10.0,
+      "Def": 30.0,
+      "Res": 5.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Skl",
+      "Spd",
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": 9,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Talk with Sharlow/Corpul"
+  },
+  {
+    "name": "Sharlow",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Priest",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 70.0,
+      "Str": 10.0,
+      "Mag": 50.0,
+      "Skl": 20.0,
+      "Spd": 20.0,
+      "Luck": 30.0,
+      "Def": 10.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [
+      "Str",
+      "Skl",
+      "Spd",
+      "Def"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": null
+  },
+  {
+    "name": "Celice",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Junior Lord",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 140.0,
+      "Str": 55.0,
+      "Mag": 30.0,
+      "Skl": 60.0,
+      "Spd": 35.0,
+      "Luck": 45.0,
+      "Def": 45.0,
+      "Res": 30.0
+    },
+    "low_growth_stats": [],
+    "high_growth_stats": [
+      "HP",
+      "Skl"
+    ],
+    "chapter_joined": 6,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically on the first turn"
+  },
+  {
+    "name": "Leaf",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Prince",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 130.0,
+      "Str": 60.0,
+      "Mag": 7.0,
+      "Skl": 50.0,
+      "Spd": 45.0,
+      "Luck": 25.0,
+      "Def": 50.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str"
+    ],
+    "chapter_joined": 7,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Automatically on the first turn"
+  },
+  {
+    "name": "Altenna",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Dragon Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 135.0,
+      "Str": 65.0,
+      "Mag": 7.0,
+      "Skl": 45.0,
+      "Spd": 60.0,
+      "Luck": 25.0,
+      "Def": 55.0,
+      "Res": 12.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str",
+      "Spd"
+    ],
+    "chapter_joined": 9,
+    "is_recruitable_enemy": false,
+    "recruit_note": "Talk with Leaf, then defeat Trabant. She will return and talk to Celice"
+  },
+  {
+    "name": "Rana",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Priest",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 115.0,
+      "Str": 45.0,
+      "Mag": 32.0,
+      "Skl": 25.0,
+      "Spd": 40.0,
+      "Luck": 65.0,
+      "Def": 40.0,
+      "Res": 7.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Luck"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": null
+  },
+  {
+    "name": "Lakche",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Swordfighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 115.0,
+      "Str": 55.0,
+      "Mag": 7.0,
+      "Skl": 65.0,
+      "Spd": 40.0,
+      "Luck": 25.0,
+      "Def": 40.0,
+      "Res": 7.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Skl"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": null
+  },
+  {
+    "name": "Skasaher",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Swordfighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 135.0,
+      "Str": 65.0,
+      "Mag": 7.0,
+      "Skl": 55.0,
+      "Spd": 35.0,
+      "Luck": 20.0,
+      "Def": 50.0,
+      "Res": 7.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": null
+  },
+  {
+    "name": "Delmud",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Free Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 130.0,
+      "Str": 90.0,
+      "Mag": 7.0,
+      "Skl": 15.0,
+      "Spd": 30.0,
+      "Luck": 30.0,
+      "Def": 50.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Skl",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": null
+  },
+  {
+    "name": "Lester",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Arch Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 135.0,
+      "Str": 60.0,
+      "Mag": 20.0,
+      "Skl": 20.0,
+      "Spd": 35.0,
+      "Luck": 55.0,
+      "Def": 50.0,
+      "Res": 7.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Skl",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": null
+  },
+  {
+    "name": "Fee",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Pegasus Knight",
+    "weapon_types": [
+      "Lance"
+    ],
+    "growths": {
+      "HP": 95.0,
+      "Str": 45.0,
+      "Mag": 12.0,
+      "Skl": 25.0,
+      "Spd": 40.0,
+      "Luck": 25.0,
+      "Def": 50.0,
+      "Res": 12.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": null
+  },
+  {
+    "name": "Arthur",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 130.0,
+      "Str": 55.0,
+      "Mag": 15.0,
+      "Skl": 55.0,
+      "Spd": 40.0,
+      "Luck": 35.0,
+      "Def": 45.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": null
+  },
+  {
+    "name": "Patty",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Thief",
+    "weapon_types": [
+      "Sword"
+    ],
+    "growths": {
+      "HP": 115.0,
+      "Str": 55.0,
+      "Mag": 22.0,
+      "Skl": 35.0,
+      "Spd": 30.0,
+      "Luck": 45.0,
+      "Def": 40.0,
+      "Res": 7.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": null
+  },
+  {
+    "name": "Nanna",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Troubadour",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 105.0,
+      "Str": 75.0,
+      "Mag": 7.0,
+      "Skl": 15.0,
+      "Spd": 30.0,
+      "Luck": 45.0,
+      "Def": 40.0,
+      "Res": 12.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Skl",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": null
+  },
+  {
+    "name": "Leen",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Dancer",
+    "weapon_types": [],
+    "growths": {
+      "HP": 95.0,
+      "Str": 35.0,
+      "Mag": 32.0,
+      "Skl": 15.0,
+      "Spd": 20.0,
+      "Luck": 35.0,
+      "Def": 30.0,
+      "Res": 42.0
+    },
+    "low_growth_stats": [
+      "Skl",
+      "Spd"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": null
+  },
+  {
+    "name": "Tinny",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Mage",
+    "weapon_types": [
+      "Tome"
+    ],
+    "growths": {
+      "HP": 105.0,
+      "Str": 35.0,
+      "Mag": 22.0,
+      "Skl": 65.0,
+      "Spd": 50.0,
+      "Luck": 55.0,
+      "Def": 30.0,
+      "Res": 12.0
+    },
+    "low_growth_stats": [
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Skl"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": null
+  },
+  {
+    "name": "Faval",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Bow Fighter",
+    "weapon_types": [
+      "Axe"
+    ],
+    "growths": {
+      "HP": 155.0,
+      "Str": 65.0,
+      "Mag": 15.0,
+      "Skl": 25.0,
+      "Spd": 30.0,
+      "Luck": 75.0,
+      "Def": 50.0,
+      "Res": 7.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str",
+      "Luck"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": null
+  },
+  {
+    "name": "Sety",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Sage",
+    "weapon_types": [
+      "Tome",
+      "Staff"
+    ],
+    "growths": {
+      "HP": 115.0,
+      "Str": 60.0,
+      "Mag": 10.0,
+      "Skl": 20.0,
+      "Spd": 35.0,
+      "Luck": 20.0,
+      "Def": 55.0,
+      "Res": 10.0
+    },
+    "low_growth_stats": [
+      "Mag",
+      "Skl",
+      "Luck",
+      "Res"
+    ],
+    "high_growth_stats": [
+      "HP",
+      "Str"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": null
+  },
+  {
+    "name": "Corpul",
+    "game": "Genealogy of the Holy War",
+    "starting_class": "Priest",
+    "weapon_types": [
+      "Staff"
+    ],
+    "growths": {
+      "HP": 120.0,
+      "Str": 55.0,
+      "Mag": 25.0,
+      "Skl": 15.0,
+      "Spd": 25.0,
+      "Luck": 30.0,
+      "Def": 45.0,
+      "Res": 35.0
+    },
+    "low_growth_stats": [
+      "Skl"
+    ],
+    "high_growth_stats": [
+      "HP"
+    ],
+    "chapter_joined": null,
+    "is_recruitable_enemy": false,
+    "recruit_note": null
+  }
+]
