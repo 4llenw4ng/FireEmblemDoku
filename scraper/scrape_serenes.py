@@ -337,46 +337,52 @@ def scrape_game(game: dict) -> list[dict]:
     return playable
 
 
+def apply_gender(records: list[dict], out_dir: Path) -> None:
+    """Apply the FE Wiki gender pass (scrape_gender.py output) in place. Every
+    record gets a `gender` key; it's None for the handful of player-choice
+    avatars/children the wiki can't pin down."""
+    gender_path = out_dir / "gender.json"
+    if not gender_path.exists():
+        print("data/gender.json not found - run scrape_gender.py for the gender field")
+        for char in records:
+            char.setdefault("gender", None)
+        return
+    gender_map = json.loads(gender_path.read_text(encoding="utf-8"))
+    for char in records:
+        char["gender"] = gender_map.get(char["name"])
+    resolved = sum(1 for c in records if c.get("gender"))
+    print(f"Applied gender to {resolved}/{len(records)} characters")
+
+
 if __name__ == "__main__":
     out_dir = Path(__file__).parent / "data"
     out_dir.mkdir(exist_ok=True)
 
     summary = []
+    per_game: dict[str, list[dict]] = {}
     for game in GAMES:
         slug = game["name"].lower().replace(":", "").replace(" ", "_")
         try:
-            data = scrape_game(game)
-            out_path = out_dir / f"{slug}.json"
-            out_path.write_text(json.dumps(data, indent=2, default=str), encoding="utf-8")
-            summary.append((game["name"], len(data), None))
+            per_game[slug] = scrape_game(game)
+            summary.append((game["name"], len(per_game[slug]), None))
         except Exception as e:  # noqa: BLE001 - report and continue for PoC batch run
             summary.append((game["name"], 0, str(e)))
+
+    # Apply gender before writing anything, so every file in data/ has the same
+    # record shape (per-game files and the merged characters.json alike).
+    all_records = [char for records in per_game.values() for char in records]
+    apply_gender(all_records, out_dir)
+
+    for slug, records in per_game.items():
+        (out_dir / f"{slug}.json").write_text(
+            json.dumps(records, indent=2, default=str), encoding="utf-8"
+        )
+    (out_dir / "characters.json").write_text(
+        json.dumps(all_records, indent=2, default=str), encoding="utf-8"
+    )
 
     print(f"\n{'Game':<32}{'Characters':<12}Status")
     for name, count, error in summary:
         status = f"ERROR: {error}" if error else "OK"
         print(f"{name:<32}{count:<12}{status}")
-
-    # Merge every per-game file into one dataset for the app to consume.
-    merged = []
-    for game in GAMES:
-        slug = game["name"].lower().replace(":", "").replace(" ", "_")
-        path = out_dir / f"{slug}.json"
-        if path.exists():
-            merged.extend(json.loads(path.read_text(encoding="utf-8")))
-
-    # Apply the FE Wiki gender pass (scrape_gender.py) if it has run.
-    gender_path = out_dir / "gender.json"
-    if gender_path.exists():
-        gender_map = json.loads(gender_path.read_text(encoding="utf-8"))
-        for char in merged:
-            char["gender"] = gender_map.get(char["name"])
-        resolved = sum(1 for c in merged if c.get("gender"))
-        print(f"Applied gender to {resolved}/{len(merged)} characters")
-    else:
-        print("data/gender.json not found - run scrape_gender.py for the gender field")
-
-    (out_dir / "characters.json").write_text(
-        json.dumps(merged, indent=2, default=str), encoding="utf-8"
-    )
-    print(f"\nMerged {len(merged)} characters -> data/characters.json")
+    print(f"\nMerged {len(all_records)} characters -> data/characters.json")

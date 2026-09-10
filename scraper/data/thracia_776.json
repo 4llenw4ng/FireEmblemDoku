@@ -24,7 +24,8 @@
     ],
     "chapter_joined": "1",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Fin",
@@ -51,7 +52,8 @@
     ],
     "chapter_joined": "1",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Evayle",
@@ -80,7 +82,8 @@
     "high_growth_stats": [],
     "chapter_joined": "1",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Halvan",
@@ -108,7 +111,8 @@
     ],
     "chapter_joined": "1",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Othin",
@@ -135,7 +139,8 @@
     ],
     "chapter_joined": "1",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Dagda",
@@ -166,7 +171,8 @@
     "high_growth_stats": [],
     "chapter_joined": "1",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Tania",
@@ -196,7 +202,8 @@
     ],
     "chapter_joined": "1",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Marty",
@@ -226,7 +233,8 @@
     ],
     "chapter_joined": "1",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Ronan",
@@ -253,7 +261,8 @@
     "high_growth_stats": [],
     "chapter_joined": "2",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Rifis",
@@ -276,7 +285,8 @@
       "Res": null
     },
     "low_growth_stats": [],
-    "high_growth_stats": []
+    "high_growth_stats": [],
+    "gender": "Male"
   },
   {
     "name": "Safy",
@@ -299,7 +309,8 @@
       "Res": null
     },
     "low_growth_stats": [],
-    "high_growth_stats": []
+    "high_growth_stats": [],
+    "gender": "Female"
   },
   {
     "name": "Brighton",
@@ -327,7 +338,8 @@
     ],
     "chapter_joined": "4",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Machua",
@@ -355,7 +367,8 @@
     ],
     "chapter_joined": "4",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Lara",
@@ -385,7 +398,8 @@
     ],
     "chapter_joined": "4",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Felgus",
@@ -412,7 +426,8 @@
     ],
     "chapter_joined": "4",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Karin",
@@ -441,7 +456,8 @@
     ],
     "chapter_joined": "4",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Dalsin",
@@ -469,7 +485,8 @@
     ],
     "chapter_joined": "4",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Asvel",
@@ -497,7 +514,8 @@
     ],
     "chapter_joined": "4x",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Nanna",
@@ -523,7 +541,8 @@
     "high_growth_stats": [],
     "chapter_joined": "5",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Hicks",
@@ -550,7 +569,8 @@
     ],
     "chapter_joined": "6",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Shiva",
@@ -578,7 +598,8 @@
     ],
     "chapter_joined": "7",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Carrion",
@@ -606,7 +627,8 @@
     ],
     "chapter_joined": "8",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Selphina",
@@ -632,7 +654,8 @@
     "high_growth_stats": [],
     "chapter_joined": "9",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Kein",
@@ -659,7 +682,8 @@
     ],
     "chapter_joined": "9",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Alva",
@@ -687,7 +711,8 @@
     ],
     "chapter_joined": "9",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Robert",
@@ -716,7 +741,8 @@
     ],
     "chapter_joined": "9",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Fred",
@@ -745,7 +771,8 @@
     ],
     "chapter_joined": "11x",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Olwen",
@@ -773,7 +800,8 @@
     ],
     "chapter_joined": "11x",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Mareeta",
@@ -805,7 +833,8 @@
     ],
     "chapter_joined": "12",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Salem",
@@ -834,7 +863,8 @@
     ],
     "chapter_joined": "12x",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Pahn",
@@ -863,7 +893,8 @@
     ],
     "chapter_joined": "12x",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Tina",
@@ -892,7 +923,8 @@
     ],
     "chapter_joined": "12x",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Trewd",
@@ -920,7 +952,8 @@
     ],
     "chapter_joined": "12x",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Glade",
@@ -947,7 +980,8 @@
     ],
     "chapter_joined": "13",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Dean",
@@ -974,7 +1008,8 @@
     ],
     "chapter_joined": "14",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Eda",
@@ -1003,7 +1038,8 @@
     ],
     "chapter_joined": "14",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Homeros",
@@ -1031,7 +1067,8 @@
     ],
     "chapter_joined": "14",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Linoan",
@@ -1059,7 +1096,8 @@
     ],
     "chapter_joined": "14x / 15",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Ralph",
@@ -1088,7 +1126,8 @@
     ],
     "chapter_joined": "15",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Eyrios",
@@ -1116,7 +1155,8 @@
     ],
     "chapter_joined": "16A",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Sleuf",
@@ -1144,7 +1184,8 @@
     ],
     "chapter_joined": "16A",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Sara",
@@ -1174,7 +1215,8 @@
     ],
     "chapter_joined": "17A / 16B",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Miranda",
@@ -1204,7 +1246,8 @@
     ],
     "chapter_joined": "16B",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Shanam",
@@ -1231,7 +1274,8 @@
     "high_growth_stats": [],
     "chapter_joined": "16B",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Misha",
@@ -1261,7 +1305,8 @@
     ],
     "chapter_joined": "17A",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Xavier",
@@ -1290,7 +1335,8 @@
     ],
     "chapter_joined": "18",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Amalda",
@@ -1319,7 +1365,8 @@
     ],
     "chapter_joined": "19",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Conomore",
@@ -1350,7 +1397,8 @@
     ],
     "chapter_joined": "19",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Delmud",
@@ -1379,7 +1427,8 @@
     ],
     "chapter_joined": "21",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Cyas",
@@ -1405,7 +1454,8 @@
     "high_growth_stats": [],
     "chapter_joined": "23",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Sety",
@@ -1438,7 +1488,8 @@
     ],
     "chapter_joined": "23",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Galzus",
@@ -1465,6 +1516,7 @@
     ],
     "chapter_joined": "24",
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   }
 ]

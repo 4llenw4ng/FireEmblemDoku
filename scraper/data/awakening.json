@@ -23,7 +23,8 @@
     "high_growth_stats": [],
     "chapter_joined": "Premonition / Prologue",
     "is_recruitable_enemy": false,
-    "recruit_note": "\u2013"
+    "recruit_note": "\u2013",
+    "gender": null
   },
   {
     "name": "Chrom",
@@ -51,7 +52,8 @@
     ],
     "chapter_joined": "Premonition / Prologue",
     "is_recruitable_enemy": false,
-    "recruit_note": "\u2013"
+    "recruit_note": "\u2013",
+    "gender": "Male"
   },
   {
     "name": "Lissa",
@@ -78,7 +80,8 @@
     ],
     "chapter_joined": "Prologue",
     "is_recruitable_enemy": false,
-    "recruit_note": "\u2013"
+    "recruit_note": "\u2013",
+    "gender": "Female"
   },
   {
     "name": "Frederick",
@@ -108,7 +111,8 @@
     ],
     "chapter_joined": "Prologue",
     "is_recruitable_enemy": false,
-    "recruit_note": "\u2013"
+    "recruit_note": "\u2013",
+    "gender": "Male"
   },
   {
     "name": "Sully",
@@ -137,7 +141,8 @@
     ],
     "chapter_joined": "1",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from Turn 2"
+    "recruit_note": "Automatically from Turn 2",
+    "gender": "Female"
   },
   {
     "name": "Virion",
@@ -160,7 +165,8 @@
     "high_growth_stats": [],
     "chapter_joined": "1",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from Turn 2"
+    "recruit_note": "Automatically from Turn 2",
+    "gender": "Male"
   },
   {
     "name": "Stahl",
@@ -187,7 +193,8 @@
     "high_growth_stats": [],
     "chapter_joined": "2",
     "is_recruitable_enemy": false,
-    "recruit_note": "\u2013"
+    "recruit_note": "\u2013",
+    "gender": "Male"
   },
   {
     "name": "Vaike",
@@ -215,7 +222,8 @@
     ],
     "chapter_joined": "2",
     "is_recruitable_enemy": false,
-    "recruit_note": "\u2013"
+    "recruit_note": "\u2013",
+    "gender": "Male"
   },
   {
     "name": "Miriel",
@@ -241,7 +249,8 @@
     "high_growth_stats": [],
     "chapter_joined": "2",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from Turn 2"
+    "recruit_note": "Automatically from Turn 2",
+    "gender": "Female"
   },
   {
     "name": "Sumia",
@@ -268,7 +277,8 @@
     ],
     "chapter_joined": "3",
     "is_recruitable_enemy": false,
-    "recruit_note": "\u2013"
+    "recruit_note": "\u2013",
+    "gender": "Female"
   },
   {
     "name": "Kellam",
@@ -293,7 +303,8 @@
     "high_growth_stats": [],
     "chapter_joined": "3",
     "is_recruitable_enemy": false,
-    "recruit_note": "NPC, talk with Chrom"
+    "recruit_note": "NPC, talk with Chrom",
+    "gender": "Male"
   },
   {
     "name": "Donnel",
@@ -319,7 +330,8 @@
     ],
     "chapter_joined": "Paralogue 1",
     "is_recruitable_enemy": false,
-    "recruit_note": "End of chapter if he gained a Level"
+    "recruit_note": "End of chapter if he gained a Level",
+    "gender": "Male"
   },
   {
     "name": "Lon'qu",
@@ -345,7 +357,8 @@
     "high_growth_stats": [],
     "chapter_joined": "4",
     "is_recruitable_enemy": false,
-    "recruit_note": "End of chapter"
+    "recruit_note": "End of chapter",
+    "gender": "Male"
   },
   {
     "name": "Ricken",
@@ -372,7 +385,8 @@
     ],
     "chapter_joined": "5",
     "is_recruitable_enemy": false,
-    "recruit_note": "\u2013"
+    "recruit_note": "\u2013",
+    "gender": "Male"
   },
   {
     "name": "Maribelle",
@@ -400,7 +414,8 @@
     ],
     "chapter_joined": "5",
     "is_recruitable_enemy": false,
-    "recruit_note": "\u2013"
+    "recruit_note": "\u2013",
+    "gender": "Female"
   },
   {
     "name": "Panne",
@@ -428,7 +443,8 @@
     ],
     "chapter_joined": "6",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from Turn 2"
+    "recruit_note": "Automatically from Turn 2",
+    "gender": "Female"
   },
   {
     "name": "Gaius",
@@ -454,7 +470,8 @@
     "high_growth_stats": [],
     "chapter_joined": "6",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Chrom"
+    "recruit_note": "Enemy, talk with Chrom",
+    "gender": "Male"
   },
   {
     "name": "Cordelia",
@@ -479,7 +496,8 @@
     "high_growth_stats": [],
     "chapter_joined": "7",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from Turn 3"
+    "recruit_note": "Automatically from Turn 3",
+    "gender": "Female"
   },
   {
     "name": "Gregor",
@@ -507,7 +525,8 @@
     ],
     "chapter_joined": "8",
     "is_recruitable_enemy": false,
-    "recruit_note": "\u2013"
+    "recruit_note": "\u2013",
+    "gender": "Male"
   },
   {
     "name": "Nowi",
@@ -533,7 +552,8 @@
     ],
     "chapter_joined": "8",
     "is_recruitable_enemy": false,
-    "recruit_note": "\u2013"
+    "recruit_note": "\u2013",
+    "gender": "Female"
   },
   {
     "name": "Libra",
@@ -557,7 +577,8 @@
     "high_growth_stats": [],
     "chapter_joined": "9",
     "is_recruitable_enemy": false,
-    "recruit_note": "NPC, talk with Chrom"
+    "recruit_note": "NPC, talk with Chrom",
+    "gender": "Male"
   },
   {
     "name": "Tharja",
@@ -582,7 +603,8 @@
     "high_growth_stats": [],
     "chapter_joined": "9",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Chrom"
+    "recruit_note": "Enemy, talk with Chrom",
+    "gender": "Female"
   },
   {
     "name": "Anna",
@@ -608,7 +630,8 @@
     ],
     "chapter_joined": "Paralogue 4",
     "is_recruitable_enemy": false,
-    "recruit_note": "NPC, talk with Chrom"
+    "recruit_note": "NPC, talk with Chrom",
+    "gender": "Female"
   },
   {
     "name": "Olivia",
@@ -634,7 +657,8 @@
     ],
     "chapter_joined": "11",
     "is_recruitable_enemy": false,
-    "recruit_note": "\u2013"
+    "recruit_note": "\u2013",
+    "gender": "Female"
   },
   {
     "name": "Cherche",
@@ -660,7 +684,8 @@
     "high_growth_stats": [],
     "chapter_joined": "12",
     "is_recruitable_enemy": false,
-    "recruit_note": "\u2013"
+    "recruit_note": "\u2013",
+    "gender": "Female"
   },
   {
     "name": "Henry",
@@ -685,7 +710,8 @@
     "high_growth_stats": [],
     "chapter_joined": "13",
     "is_recruitable_enemy": false,
-    "recruit_note": "\u2013"
+    "recruit_note": "\u2013",
+    "gender": "Male"
   },
   {
     "name": "Say'ri",
@@ -710,7 +736,8 @@
     "high_growth_stats": [],
     "chapter_joined": "15",
     "is_recruitable_enemy": false,
-    "recruit_note": "NPC, talk with Chrom"
+    "recruit_note": "NPC, talk with Chrom",
+    "gender": "Female"
   },
   {
     "name": "Tiki",
@@ -736,7 +763,8 @@
     ],
     "chapter_joined": "Paralogue 17",
     "is_recruitable_enemy": false,
-    "recruit_note": "End of chapter"
+    "recruit_note": "End of chapter",
+    "gender": "Female"
   },
   {
     "name": "Basilio",
@@ -765,7 +793,8 @@
     ],
     "chapter_joined": "23",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically after defeating Validar"
+    "recruit_note": "Automatically after defeating Validar",
+    "gender": "Male"
   },
   {
     "name": "Flavia",
@@ -791,7 +820,8 @@
     "high_growth_stats": [],
     "chapter_joined": "23",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically after defeating Validar"
+    "recruit_note": "Automatically after defeating Validar",
+    "gender": "Female"
   },
   {
     "name": "Lucina",
@@ -818,7 +848,8 @@
     ],
     "chapter_joined": "13",
     "is_recruitable_enemy": false,
-    "recruit_note": "End of chapter"
+    "recruit_note": "End of chapter",
+    "gender": "Female"
   },
   {
     "name": "Owain",
@@ -841,7 +872,8 @@
     "high_growth_stats": [],
     "chapter_joined": "Paralogue 5",
     "is_recruitable_enemy": false,
-    "recruit_note": "NPC, talk with Chrom or Lissa"
+    "recruit_note": "NPC, talk with Chrom or Lissa",
+    "gender": "Male"
   },
   {
     "name": "Inigo",
@@ -869,7 +901,8 @@
     ],
     "chapter_joined": "Paralogue 6",
     "is_recruitable_enemy": false,
-    "recruit_note": "NPC, talk with Chrom or Olivia"
+    "recruit_note": "NPC, talk with Chrom or Olivia",
+    "gender": "Male"
   },
   {
     "name": "Brady",
@@ -894,7 +927,8 @@
     ],
     "chapter_joined": "Paralogue 7",
     "is_recruitable_enemy": false,
-    "recruit_note": "NPC, talk with Chrom or Maribelle"
+    "recruit_note": "NPC, talk with Chrom or Maribelle",
+    "gender": "Male"
   },
   {
     "name": "Kjelle",
@@ -919,7 +953,8 @@
     "high_growth_stats": [],
     "chapter_joined": "Paralogue 8",
     "is_recruitable_enemy": false,
-    "recruit_note": "NPC, talk with Chrom or Sully"
+    "recruit_note": "NPC, talk with Chrom or Sully",
+    "gender": "Female"
   },
   {
     "name": "Cynthia",
@@ -946,7 +981,8 @@
     ],
     "chapter_joined": "Paralogue 9",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Chrom or Sumia"
+    "recruit_note": "Enemy, talk with Chrom or Sumia",
+    "gender": "Female"
   },
   {
     "name": "Severa",
@@ -971,7 +1007,8 @@
     "high_growth_stats": [],
     "chapter_joined": "Paralogue 10",
     "is_recruitable_enemy": true,
-    "recruit_note": "NPC, let her talk to Holland, the enemy Villager"
+    "recruit_note": "NPC, let her talk to Holland, the enemy Villager",
+    "gender": "Female"
   },
   {
     "name": "Gerome",
@@ -999,7 +1036,8 @@
     ],
     "chapter_joined": "Paralogue 11",
     "is_recruitable_enemy": false,
-    "recruit_note": "NPC, talk with Chrom or Cherche"
+    "recruit_note": "NPC, talk with Chrom or Cherche",
+    "gender": "Male"
   },
   {
     "name": "Morgan",
@@ -1020,7 +1058,8 @@
     "high_growth_stats": [],
     "chapter_joined": "Paralogue 12",
     "is_recruitable_enemy": false,
-    "recruit_note": "NPC, talk with Chrom or the Avatar"
+    "recruit_note": "NPC, talk with Chrom or the Avatar",
+    "gender": null
   },
   {
     "name": "Yarne",
@@ -1049,7 +1088,8 @@
     ],
     "chapter_joined": "Paralogue 13",
     "is_recruitable_enemy": true,
-    "recruit_note": "NPC/enemy, talk with Chrom or Panne"
+    "recruit_note": "NPC/enemy, talk with Chrom or Panne",
+    "gender": "Male"
   },
   {
     "name": "Laurent",
@@ -1074,7 +1114,8 @@
     "high_growth_stats": [],
     "chapter_joined": "Paralogue 14",
     "is_recruitable_enemy": false,
-    "recruit_note": "Have Chrom or Miriel visit the south-western village"
+    "recruit_note": "Have Chrom or Miriel visit the south-western village",
+    "gender": "Male"
   },
   {
     "name": "Noire",
@@ -1097,7 +1138,8 @@
     "high_growth_stats": [],
     "chapter_joined": "Paralogue 15",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from Turn 2"
+    "recruit_note": "Automatically from Turn 2",
+    "gender": "Female"
   },
   {
     "name": "Nah",
@@ -1123,7 +1165,8 @@
     ],
     "chapter_joined": "Paralogue 16",
     "is_recruitable_enemy": false,
-    "recruit_note": "NPC, talk with Chrom or Nowi"
+    "recruit_note": "NPC, talk with Chrom or Nowi",
+    "gender": "Female"
   },
   {
     "name": "Gangrel",
@@ -1147,7 +1190,8 @@
     "high_growth_stats": [],
     "chapter_joined": "Paralogue 18",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Chrom 3 times"
+    "recruit_note": "Enemy, talk with Chrom 3 times",
+    "gender": "Male"
   },
   {
     "name": "Walhart",
@@ -1175,7 +1219,8 @@
     ],
     "chapter_joined": "Paralogue 19",
     "is_recruitable_enemy": false,
-    "recruit_note": "End of chapter, if Chrom fought him in this chapter"
+    "recruit_note": "End of chapter, if Chrom fought him in this chapter",
+    "gender": "Male"
   },
   {
     "name": "Emmeryn",
@@ -1203,7 +1248,8 @@
     ],
     "chapter_joined": "Paralogue 20",
     "is_recruitable_enemy": false,
-    "recruit_note": "End of chapter, if she survived this chapter"
+    "recruit_note": "End of chapter, if she survived this chapter",
+    "gender": "Female"
   },
   {
     "name": "Yen'fay",
@@ -1226,7 +1272,8 @@
       "Res": null
     },
     "low_growth_stats": [],
-    "high_growth_stats": []
+    "high_growth_stats": [],
+    "gender": "Male"
   },
   {
     "name": "Aversa",
@@ -1252,7 +1299,8 @@
     ],
     "chapter_joined": "Paralogue 22",
     "is_recruitable_enemy": false,
-    "recruit_note": "End of chapter, if she (NPC version) survived this chapter"
+    "recruit_note": "End of chapter, if she (NPC version) survived this chapter",
+    "gender": "Female"
   },
   {
     "name": "Priam",
@@ -1282,6 +1330,7 @@
     ],
     "chapter_joined": "Paralogue 23",
     "is_recruitable_enemy": false,
-    "recruit_note": "End of chapter"
+    "recruit_note": "End of chapter",
+    "gender": "Male"
   }
 ]

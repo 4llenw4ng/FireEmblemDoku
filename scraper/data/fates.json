@@ -21,7 +21,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": null
   },
   {
     "name": "Felicia",
@@ -47,7 +48,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Jakob",
@@ -72,7 +74,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Kaze",
@@ -101,7 +104,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Azura",
@@ -127,7 +131,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Silas",
@@ -153,7 +158,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Shura",
@@ -181,7 +187,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Izana",
@@ -206,7 +213,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Mozu",
@@ -229,7 +237,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Rinkah",
@@ -256,7 +265,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Sakura",
@@ -281,7 +291,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Hana",
@@ -307,7 +318,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Subaki",
@@ -334,7 +346,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Saizo",
@@ -361,7 +374,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Orochi",
@@ -389,7 +403,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Hinoka",
@@ -414,7 +429,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Azama",
@@ -440,7 +456,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Setsuna",
@@ -469,7 +486,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Hayato",
@@ -496,7 +514,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Oboro",
@@ -521,7 +540,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Hinata",
@@ -548,7 +568,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Takumi",
@@ -576,7 +597,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Kagero",
@@ -604,7 +626,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Reina",
@@ -634,7 +657,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Kaden",
@@ -659,7 +683,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Ryoma",
@@ -684,7 +709,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Scarlet",
@@ -711,7 +737,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Yukimura",
@@ -737,7 +764,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Kana",
@@ -761,7 +789,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": null
   },
   {
     "name": "Shigure",
@@ -786,7 +815,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Dwyer",
@@ -811,7 +841,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Sophie",
@@ -837,7 +868,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Midori",
@@ -863,7 +895,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Shiro",
@@ -888,7 +921,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Kiragi",
@@ -914,7 +948,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Asugi",
@@ -939,7 +974,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Selkie",
@@ -966,7 +1002,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Hisame",
@@ -992,7 +1029,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Mitama",
@@ -1017,7 +1055,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Caeldori",
@@ -1043,7 +1082,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Rhajat",
@@ -1071,7 +1111,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Gunter",
@@ -1105,7 +1146,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Elise",
@@ -1134,7 +1176,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Arthur",
@@ -1161,7 +1204,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Effie",
@@ -1188,7 +1232,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Odin",
@@ -1215,7 +1260,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Niles",
@@ -1240,7 +1286,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Nyx",
@@ -1267,7 +1314,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Camilla",
@@ -1291,7 +1339,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Selena",
@@ -1316,7 +1365,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Beruka",
@@ -1341,7 +1391,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Laslow",
@@ -1366,7 +1417,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Peri",
@@ -1392,7 +1444,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Benny",
@@ -1418,7 +1471,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Charlotte",
@@ -1447,7 +1501,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Leo",
@@ -1471,7 +1526,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Keaton",
@@ -1500,7 +1556,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Xander",
@@ -1529,7 +1586,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Flora",
@@ -1554,7 +1612,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Siegbert",
@@ -1581,7 +1640,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Forrest",
@@ -1609,7 +1669,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Ignatius",
@@ -1634,7 +1695,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Velouria",
@@ -1659,7 +1721,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Percy",
@@ -1687,7 +1750,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Male"
   },
   {
     "name": "Ophelia",
@@ -1715,7 +1779,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Soleil",
@@ -1742,7 +1807,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Nina",
@@ -1765,7 +1831,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": ""
+    "recruit_note": "",
+    "gender": "Female"
   },
   {
     "name": "Fuga",
@@ -1790,6 +1857,7 @@
       "Res": null
     },
     "low_growth_stats": [],
-    "high_growth_stats": []
+    "high_growth_stats": [],
+    "gender": "Male"
   }
 ]

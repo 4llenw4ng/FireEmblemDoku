@@ -27,7 +27,8 @@
     ],
     "chapter_joined": "P",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically on the first turn"
+    "recruit_note": "Automatically on the first turn",
+    "gender": "Male"
   },
   {
     "name": "Noish",
@@ -57,7 +58,8 @@
     ],
     "chapter_joined": "P",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically on the first turn"
+    "recruit_note": "Automatically on the first turn",
+    "gender": "Male"
   },
   {
     "name": "Alec",
@@ -85,7 +87,8 @@
     ],
     "chapter_joined": "P",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically on the first turn"
+    "recruit_note": "Automatically on the first turn",
+    "gender": "Male"
   },
   {
     "name": "Arden",
@@ -116,7 +119,8 @@
     ],
     "chapter_joined": "P",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically on the first turn"
+    "recruit_note": "Automatically on the first turn",
+    "gender": "Male"
   },
   {
     "name": "Cuan",
@@ -146,7 +150,8 @@
     ],
     "chapter_joined": "P",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically on the third turn"
+    "recruit_note": "Automatically on the third turn",
+    "gender": "Male"
   },
   {
     "name": "Ethlin",
@@ -176,7 +181,8 @@
     "high_growth_stats": [],
     "chapter_joined": "P",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically on the third turn"
+    "recruit_note": "Automatically on the third turn",
+    "gender": "Female"
   },
   {
     "name": "Fin",
@@ -204,7 +210,8 @@
     ],
     "chapter_joined": "P",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically on the third turn"
+    "recruit_note": "Automatically on the third turn",
+    "gender": "Male"
   },
   {
     "name": "Lex",
@@ -236,7 +243,8 @@
     ],
     "chapter_joined": "P",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically on the second turn"
+    "recruit_note": "Automatically on the second turn",
+    "gender": "Male"
   },
   {
     "name": "Azel",
@@ -266,7 +274,8 @@
     "high_growth_stats": [],
     "chapter_joined": "P",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically on the second turn"
+    "recruit_note": "Automatically on the second turn",
+    "gender": "Male"
   },
   {
     "name": "Midayle",
@@ -295,7 +304,8 @@
     ],
     "chapter_joined": "P",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically once you conquer Jungby"
+    "recruit_note": "Automatically once you conquer Jungby",
+    "gender": "Male"
   },
   {
     "name": "Adean",
@@ -323,7 +333,8 @@
     "high_growth_stats": [],
     "chapter_joined": "1",
     "is_recruitable_enemy": true,
-    "recruit_note": "Automatically on the first enemy turn"
+    "recruit_note": "Automatically on the first enemy turn",
+    "gender": "Female"
   },
   {
     "name": "Dew",
@@ -349,7 +360,8 @@
     "high_growth_stats": [],
     "chapter_joined": "1",
     "is_recruitable_enemy": true,
-    "recruit_note": "Automatically on the first enemy turn"
+    "recruit_note": "Automatically on the first enemy turn",
+    "gender": "Male"
   },
   {
     "name": "Ira",
@@ -377,7 +389,8 @@
     "high_growth_stats": [],
     "chapter_joined": "1",
     "is_recruitable_enemy": false,
-    "recruit_note": "Talk with Sigurd, after taking Genoa"
+    "recruit_note": "Talk with Sigurd, after taking Genoa",
+    "gender": "Female"
   },
   {
     "name": "Diadora",
@@ -408,7 +421,8 @@
     "high_growth_stats": [],
     "chapter_joined": "1",
     "is_recruitable_enemy": false,
-    "recruit_note": "Make Sigurd enter the forest between Marpha and Verdane"
+    "recruit_note": "Make Sigurd enter the forest between Marpha and Verdane",
+    "gender": "Female"
   },
   {
     "name": "Jamka",
@@ -437,7 +451,8 @@
     ],
     "chapter_joined": "1",
     "is_recruitable_enemy": false,
-    "recruit_note": "Talk with Adean"
+    "recruit_note": "Talk with Adean",
+    "gender": "Male"
   },
   {
     "name": "Holyn",
@@ -466,7 +481,8 @@
     ],
     "chapter_joined": "2",
     "is_recruitable_enemy": false,
-    "recruit_note": "Beat the arena with a melee weapon user"
+    "recruit_note": "Beat the arena with a melee weapon user",
+    "gender": "Male"
   },
   {
     "name": "Lachesis",
@@ -496,7 +512,8 @@
     "high_growth_stats": [],
     "chapter_joined": "2",
     "is_recruitable_enemy": false,
-    "recruit_note": "Talk with Sigurd"
+    "recruit_note": "Talk with Sigurd",
+    "gender": "Female"
   },
   {
     "name": "Levin",
@@ -522,7 +539,8 @@
     "high_growth_stats": [],
     "chapter_joined": "2",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically the turn after Heirhein is conquered"
+    "recruit_note": "Automatically the turn after Heirhein is conquered",
+    "gender": "Male"
   },
   {
     "name": "Sylvia",
@@ -551,7 +569,8 @@
     "high_growth_stats": [],
     "chapter_joined": "2",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically the turn after Heirhein is conquered"
+    "recruit_note": "Automatically the turn after Heirhein is conquered",
+    "gender": "Female"
   },
   {
     "name": "Fury",
@@ -580,7 +599,8 @@
     "high_growth_stats": [],
     "chapter_joined": "2",
     "is_recruitable_enemy": false,
-    "recruit_note": "Talk with Levin"
+    "recruit_note": "Talk with Levin",
+    "gender": "Female"
   },
   {
     "name": "Beowolf",
@@ -609,7 +629,8 @@
     ],
     "chapter_joined": "2",
     "is_recruitable_enemy": false,
-    "recruit_note": "Let someone pay him 10000 gold (he keeps it)"
+    "recruit_note": "Let someone pay him 10000 gold (he keeps it)",
+    "gender": "Male"
   },
   {
     "name": "Briggid",
@@ -638,7 +659,8 @@
     "high_growth_stats": [],
     "chapter_joined": "3",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically after Silvall is conquered"
+    "recruit_note": "Automatically after Silvall is conquered",
+    "gender": "Female"
   },
   {
     "name": "Claude",
@@ -667,7 +689,8 @@
     "high_growth_stats": [],
     "chapter_joined": "3",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically after Silvall is conquered"
+    "recruit_note": "Automatically after Silvall is conquered",
+    "gender": "Male"
   },
   {
     "name": "Tiltyu",
@@ -695,7 +718,8 @@
     "high_growth_stats": [],
     "chapter_joined": "3",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically after Silvall is conquered"
+    "recruit_note": "Automatically after Silvall is conquered",
+    "gender": "Female"
   },
   {
     "name": "Mana",
@@ -724,7 +748,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": null
+    "recruit_note": null,
+    "gender": "Female"
   },
   {
     "name": "Radney",
@@ -753,7 +778,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": null
+    "recruit_note": null,
+    "gender": "Female"
   },
   {
     "name": "Roddlevan",
@@ -782,7 +808,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": null
+    "recruit_note": null,
+    "gender": "Male"
   },
   {
     "name": "Oifey",
@@ -811,7 +838,8 @@
     ],
     "chapter_joined": 6,
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically on the second turn"
+    "recruit_note": "Automatically on the second turn",
+    "gender": "Male"
   },
   {
     "name": "Tristan",
@@ -841,7 +869,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": null
+    "recruit_note": null,
+    "gender": "Male"
   },
   {
     "name": "Dimna",
@@ -870,7 +899,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": null
+    "recruit_note": null,
+    "gender": "Male"
   },
   {
     "name": "Yuria",
@@ -900,7 +930,8 @@
     ],
     "chapter_joined": 6,
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically after you conquer Ganeshire"
+    "recruit_note": "Automatically after you conquer Ganeshire",
+    "gender": "Female"
   },
   {
     "name": "Femina",
@@ -930,7 +961,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": null
+    "recruit_note": null,
+    "gender": "Female"
   },
   {
     "name": "Amid",
@@ -960,7 +992,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": null
+    "recruit_note": null,
+    "gender": "Male"
   },
   {
     "name": "Johan",
@@ -991,7 +1024,8 @@
     ],
     "chapter_joined": 6,
     "is_recruitable_enemy": false,
-    "recruit_note": "Talk with Radney/Lakche (you cannot recruit Johalva afterwards)"
+    "recruit_note": "Talk with Radney/Lakche (you cannot recruit Johalva afterwards)",
+    "gender": "Male"
   },
   {
     "name": "Johalva",
@@ -1022,7 +1056,8 @@
     ],
     "chapter_joined": 6,
     "is_recruitable_enemy": false,
-    "recruit_note": "Talk with Radney/Lakche (you cannot recruit Johan afterwards)"
+    "recruit_note": "Talk with Radney/Lakche (you cannot recruit Johan afterwards)",
+    "gender": "Male"
   },
   {
     "name": "Shanan",
@@ -1053,7 +1088,8 @@
     ],
     "chapter_joined": 7,
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically on the first turn"
+    "recruit_note": "Automatically on the first turn",
+    "gender": "Male"
   },
   {
     "name": "Daisy",
@@ -1081,7 +1117,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": null
+    "recruit_note": null,
+    "gender": "Female"
   },
   {
     "name": "Janne",
@@ -1112,7 +1149,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": null
+    "recruit_note": null,
+    "gender": "Female"
   },
   {
     "name": "Aless",
@@ -1141,7 +1179,8 @@
     ],
     "chapter_joined": 7,
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically one turn after Melgen is conquered"
+    "recruit_note": "Automatically one turn after Melgen is conquered",
+    "gender": "Male"
   },
   {
     "name": "Laylea",
@@ -1167,7 +1206,8 @@
     "high_growth_stats": [],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": null
+    "recruit_note": null,
+    "gender": "Female"
   },
   {
     "name": "Linda",
@@ -1197,7 +1237,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": null
+    "recruit_note": null,
+    "gender": "Female"
   },
   {
     "name": "Asaello",
@@ -1228,7 +1269,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": null
+    "recruit_note": null,
+    "gender": "Male"
   },
   {
     "name": "Hawk",
@@ -1261,7 +1303,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": null
+    "recruit_note": null,
+    "gender": "Male"
   },
   {
     "name": "Hannibal",
@@ -1294,7 +1337,8 @@
     ],
     "chapter_joined": 9,
     "is_recruitable_enemy": false,
-    "recruit_note": "Talk with Sharlow/Corpul"
+    "recruit_note": "Talk with Sharlow/Corpul",
+    "gender": "Male"
   },
   {
     "name": "Sharlow",
@@ -1324,7 +1368,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": null
+    "recruit_note": null,
+    "gender": "Male"
   },
   {
     "name": "Celice",
@@ -1350,7 +1395,8 @@
     ],
     "chapter_joined": 6,
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically on the first turn"
+    "recruit_note": "Automatically on the first turn",
+    "gender": "Male"
   },
   {
     "name": "Leaf",
@@ -1379,7 +1425,8 @@
     ],
     "chapter_joined": 7,
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically on the first turn"
+    "recruit_note": "Automatically on the first turn",
+    "gender": "Male"
   },
   {
     "name": "Altenna",
@@ -1409,7 +1456,8 @@
     ],
     "chapter_joined": 9,
     "is_recruitable_enemy": false,
-    "recruit_note": "Talk with Leaf, then defeat Trabant. She will return and talk to Celice"
+    "recruit_note": "Talk with Leaf, then defeat Trabant. She will return and talk to Celice",
+    "gender": "Female"
   },
   {
     "name": "Rana",
@@ -1437,7 +1485,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": null
+    "recruit_note": null,
+    "gender": "Female"
   },
   {
     "name": "Lakche",
@@ -1466,7 +1515,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": null
+    "recruit_note": null,
+    "gender": "Female"
   },
   {
     "name": "Skasaher",
@@ -1496,7 +1546,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": null
+    "recruit_note": null,
+    "gender": "Male"
   },
   {
     "name": "Delmud",
@@ -1526,7 +1577,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": null
+    "recruit_note": null,
+    "gender": "Male"
   },
   {
     "name": "Lester",
@@ -1556,7 +1608,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": null
+    "recruit_note": null,
+    "gender": "Male"
   },
   {
     "name": "Fee",
@@ -1584,7 +1637,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": null
+    "recruit_note": null,
+    "gender": "Female"
   },
   {
     "name": "Arthur",
@@ -1612,7 +1666,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": null
+    "recruit_note": null,
+    "gender": "Male"
   },
   {
     "name": "Patty",
@@ -1639,7 +1694,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": null
+    "recruit_note": null,
+    "gender": "Female"
   },
   {
     "name": "Nanna",
@@ -1669,7 +1725,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": null
+    "recruit_note": null,
+    "gender": "Female"
   },
   {
     "name": "Leen",
@@ -1695,7 +1752,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": null
+    "recruit_note": null,
+    "gender": "Female"
   },
   {
     "name": "Tinny",
@@ -1723,7 +1781,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": null
+    "recruit_note": null,
+    "gender": "Female"
   },
   {
     "name": "Faval",
@@ -1753,7 +1812,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": null
+    "recruit_note": null,
+    "gender": "Male"
   },
   {
     "name": "Sety",
@@ -1785,7 +1845,8 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": null
+    "recruit_note": null,
+    "gender": "Male"
   },
   {
     "name": "Corpul",
@@ -1812,6 +1873,7 @@
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,
-    "recruit_note": null
+    "recruit_note": null,
+    "gender": "Male"
   }
 ]

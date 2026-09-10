@@ -27,7 +27,8 @@
     ],
     "chapter_joined": "P-1 *1",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Frey",
@@ -57,7 +58,8 @@
     ],
     "chapter_joined": "P-2",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Abel",
@@ -87,7 +89,8 @@
     ],
     "chapter_joined": "P-2 *1",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Cain",
@@ -117,7 +120,8 @@
     ],
     "chapter_joined": "P-3 *1",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Jagen",
@@ -147,7 +151,8 @@
     "high_growth_stats": [],
     "chapter_joined": "P-3 *1",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Gordin",
@@ -176,7 +181,8 @@
     ],
     "chapter_joined": "P-4 *1",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Marth"
+    "recruit_note": "Enemy, talk with Marth",
+    "gender": "Male"
   },
   {
     "name": "Draug",
@@ -205,7 +211,8 @@
     ],
     "chapter_joined": "1",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Norne",
@@ -234,7 +241,8 @@
     ],
     "chapter_joined": "1",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start *2"
+    "recruit_note": "Automatically from the start *2",
+    "gender": "Female"
   },
   {
     "name": "Shiida",
@@ -266,7 +274,8 @@
     ],
     "chapter_joined": "1",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Female"
   },
   {
     "name": "Wrys",
@@ -296,7 +305,8 @@
     "high_growth_stats": [],
     "chapter_joined": "1",
     "is_recruitable_enemy": false,
-    "recruit_note": "Visit the western village with Marth"
+    "recruit_note": "Visit the western village with Marth",
+    "gender": "Male"
   },
   {
     "name": "Ogma",
@@ -325,7 +335,8 @@
     ],
     "chapter_joined": "2",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Barst",
@@ -354,7 +365,8 @@
     ],
     "chapter_joined": "2",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Bord",
@@ -384,7 +396,8 @@
     ],
     "chapter_joined": "2",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Cord",
@@ -414,7 +427,8 @@
     ],
     "chapter_joined": "2",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Castor",
@@ -442,7 +456,8 @@
     "high_growth_stats": [],
     "chapter_joined": "2",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Shiida"
+    "recruit_note": "Enemy, talk with Shiida",
+    "gender": "Male"
   },
   {
     "name": "Darros",
@@ -473,7 +488,8 @@
     ],
     "chapter_joined": "2",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Marth"
+    "recruit_note": "Enemy, talk with Marth",
+    "gender": "Male"
   },
   {
     "name": "Julian",
@@ -502,7 +518,8 @@
     ],
     "chapter_joined": "3",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Lena",
@@ -532,7 +549,8 @@
     ],
     "chapter_joined": "3",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Female"
   },
   {
     "name": "Nabarl",
@@ -561,7 +579,8 @@
     ],
     "chapter_joined": "3",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Shiida"
+    "recruit_note": "Enemy, talk with Shiida",
+    "gender": "Male"
   },
   {
     "name": "Merric",
@@ -590,7 +609,8 @@
     ],
     "chapter_joined": "4",
     "is_recruitable_enemy": false,
-    "recruit_note": "Visit the western village with Marth"
+    "recruit_note": "Visit the western village with Marth",
+    "gender": "Male"
   },
   {
     "name": "Matthis",
@@ -620,7 +640,8 @@
     ],
     "chapter_joined": "4",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Lena"
+    "recruit_note": "Enemy, talk with Lena",
+    "gender": "Male"
   },
   {
     "name": "Hardin",
@@ -648,7 +669,8 @@
     "high_growth_stats": [],
     "chapter_joined": "5",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Wolf",
@@ -681,7 +703,8 @@
     ],
     "chapter_joined": "5",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Sedgar",
@@ -714,7 +737,8 @@
     ],
     "chapter_joined": "5",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Roshea",
@@ -746,7 +770,8 @@
     ],
     "chapter_joined": "5",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Vyland",
@@ -776,7 +801,8 @@
     ],
     "chapter_joined": "5",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Wendell",
@@ -806,7 +832,8 @@
     "high_growth_stats": [],
     "chapter_joined": "5",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Marth or Merric"
+    "recruit_note": "Enemy, talk with Marth or Merric",
+    "gender": "Male"
   },
   {
     "name": "Rickard",
@@ -833,7 +860,8 @@
     "high_growth_stats": [],
     "chapter_joined": "6",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Marth or Julian"
+    "recruit_note": "Enemy, talk with Marth or Julian",
+    "gender": "Male"
   },
   {
     "name": "Athena",
@@ -862,7 +890,8 @@
     ],
     "chapter_joined": "6x",
     "is_recruitable_enemy": false,
-    "recruit_note": "Visit the village with Marth"
+    "recruit_note": "Visit the village with Marth",
+    "gender": "Female"
   },
   {
     "name": "Bantu",
@@ -893,7 +922,8 @@
     "high_growth_stats": [],
     "chapter_joined": "7",
     "is_recruitable_enemy": false,
-    "recruit_note": "Visit the village with Marth"
+    "recruit_note": "Visit the village with Marth",
+    "gender": "Male"
   },
   {
     "name": "Caesar",
@@ -923,7 +953,8 @@
     ],
     "chapter_joined": "8",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Radd",
@@ -952,7 +983,8 @@
     ],
     "chapter_joined": "8",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Roger",
@@ -982,7 +1014,8 @@
     ],
     "chapter_joined": "8",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Shiida"
+    "recruit_note": "Enemy, talk with Shiida",
+    "gender": "Male"
   },
   {
     "name": "Jeorge",
@@ -1011,7 +1044,8 @@
     "high_growth_stats": [],
     "chapter_joined": "9",
     "is_recruitable_enemy": false,
-    "recruit_note": "Visit the village with Marth"
+    "recruit_note": "Visit the village with Marth",
+    "gender": "Male"
   },
   {
     "name": "Maria",
@@ -1041,7 +1075,8 @@
     ],
     "chapter_joined": "10",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Marth"
+    "recruit_note": "Enemy, talk with Marth",
+    "gender": "Female"
   },
   {
     "name": "Minerva",
@@ -1067,7 +1102,8 @@
     "high_growth_stats": [],
     "chapter_joined": "10",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Marth *3"
+    "recruit_note": "Enemy, talk with Marth *3",
+    "gender": "Female"
   },
   {
     "name": "Linde",
@@ -1096,7 +1132,8 @@
     ],
     "chapter_joined": "11",
     "is_recruitable_enemy": false,
-    "recruit_note": "Visit the village with Marth"
+    "recruit_note": "Visit the village with Marth",
+    "gender": "Female"
   },
   {
     "name": "Jake",
@@ -1124,7 +1161,8 @@
     "high_growth_stats": [],
     "chapter_joined": "11",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Shiida *4"
+    "recruit_note": "Enemy, talk with Shiida *4",
+    "gender": "Male"
   },
   {
     "name": "Midia",
@@ -1155,7 +1193,8 @@
     ],
     "chapter_joined": "12",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Female"
   },
   {
     "name": "Dolph",
@@ -1184,7 +1223,8 @@
     ],
     "chapter_joined": "12",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Macellan",
@@ -1212,7 +1252,8 @@
     ],
     "chapter_joined": "12",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Tomas",
@@ -1241,7 +1282,8 @@
     ],
     "chapter_joined": "12",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Boah",
@@ -1273,7 +1315,8 @@
     "high_growth_stats": [],
     "chapter_joined": "12",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Horace",
@@ -1306,7 +1349,8 @@
     ],
     "chapter_joined": "12x",
     "is_recruitable_enemy": false,
-    "recruit_note": "Clear the chapter without killing him"
+    "recruit_note": "Clear the chapter without killing him",
+    "gender": "Male"
   },
   {
     "name": "Beck",
@@ -1334,7 +1378,8 @@
     ],
     "chapter_joined": "13",
     "is_recruitable_enemy": false,
-    "recruit_note": "Visit the village with Marth"
+    "recruit_note": "Visit the village with Marth",
+    "gender": "Male"
   },
   {
     "name": "Astram",
@@ -1365,7 +1410,8 @@
     ],
     "chapter_joined": "13",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Midia"
+    "recruit_note": "Enemy, talk with Midia",
+    "gender": "Male"
   },
   {
     "name": "Palla",
@@ -1395,7 +1441,8 @@
     ],
     "chapter_joined": "14",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Marth"
+    "recruit_note": "Enemy, talk with Marth",
+    "gender": "Female"
   },
   {
     "name": "Catria",
@@ -1425,7 +1472,8 @@
     ],
     "chapter_joined": "14",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Marth"
+    "recruit_note": "Enemy, talk with Marth",
+    "gender": "Female"
   },
   {
     "name": "Arran",
@@ -1453,7 +1501,8 @@
     "high_growth_stats": [],
     "chapter_joined": "16",
     "is_recruitable_enemy": false,
-    "recruit_note": "Visit the village to the left with Marth *5"
+    "recruit_note": "Visit the village to the left with Marth *5",
+    "gender": "Male"
   },
   {
     "name": "Samson",
@@ -1483,7 +1532,8 @@
     ],
     "chapter_joined": "16",
     "is_recruitable_enemy": false,
-    "recruit_note": "Visit the village to the right with Marth *5"
+    "recruit_note": "Visit the village to the right with Marth *5",
+    "gender": "Male"
   },
   {
     "name": "Xane",
@@ -1511,7 +1561,8 @@
     "high_growth_stats": [],
     "chapter_joined": "16",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Marth"
+    "recruit_note": "Enemy, talk with Marth",
+    "gender": "Male"
   },
   {
     "name": "Etzel",
@@ -1538,7 +1589,8 @@
     "high_growth_stats": [],
     "chapter_joined": "17x",
     "is_recruitable_enemy": false,
-    "recruit_note": "Clear the chapter without killing him"
+    "recruit_note": "Clear the chapter without killing him",
+    "gender": "Male"
   },
   {
     "name": "Est",
@@ -1567,7 +1619,8 @@
     ],
     "chapter_joined": "18",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Marth"
+    "recruit_note": "Enemy, talk with Marth",
+    "gender": "Female"
   },
   {
     "name": "Tiki",
@@ -1599,7 +1652,8 @@
     ],
     "chapter_joined": "19",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Bantu"
+    "recruit_note": "Enemy, talk with Bantu",
+    "gender": "Female"
   },
   {
     "name": "Lorenz",
@@ -1631,7 +1685,8 @@
     ],
     "chapter_joined": "20",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Marth or Shiida"
+    "recruit_note": "Enemy, talk with Marth or Shiida",
+    "gender": "Male"
   },
   {
     "name": "Ymir",
@@ -1661,7 +1716,8 @@
     ],
     "chapter_joined": "20x",
     "is_recruitable_enemy": false,
-    "recruit_note": "Talk with Marth and complete the chapter"
+    "recruit_note": "Talk with Marth and complete the chapter",
+    "gender": "Male"
   },
   {
     "name": "Elice",
@@ -1691,7 +1747,8 @@
     ],
     "chapter_joined": "24",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Female"
   },
   {
     "name": "Nagi",
@@ -1723,7 +1780,8 @@
     ],
     "chapter_joined": "24x",
     "is_recruitable_enemy": false,
-    "recruit_note": "Clear the chapter"
+    "recruit_note": "Clear the chapter",
+    "gender": "Female"
   },
   {
     "name": "Gotoh",
@@ -1755,6 +1813,7 @@
     ],
     "chapter_joined": "Final",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start *6"
+    "recruit_note": "Automatically from the start *6",
+    "gender": "Male"
   }
 ]

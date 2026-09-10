@@ -25,7 +25,8 @@
     ],
     "chapter_joined": "Prologue",
     "is_recruitable_enemy": false,
-    "recruit_note": "From the start"
+    "recruit_note": "From the start",
+    "gender": "Male"
   },
   {
     "name": "Titania",
@@ -52,7 +53,8 @@
     ],
     "chapter_joined": "1",
     "is_recruitable_enemy": false,
-    "recruit_note": "From the start"
+    "recruit_note": "From the start",
+    "gender": "Female"
   },
   {
     "name": "Oscar",
@@ -77,7 +79,8 @@
     "high_growth_stats": [],
     "chapter_joined": "1",
     "is_recruitable_enemy": false,
-    "recruit_note": "From the start"
+    "recruit_note": "From the start",
+    "gender": "Male"
   },
   {
     "name": "Boyd",
@@ -105,7 +108,8 @@
     ],
     "chapter_joined": "1",
     "is_recruitable_enemy": false,
-    "recruit_note": "From the start"
+    "recruit_note": "From the start",
+    "gender": "Male"
   },
   {
     "name": "Rhys",
@@ -132,7 +136,8 @@
     ],
     "chapter_joined": "2",
     "is_recruitable_enemy": false,
-    "recruit_note": "From the start"
+    "recruit_note": "From the start",
+    "gender": "Male"
   },
   {
     "name": "Shinon",
@@ -162,7 +167,8 @@
     ],
     "chapter_joined": "3",
     "is_recruitable_enemy": false,
-    "recruit_note": "From the start"
+    "recruit_note": "From the start",
+    "gender": "Male"
   },
   {
     "name": "Gatrie",
@@ -190,7 +196,8 @@
     ],
     "chapter_joined": "3",
     "is_recruitable_enemy": false,
-    "recruit_note": "From the start"
+    "recruit_note": "From the start",
+    "gender": "Male"
   },
   {
     "name": "Soren",
@@ -218,7 +225,8 @@
     ],
     "chapter_joined": "4",
     "is_recruitable_enemy": false,
-    "recruit_note": "From the start"
+    "recruit_note": "From the start",
+    "gender": "Male"
   },
   {
     "name": "Mia",
@@ -245,7 +253,8 @@
     ],
     "chapter_joined": "7",
     "is_recruitable_enemy": false,
-    "recruit_note": "NPC, talk with Ike"
+    "recruit_note": "NPC, talk with Ike",
+    "gender": "Female"
   },
   {
     "name": "Ilyana",
@@ -270,7 +279,8 @@
     "high_growth_stats": [],
     "chapter_joined": "8",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Ike"
+    "recruit_note": "Enemy, talk with Ike",
+    "gender": "Female"
   },
   {
     "name": "Marcia",
@@ -295,7 +305,8 @@
     "high_growth_stats": [],
     "chapter_joined": "9",
     "is_recruitable_enemy": false,
-    "recruit_note": "NPC, talk with Ike (must have made Ike talk to her in Ch 3)"
+    "recruit_note": "NPC, talk with Ike (must have made Ike talk to her in Ch 3)",
+    "gender": "Female"
   },
   {
     "name": "Mist",
@@ -322,7 +333,8 @@
     ],
     "chapter_joined": "9",
     "is_recruitable_enemy": false,
-    "recruit_note": "From the start"
+    "recruit_note": "From the start",
+    "gender": "Female"
   },
   {
     "name": "Rolf",
@@ -349,7 +361,8 @@
     ],
     "chapter_joined": "9",
     "is_recruitable_enemy": false,
-    "recruit_note": "From the start"
+    "recruit_note": "From the start",
+    "gender": "Male"
   },
   {
     "name": "Lethe",
@@ -378,7 +391,8 @@
     ],
     "chapter_joined": "10",
     "is_recruitable_enemy": false,
-    "recruit_note": "Lethe must have survived Ch 9"
+    "recruit_note": "Lethe must have survived Ch 9",
+    "gender": "Female"
   },
   {
     "name": "Mordecai",
@@ -407,7 +421,8 @@
     ],
     "chapter_joined": "10",
     "is_recruitable_enemy": false,
-    "recruit_note": "Mordecai must have survived Ch 9"
+    "recruit_note": "Mordecai must have survived Ch 9",
+    "gender": "Male"
   },
   {
     "name": "Volke",
@@ -437,7 +452,8 @@
     ],
     "chapter_joined": "10",
     "is_recruitable_enemy": false,
-    "recruit_note": "Hire from the start"
+    "recruit_note": "Hire from the start",
+    "gender": "Male"
   },
   {
     "name": "Kieran",
@@ -464,7 +480,8 @@
     ],
     "chapter_joined": "11",
     "is_recruitable_enemy": false,
-    "recruit_note": "If the prison door was opened and he survived Ch 10 *"
+    "recruit_note": "If the prison door was opened and he survived Ch 10 *",
+    "gender": "Male"
   },
   {
     "name": "Brom",
@@ -492,7 +509,8 @@
     ],
     "chapter_joined": "11",
     "is_recruitable_enemy": false,
-    "recruit_note": "If the prison door was opened and he survived Ch 10 *"
+    "recruit_note": "If the prison door was opened and he survived Ch 10 *",
+    "gender": "Male"
   },
   {
     "name": "Nephenee",
@@ -517,7 +535,8 @@
     "high_growth_stats": [],
     "chapter_joined": "11",
     "is_recruitable_enemy": false,
-    "recruit_note": "If the prison door was opened and she survived Ch 10 *"
+    "recruit_note": "If the prison door was opened and she survived Ch 10 *",
+    "gender": "Female"
   },
   {
     "name": "Zihark",
@@ -545,7 +564,8 @@
     ],
     "chapter_joined": "11",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Lethe or Mordecai"
+    "recruit_note": "Enemy, talk with Lethe or Mordecai",
+    "gender": "Male"
   },
   {
     "name": "Jill",
@@ -570,7 +590,8 @@
     ],
     "chapter_joined": "12",
     "is_recruitable_enemy": false,
-    "recruit_note": "NPC, talk with Ike"
+    "recruit_note": "NPC, talk with Ike",
+    "gender": "Female"
   },
   {
     "name": "Sothe",
@@ -599,7 +620,8 @@
     ],
     "chapter_joined": "12",
     "is_recruitable_enemy": false,
-    "recruit_note": "Read one of the Info conversations"
+    "recruit_note": "Read one of the Info conversations",
+    "gender": "Male"
   },
   {
     "name": "Astrid",
@@ -625,7 +647,8 @@
     "high_growth_stats": [],
     "chapter_joined": "13",
     "is_recruitable_enemy": false,
-    "recruit_note": "NPC, talk with Ike"
+    "recruit_note": "NPC, talk with Ike",
+    "gender": "Female"
   },
   {
     "name": "Makalov",
@@ -653,7 +676,8 @@
     ],
     "chapter_joined": "14",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Marcia"
+    "recruit_note": "Enemy, talk with Marcia",
+    "gender": "Male"
   },
   {
     "name": "Stefan",
@@ -680,7 +704,8 @@
     ],
     "chapter_joined": "15",
     "is_recruitable_enemy": false,
-    "recruit_note": "Make Lethe or Mordecai step on the Vague Katti space"
+    "recruit_note": "Make Lethe or Mordecai step on the Vague Katti space",
+    "gender": "Male"
   },
   {
     "name": "Muarim",
@@ -710,7 +735,8 @@
     ],
     "chapter_joined": "15",
     "is_recruitable_enemy": false,
-    "recruit_note": "Joins after completing chapter"
+    "recruit_note": "Joins after completing chapter",
+    "gender": "Male"
   },
   {
     "name": "Tormod",
@@ -735,7 +761,8 @@
     "high_growth_stats": [],
     "chapter_joined": "15",
     "is_recruitable_enemy": false,
-    "recruit_note": "Joins after completing chapter"
+    "recruit_note": "Joins after completing chapter",
+    "gender": "Male"
   },
   {
     "name": "Devdan",
@@ -761,7 +788,8 @@
     ],
     "chapter_joined": "16",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Soren, Mist, Rolf, Sothe or Tormod"
+    "recruit_note": "Enemy, talk with Soren, Mist, Rolf, Sothe or Tormod",
+    "gender": "Male"
   },
   {
     "name": "Tanith",
@@ -788,7 +816,8 @@
     ],
     "chapter_joined": "18",
     "is_recruitable_enemy": false,
-    "recruit_note": "From the start"
+    "recruit_note": "From the start",
+    "gender": "Female"
   },
   {
     "name": "Reyson",
@@ -817,7 +846,8 @@
     ],
     "chapter_joined": "18",
     "is_recruitable_enemy": false,
-    "recruit_note": "Accept his request during the start of the chapter"
+    "recruit_note": "Accept his request during the start of the chapter",
+    "gender": "Male"
   },
   {
     "name": "Janaff",
@@ -846,7 +876,8 @@
     ],
     "chapter_joined": "18",
     "is_recruitable_enemy": false,
-    "recruit_note": "Comes with Reyson"
+    "recruit_note": "Comes with Reyson",
+    "gender": "Male"
   },
   {
     "name": "Ulki",
@@ -876,7 +907,8 @@
     ],
     "chapter_joined": "18",
     "is_recruitable_enemy": false,
-    "recruit_note": "Comes with Reyson"
+    "recruit_note": "Comes with Reyson",
+    "gender": "Male"
   },
   {
     "name": "Calill",
@@ -900,7 +932,8 @@
     "high_growth_stats": [],
     "chapter_joined": "20",
     "is_recruitable_enemy": false,
-    "recruit_note": "Read one of the Info conversations"
+    "recruit_note": "Read one of the Info conversations",
+    "gender": "Female"
   },
   {
     "name": "Tauroneo",
@@ -931,7 +964,8 @@
     ],
     "chapter_joined": "21",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Ike"
+    "recruit_note": "Enemy, talk with Ike",
+    "gender": "Male"
   },
   {
     "name": "Ranulf",
@@ -959,7 +993,8 @@
     ],
     "chapter_joined": "23",
     "is_recruitable_enemy": false,
-    "recruit_note": "From the start"
+    "recruit_note": "From the start",
+    "gender": "Male"
   },
   {
     "name": "Haar",
@@ -991,7 +1026,8 @@
     ],
     "chapter_joined": "23",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Jill"
+    "recruit_note": "Enemy, talk with Jill",
+    "gender": "Male"
   },
   {
     "name": "Lucia",
@@ -1018,7 +1054,8 @@
     ],
     "chapter_joined": "24",
     "is_recruitable_enemy": false,
-    "recruit_note": "From Turn 2"
+    "recruit_note": "From Turn 2",
+    "gender": "Female"
   },
   {
     "name": "Bastian",
@@ -1045,7 +1082,8 @@
     ],
     "chapter_joined": "24",
     "is_recruitable_enemy": false,
-    "recruit_note": "From Turn 2"
+    "recruit_note": "From Turn 2",
+    "gender": "Male"
   },
   {
     "name": "Geoffrey",
@@ -1073,7 +1111,8 @@
     ],
     "chapter_joined": "25",
     "is_recruitable_enemy": false,
-    "recruit_note": "He must have survived Ch 24"
+    "recruit_note": "He must have survived Ch 24",
+    "gender": "Male"
   },
   {
     "name": "Largo",
@@ -1102,7 +1141,8 @@
     ],
     "chapter_joined": "25",
     "is_recruitable_enemy": false,
-    "recruit_note": "Read one of the Info conversations (need to have Calill)"
+    "recruit_note": "Read one of the Info conversations (need to have Calill)",
+    "gender": "Male"
   },
   {
     "name": "Elincia",
@@ -1129,7 +1169,8 @@
     ],
     "chapter_joined": "26",
     "is_recruitable_enemy": false,
-    "recruit_note": "From the start"
+    "recruit_note": "From the start",
+    "gender": "Female"
   },
   {
     "name": "Ena",
@@ -1157,7 +1198,8 @@
     ],
     "chapter_joined": "28",
     "is_recruitable_enemy": false,
-    "recruit_note": "Nasir joins if the Black Knight was defeated. Otherwise Ena joins instead."
+    "recruit_note": "Nasir joins if the Black Knight was defeated. Otherwise Ena joins instead.",
+    "gender": "Female"
   },
   {
     "name": "Nasir",
@@ -1185,7 +1227,8 @@
     ],
     "chapter_joined": "28",
     "is_recruitable_enemy": false,
-    "recruit_note": "Nasir joins if the Black Knight was defeated. Otherwise Ena joins instead."
+    "recruit_note": "Nasir joins if the Black Knight was defeated. Otherwise Ena joins instead.",
+    "gender": "Male"
   },
   {
     "name": "Tibarn",
@@ -1216,7 +1259,8 @@
     ],
     "chapter_joined": "Final",
     "is_recruitable_enemy": false,
-    "recruit_note": "You can choose one of the three, near the beginning of the chapter (Easy/Normal Mode) or during the beginning of the 2nd part of the chapter (Hard Mode)"
+    "recruit_note": "You can choose one of the three, near the beginning of the chapter (Easy/Normal Mode) or during the beginning of the 2nd part of the chapter (Hard Mode)",
+    "gender": "Male"
   },
   {
     "name": "Naesala",
@@ -1246,7 +1290,8 @@
     ],
     "chapter_joined": "Final",
     "is_recruitable_enemy": false,
-    "recruit_note": "You can choose one of the three, near the beginning of the chapter (Easy/Normal Mode) or during the beginning of the 2nd part of the chapter (Hard Mode)"
+    "recruit_note": "You can choose one of the three, near the beginning of the chapter (Easy/Normal Mode) or during the beginning of the 2nd part of the chapter (Hard Mode)",
+    "gender": "Male"
   },
   {
     "name": "Giffca",
@@ -1276,6 +1321,7 @@
     ],
     "chapter_joined": "Final",
     "is_recruitable_enemy": false,
-    "recruit_note": "You can choose one of the three, near the beginning of the chapter (Easy/Normal Mode) or during the beginning of the 2nd part of the chapter (Hard Mode)"
+    "recruit_note": "You can choose one of the three, near the beginning of the chapter (Easy/Normal Mode) or during the beginning of the 2nd part of the chapter (Hard Mode)",
+    "gender": "Male"
   }
 ]

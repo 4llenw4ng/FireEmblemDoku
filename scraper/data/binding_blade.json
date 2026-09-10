@@ -23,7 +23,8 @@
     ],
     "chapter_joined": "1",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Marcus",
@@ -54,7 +55,8 @@
     ],
     "chapter_joined": "1",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Allen",
@@ -82,7 +84,8 @@
     ],
     "chapter_joined": "1",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Lance",
@@ -111,7 +114,8 @@
     ],
     "chapter_joined": "1",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Wolt",
@@ -139,7 +143,8 @@
     ],
     "chapter_joined": "1",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Bors",
@@ -166,7 +171,8 @@
     ],
     "chapter_joined": "1",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Merlinus",
@@ -195,7 +201,8 @@
     ],
     "chapter_joined": "2",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Ellen",
@@ -224,7 +231,8 @@
     ],
     "chapter_joined": "2",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Female"
   },
   {
     "name": "Dieck",
@@ -252,7 +260,8 @@
     ],
     "chapter_joined": "2",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from Turn 2"
+    "recruit_note": "Automatically from Turn 2",
+    "gender": "Male"
   },
   {
     "name": "Wade",
@@ -280,7 +289,8 @@
     ],
     "chapter_joined": "2",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from Turn 2"
+    "recruit_note": "Automatically from Turn 2",
+    "gender": "Male"
   },
   {
     "name": "Lott",
@@ -307,7 +317,8 @@
     ],
     "chapter_joined": "2",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from Turn 2"
+    "recruit_note": "Automatically from Turn 2",
+    "gender": "Male"
   },
   {
     "name": "Thany",
@@ -335,7 +346,8 @@
     ],
     "chapter_joined": "2",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from Turn 2"
+    "recruit_note": "Automatically from Turn 2",
+    "gender": "Female"
   },
   {
     "name": "Chad",
@@ -364,7 +376,8 @@
     ],
     "chapter_joined": "3",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Lugh",
@@ -389,7 +402,8 @@
     "high_growth_stats": [],
     "chapter_joined": "3",
     "is_recruitable_enemy": false,
-    "recruit_note": "Visit the north west village"
+    "recruit_note": "Visit the north west village",
+    "gender": "Male"
   },
   {
     "name": "Clarine",
@@ -416,7 +430,8 @@
     ],
     "chapter_joined": "4",
     "is_recruitable_enemy": false,
-    "recruit_note": "Appears as an NPC from Turn 4, let her talk to Roy"
+    "recruit_note": "Appears as an NPC from Turn 4, let her talk to Roy",
+    "gender": "Female"
   },
   {
     "name": "Rutger",
@@ -445,7 +460,8 @@
     ],
     "chapter_joined": "4",
     "is_recruitable_enemy": true,
-    "recruit_note": "Appears as an enemy from Turn 6, talk with Clarine"
+    "recruit_note": "Appears as an enemy from Turn 6, talk with Clarine",
+    "gender": "Male"
   },
   {
     "name": "Saul",
@@ -473,7 +489,8 @@
     ],
     "chapter_joined": "6",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Dorothy",
@@ -501,7 +518,8 @@
     ],
     "chapter_joined": "6",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Female"
   },
   {
     "name": "Sue",
@@ -529,7 +547,8 @@
     ],
     "chapter_joined": "6",
     "is_recruitable_enemy": false,
-    "recruit_note": "NPC, talk with Roy"
+    "recruit_note": "NPC, talk with Roy",
+    "gender": "Female"
   },
   {
     "name": "Zealot",
@@ -560,7 +579,8 @@
     ],
     "chapter_joined": "7",
     "is_recruitable_enemy": false,
-    "recruit_note": "Appears as an NPC from Turn 2, talk with Roy, Noah or Treck"
+    "recruit_note": "Appears as an NPC from Turn 2, talk with Roy, Noah or Treck",
+    "gender": "Male"
   },
   {
     "name": "Treck",
@@ -588,7 +608,8 @@
     ],
     "chapter_joined": "7",
     "is_recruitable_enemy": false,
-    "recruit_note": "Appears as an NPC from Turn 2, talk with Roy or Zealot"
+    "recruit_note": "Appears as an NPC from Turn 2, talk with Roy or Zealot",
+    "gender": "Male"
   },
   {
     "name": "Noah",
@@ -616,7 +637,8 @@
     ],
     "chapter_joined": "7",
     "is_recruitable_enemy": false,
-    "recruit_note": "Appears as an NPC from Turn 3, talk with Roy or Zealot"
+    "recruit_note": "Appears as an NPC from Turn 3, talk with Roy or Zealot",
+    "gender": "Male"
   },
   {
     "name": "Astohl",
@@ -645,7 +667,8 @@
     ],
     "chapter_joined": "8",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Lilina",
@@ -674,7 +697,8 @@
     ],
     "chapter_joined": "8",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Female"
   },
   {
     "name": "Wendy",
@@ -701,7 +725,8 @@
     ],
     "chapter_joined": "8",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from Turn 6"
+    "recruit_note": "Automatically from Turn 6",
+    "gender": "Female"
   },
   {
     "name": "Barth",
@@ -732,7 +757,8 @@
     ],
     "chapter_joined": "8",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from Turn 6"
+    "recruit_note": "Automatically from Turn 6",
+    "gender": "Male"
   },
   {
     "name": "Oujay",
@@ -760,7 +786,8 @@
     ],
     "chapter_joined": "8",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from Turn 6"
+    "recruit_note": "Automatically from Turn 6",
+    "gender": "Male"
   },
   {
     "name": "Fir",
@@ -788,7 +815,8 @@
     ],
     "chapter_joined": "9",
     "is_recruitable_enemy": true,
-    "recruit_note": "Appears as an enemy from Turn 2, talk with Noah"
+    "recruit_note": "Appears as an enemy from Turn 2, talk with Noah",
+    "gender": "Female"
   },
   {
     "name": "Shin",
@@ -816,7 +844,8 @@
     ],
     "chapter_joined": "9",
     "is_recruitable_enemy": true,
-    "recruit_note": "Appears as an enemy from Turn 2, talk with Sue"
+    "recruit_note": "Appears as an enemy from Turn 2, talk with Sue",
+    "gender": "Male"
   },
   {
     "name": "Gonzales",
@@ -846,7 +875,8 @@
     ],
     "chapter_joined": "10A / 10B",
     "is_recruitable_enemy": true,
-    "recruit_note": "Appears as an enemy from Turn 6, talk with Lilina"
+    "recruit_note": "Appears as an enemy from Turn 6, talk with Lilina",
+    "gender": "Male"
   },
   {
     "name": "Geese",
@@ -874,7 +904,8 @@
     ],
     "chapter_joined": "10A / 11B",
     "is_recruitable_enemy": false,
-    "recruit_note": "Appears as an NPC from Turn 5 (A) / Turn 6 (B), talk with Roy"
+    "recruit_note": "Appears as an NPC from Turn 5 (A) / Turn 6 (B), talk with Roy",
+    "gender": "Male"
   },
   {
     "name": "Klein",
@@ -901,7 +932,8 @@
     ],
     "chapter_joined": "10B / 11A",
     "is_recruitable_enemy": true,
-    "recruit_note": "Appears as an enemy from Turn 5 (A) / Turn 8 (B), talk with Roy or Clarine"
+    "recruit_note": "Appears as an enemy from Turn 5 (A) / Turn 8 (B), talk with Roy or Clarine",
+    "gender": "Male"
   },
   {
     "name": "Tate",
@@ -929,7 +961,8 @@
     ],
     "chapter_joined": "10B / 11A",
     "is_recruitable_enemy": true,
-    "recruit_note": "Appears as an enemy from Turn 7 (A) / Turn 10 (B), talk with Klein (or talk with Thany before and after Klein has been recruited (note that if you only talk with Thany after recruiting Klein, Tate will just become an NPC))"
+    "recruit_note": "Appears as an enemy from Turn 7 (A) / Turn 10 (B), talk with Klein (or talk with Thany before and after Klein has been recruited (note that if you only talk with Thany after recruiting Klein, Tate will just become an NPC))",
+    "gender": "Female"
   },
   {
     "name": "Lalum",
@@ -959,7 +992,8 @@
     ],
     "chapter_joined": "11A",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Female"
   },
   {
     "name": "Echidna",
@@ -989,7 +1023,8 @@
     ],
     "chapter_joined": "11A",
     "is_recruitable_enemy": false,
-    "recruit_note": "Appears as an NPC from Turn 8, talk with Lalum"
+    "recruit_note": "Appears as an NPC from Turn 8, talk with Lalum",
+    "gender": "Female"
   },
   {
     "name": "Elphin",
@@ -1018,7 +1053,8 @@
     ],
     "chapter_joined": "11B",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Bartre",
@@ -1049,7 +1085,8 @@
     ],
     "chapter_joined": "11B",
     "is_recruitable_enemy": false,
-    "recruit_note": "Appears as an NPC from Turn 9, talk with Roy or Fir"
+    "recruit_note": "Appears as an NPC from Turn 9, talk with Roy or Fir",
+    "gender": "Male"
   },
   {
     "name": "Ray",
@@ -1075,7 +1112,8 @@
     "high_growth_stats": [],
     "chapter_joined": "12",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Chad or Lugh"
+    "recruit_note": "Enemy, talk with Chad or Lugh",
+    "gender": "Male"
   },
   {
     "name": "Cath",
@@ -1104,7 +1142,8 @@
     ],
     "chapter_joined": "12 / 16 / 20 / 22",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Roy three times and she\u2019ll join during the third time. She appears in Chapters 6 (Turn 5), 8 (Turn 10), 12 (Turn 7), 16 (Turn 10), 20 (Turn 10) and 22 (Turn 15)"
+    "recruit_note": "Enemy, talk with Roy three times and she\u2019ll join during the third time. She appears in Chapters 6 (Turn 5), 8 (Turn 10), 12 (Turn 7), 16 (Turn 10), 20 (Turn 10) and 22 (Turn 15)",
+    "gender": "Female"
   },
   {
     "name": "Miredy",
@@ -1132,7 +1171,8 @@
     ],
     "chapter_joined": "13",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from Turn 3"
+    "recruit_note": "Automatically from Turn 3",
+    "gender": "Female"
   },
   {
     "name": "Percival",
@@ -1162,7 +1202,8 @@
     ],
     "chapter_joined": "13 / 15",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Lalum or Elphin (in Chapter 13, he automatically leaves at the end of Turn 8)"
+    "recruit_note": "Enemy, talk with Lalum or Elphin (in Chapter 13, he automatically leaves at the end of Turn 8)",
+    "gender": "Male"
   },
   {
     "name": "Cecilia",
@@ -1190,7 +1231,8 @@
     ],
     "chapter_joined": "14",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Female"
   },
   {
     "name": "Sofiya",
@@ -1218,7 +1260,8 @@
     ],
     "chapter_joined": "14",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Female"
   },
   {
     "name": "Igrene",
@@ -1247,7 +1290,8 @@
     ],
     "chapter_joined": "15",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Female"
   },
   {
     "name": "Garret",
@@ -1276,7 +1320,8 @@
     ],
     "chapter_joined": "15",
     "is_recruitable_enemy": true,
-    "recruit_note": "Appears as an enemy from Turn 3, talk with Lilina"
+    "recruit_note": "Appears as an enemy from Turn 3, talk with Lilina",
+    "gender": "Male"
   },
   {
     "name": "Fa",
@@ -1306,7 +1351,8 @@
     ],
     "chapter_joined": "16",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start (appears in the battle preparations)"
+    "recruit_note": "Automatically from the start (appears in the battle preparations)",
+    "gender": "Female"
   },
   {
     "name": "Hugh",
@@ -1334,7 +1380,8 @@
     ],
     "chapter_joined": "16",
     "is_recruitable_enemy": true,
-    "recruit_note": "Enemy, talk with Roy and pay him 10,000G to 5,000G (the less money you pay him, the lower his stats are)"
+    "recruit_note": "Enemy, talk with Roy and pay him 10,000G to 5,000G (the less money you pay him, the lower his stats are)",
+    "gender": "Male"
   },
   {
     "name": "Zeis",
@@ -1364,7 +1411,8 @@
     ],
     "chapter_joined": "16",
     "is_recruitable_enemy": true,
-    "recruit_note": "Appears as an enemy from Turn 2, talk with Miredy"
+    "recruit_note": "Appears as an enemy from Turn 2, talk with Miredy",
+    "gender": "Male"
   },
   {
     "name": "Douglas",
@@ -1394,7 +1442,8 @@
     ],
     "chapter_joined": "16x",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Niime",
@@ -1425,7 +1474,8 @@
     "high_growth_stats": [],
     "chapter_joined": "19A / 20B",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Female"
   },
   {
     "name": "Dayan",
@@ -1456,7 +1506,8 @@
     "high_growth_stats": [],
     "chapter_joined": "20B",
     "is_recruitable_enemy": false,
-    "recruit_note": "Appears as an NPC from Turn 3, talk with Roy, Sue or Shin"
+    "recruit_note": "Appears as an NPC from Turn 3, talk with Roy, Sue or Shin",
+    "gender": "Male"
   },
   {
     "name": "Juno",
@@ -1485,7 +1536,8 @@
     "high_growth_stats": [],
     "chapter_joined": "20A",
     "is_recruitable_enemy": false,
-    "recruit_note": "NPC, talk with Thany, Tate or Zealot"
+    "recruit_note": "NPC, talk with Thany, Tate or Zealot",
+    "gender": "Female"
   },
   {
     "name": "Yodel",
@@ -1516,7 +1568,8 @@
     "high_growth_stats": [],
     "chapter_joined": "21",
     "is_recruitable_enemy": false,
-    "recruit_note": "Automatically from the start"
+    "recruit_note": "Automatically from the start",
+    "gender": "Male"
   },
   {
     "name": "Karel",
@@ -1548,6 +1601,7 @@
     ],
     "chapter_joined": "23",
     "is_recruitable_enemy": false,
-    "recruit_note": "Visit the village with Fir or Bartre"
+    "recruit_note": "Visit the village with Fir or Bartre",
+    "gender": "Male"
   }
 ]
