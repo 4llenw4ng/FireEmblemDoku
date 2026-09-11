@@ -1,5 +1,5 @@
 import charactersRaw from "../data/characters.json";
-import { STATS, type Character, type Stat, type Trait } from "../types";
+import type { Character, Stat, Trait } from "../types";
 import { ARCHETYPES, ARCHETYPE_LABEL, classTagsOf } from "./classTags";
 
 export const CHARACTERS = charactersRaw as Character[];
@@ -84,20 +84,35 @@ const recruitTrait: Trait = {
   test: (c) => c.is_recruitable_enemy,
 };
 
-const highGrowthTraits: Trait[] = STATS.map((s: Stat) => ({
-  id: `highGrowth:${s}`,
-  label: `High ${s} growth`,
+// Growth-trait columns, grouped by stat. Str and Mag are combined into one
+// "Str/Mag" trait: pre-Awakening GBA-and-earlier games track a single
+// combined Strength/Magic stat per unit, so showing separate Str and Mag
+// growth columns would either be redundant (both true for the same reason)
+// or read as a real distinction that doesn't exist for those characters.
+const GROWTH_STAT_GROUPS: { id: string; label: string; stats: Stat[] }[] = [
+  { id: "HP", label: "HP", stats: ["HP"] },
+  { id: "StrMag", label: "Str/Mag", stats: ["Str", "Mag"] },
+  { id: "Skl", label: "Skl", stats: ["Skl"] },
+  { id: "Spd", label: "Spd", stats: ["Spd"] },
+  { id: "Luck", label: "Luck", stats: ["Luck"] },
+  { id: "Def", label: "Def", stats: ["Def"] },
+  { id: "Res", label: "Res", stats: ["Res"] },
+];
+
+const highGrowthTraits: Trait[] = GROWTH_STAT_GROUPS.map((g) => ({
+  id: `highGrowth:${g.id}`,
+  label: `High ${g.label} growth`,
   group: "highGrowth",
   axis: "col",
-  test: (c) => c.high_growth_stats.includes(s),
+  test: (c) => g.stats.some((s) => c.high_growth_stats.includes(s)),
 }));
 
-const lowGrowthTraits: Trait[] = STATS.map((s: Stat) => ({
-  id: `lowGrowth:${s}`,
-  label: `Low ${s} growth`,
+const lowGrowthTraits: Trait[] = GROWTH_STAT_GROUPS.map((g) => ({
+  id: `lowGrowth:${g.id}`,
+  label: `Low ${g.label} growth`,
   group: "lowGrowth",
   axis: "col",
-  test: (c) => c.low_growth_stats.includes(s),
+  test: (c) => g.stats.some((s) => c.low_growth_stats.includes(s)),
 }));
 
 export const COL_POOL: Trait[] = [
