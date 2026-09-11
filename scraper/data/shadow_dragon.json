@@ -35,8 +35,8 @@
     "game": "Shadow Dragon",
     "starting_class": "Cavalier",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 80.0,
@@ -66,8 +66,8 @@
     "game": "Shadow Dragon",
     "starting_class": "Cavalier",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 65.0,
@@ -97,8 +97,8 @@
     "game": "Shadow Dragon",
     "starting_class": "Cavalier",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 75.0,
@@ -128,8 +128,8 @@
     "game": "Shadow Dragon",
     "starting_class": "Paladin",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 40.0,
@@ -617,8 +617,8 @@
     "game": "Shadow Dragon",
     "starting_class": "Cavalier",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 90.0,
@@ -648,8 +648,8 @@
     "game": "Shadow Dragon",
     "starting_class": "Cavalier",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 50.0,
@@ -677,8 +677,8 @@
     "game": "Shadow Dragon",
     "starting_class": "Horseman",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 160.0,
@@ -711,8 +711,8 @@
     "game": "Shadow Dragon",
     "starting_class": "Horseman",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 160.0,
@@ -745,8 +745,8 @@
     "game": "Shadow Dragon",
     "starting_class": "Cavalier",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 90.0,
@@ -778,8 +778,8 @@
     "game": "Shadow Dragon",
     "starting_class": "Cavalier",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 60.0,
@@ -809,8 +809,8 @@
     "game": "Shadow Dragon",
     "starting_class": "Sage",
     "weapon_types": [
-      "Tome",
-      "Staff"
+      "Staff",
+      "Tome"
     ],
     "growths": {
       "HP": 40.0,
@@ -1169,8 +1169,8 @@
     "game": "Shadow Dragon",
     "starting_class": "Paladin",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 80.0,
@@ -1323,8 +1323,8 @@
     "game": "Shadow Dragon",
     "starting_class": "General",
     "weapon_types": [
-      "Lance",
       "Axe",
+      "Lance",
       "Sword"
     ],
     "growths": {
@@ -1386,8 +1386,8 @@
     "game": "Shadow Dragon",
     "starting_class": "Hero",
     "weapon_types": [
-      "Sword",
-      "Axe"
+      "Axe",
+      "Sword"
     ],
     "growths": {
       "HP": 90.0,
@@ -1480,8 +1480,8 @@
     "game": "Shadow Dragon",
     "starting_class": "Paladin",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 50.0,
@@ -1509,8 +1509,8 @@
     "game": "Shadow Dragon",
     "starting_class": "Hero",
     "weapon_types": [
-      "Sword",
-      "Axe"
+      "Axe",
+      "Sword"
     ],
     "growths": {
       "HP": 70.0,
@@ -1660,8 +1660,8 @@
     "game": "Shadow Dragon",
     "starting_class": "General",
     "weapon_types": [
-      "Lance",
       "Axe",
+      "Lance",
       "Sword"
     ],
     "growths": {
@@ -1788,8 +1788,8 @@
     "game": "Shadow Dragon",
     "starting_class": "Sage",
     "weapon_types": [
-      "Tome",
-      "Staff"
+      "Staff",
+      "Tome"
     ],
     "growths": {
       "HP": 60.0,

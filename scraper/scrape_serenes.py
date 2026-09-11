@@ -158,6 +158,10 @@ CHARACTER_WEAPON_OVERRIDES = {
     ("Radiant Dawn", "Sanaki"): ["Tome"],
     ("Radiant Dawn", "Elincia"): ["Sword"],
     ("Radiant Dawn", "Pelleas"): ["Tome"],
+    # Titania is a rare Paladin who can wield all three melee weapons; Path of
+    # Radiance's class name is plain "Paladin" so this isn't derivable from
+    # the class string like it is for Radiant Dawn's "Axe Paladin".
+    ("Path of Radiance", "Titania"): ["Sword", "Lance", "Axe"],
 }
 
 
@@ -165,13 +169,29 @@ CHARACTER_WEAPON_OVERRIDES = {
 # the generic substring they contain ("knight").
 _CLASS_KEYS_BY_LENGTH = sorted(CLASS_WEAPON_MAP, key=len, reverse=True)
 
+# Unambiguous weapon words that show up as an explicit prefix in compound
+# class names (e.g. "Axe Knight", "Bow Paladin", "Sword Knight"). Checked
+# unconditionally as a UNION on top of the base archetype match below, because
+# a plain substring match on the base class ("knight" -> Lance, "paladin" ->
+# Sword+Lance, "fighter" -> Axe) would otherwise silently swallow the prefix
+# and miss the weapon the class name is actually calling out.
+_WEAPON_WORDS = {
+    "sword": "Sword", "lance": "Lance", "axe": "Axe", "bow": "Bow",
+    "staff": "Staff", "dagger": "Dagger",
+}
+
 
 def derive_weapon_types(class_name: str) -> list[str]:
     lowered = str(class_name).lower()
+    weapons: set[str] = set()
     for key in _CLASS_KEYS_BY_LENGTH:
         if key in lowered:
-            return CLASS_WEAPON_MAP[key]
-    return []
+            weapons.update(CLASS_WEAPON_MAP[key])
+            break
+    for word, weapon in _WEAPON_WORDS.items():
+        if word in lowered:
+            weapons.add(weapon)
+    return sorted(weapons)
 
 
 def clean_name(raw) -> str:
@@ -301,7 +321,8 @@ def ingest_source(game_name: str, source: dict, characters: dict[str, dict]) -> 
         if name not in characters or "recruit_note" in characters[name]:
             continue
         recruit_text = str(row.get("Recruit", ""))
-        characters[name]["chapter_joined"] = row.get("Ch", row.get("Chapter"))
+        chapter = row.get("Ch", row.get("Chapter"))
+        characters[name]["chapter_joined"] = None if pd.isna(chapter) else str(chapter).strip()
         characters[name]["is_recruitable_enemy"] = "enemy" in recruit_text.lower()
         characters[name]["recruit_note"] = recruit_text
 
@@ -375,10 +396,10 @@ if __name__ == "__main__":
 
     for slug, records in per_game.items():
         (out_dir / f"{slug}.json").write_text(
-            json.dumps(records, indent=2, default=str), encoding="utf-8"
+            json.dumps(records, indent=2, default=str, allow_nan=False), encoding="utf-8"
         )
     (out_dir / "characters.json").write_text(
-        json.dumps(all_records, indent=2, default=str), encoding="utf-8"
+        json.dumps(all_records, indent=2, default=str, allow_nan=False), encoding="utf-8"
     )
 
     print(f"\n{'Game':<32}{'Characters':<12}Status")

@@ -189,8 +189,8 @@
     "game": "Echoes: Shadows of Valentia",
     "starting_class": "Cavalier",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 55.0,
@@ -297,8 +297,8 @@
     "game": "Echoes: Shadows of Valentia",
     "starting_class": "Paladin",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 40.0,
@@ -380,8 +380,8 @@
     "game": "Echoes: Shadows of Valentia",
     "starting_class": "Gold Knight",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 60.0,
@@ -409,8 +409,8 @@
     "game": "Echoes: Shadows of Valentia",
     "starting_class": "Gold Knight",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 20.0,
@@ -875,8 +875,8 @@
     "game": "Echoes: Shadows of Valentia",
     "starting_class": "Sage",
     "weapon_types": [
-      "Tome",
-      "Staff"
+      "Staff",
+      "Tome"
     ],
     "growths": {
       "HP": 15.0,
@@ -908,8 +908,8 @@
     "game": "Echoes: Shadows of Valentia",
     "starting_class": "Paladin",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 50.0,
@@ -963,8 +963,8 @@
     "game": "Echoes: Shadows of Valentia",
     "starting_class": "Paladin",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 45.0,

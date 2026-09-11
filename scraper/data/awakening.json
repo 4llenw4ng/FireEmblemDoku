@@ -88,9 +88,9 @@
     "game": "Awakening",
     "starting_class": "Great Knight",
     "weapon_types": [
-      "Sword",
+      "Axe",
       "Lance",
-      "Axe"
+      "Sword"
     ],
     "growths": {
       "HP": 60.0,
@@ -119,8 +119,8 @@
     "game": "Awakening",
     "starting_class": "Cavalier",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 40.0,
@@ -173,8 +173,8 @@
     "game": "Awakening",
     "starting_class": "Cavalier",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 50.0,
@@ -560,8 +560,8 @@
     "game": "Awakening",
     "starting_class": "War Monk",
     "weapon_types": [
-      "Staff",
-      "Fist"
+      "Fist",
+      "Staff"
     ],
     "growths": {
       "HP": 45.0,
@@ -611,8 +611,8 @@
     "game": "Awakening",
     "starting_class": "Trickster",
     "weapon_types": [
-      "Sword",
-      "Staff"
+      "Staff",
+      "Sword"
     ],
     "growths": {
       "HP": 45.0,
@@ -801,8 +801,8 @@
     "game": "Awakening",
     "starting_class": "Hero",
     "weapon_types": [
-      "Sword",
-      "Axe"
+      "Axe",
+      "Sword"
     ],
     "growths": {
       "HP": 50.0,
@@ -1173,8 +1173,8 @@
     "game": "Awakening",
     "starting_class": "Trickster",
     "weapon_types": [
-      "Sword",
-      "Staff"
+      "Staff",
+      "Sword"
     ],
     "growths": {
       "HP": 40.0,
@@ -1227,8 +1227,8 @@
     "game": "Awakening",
     "starting_class": "Sage",
     "weapon_types": [
-      "Tome",
-      "Staff"
+      "Staff",
+      "Tome"
     ],
     "growths": {
       "HP": 45.0,
@@ -1280,8 +1280,8 @@
     "game": "Awakening",
     "starting_class": "Dark Flier",
     "weapon_types": [
-      "Tome",
-      "Lance"
+      "Lance",
+      "Tome"
     ],
     "growths": {
       "HP": 45.0,
@@ -1307,8 +1307,8 @@
     "game": "Awakening",
     "starting_class": "Hero",
     "weapon_types": [
-      "Sword",
-      "Axe"
+      "Axe",
+      "Sword"
     ],
     "growths": {
       "HP": 80.0,

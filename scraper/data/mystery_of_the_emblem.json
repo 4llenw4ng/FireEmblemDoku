@@ -24,7 +24,7 @@
       "HP",
       "Luck"
     ],
-    "chapter_joined": 1,
+    "chapter_joined": "1",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Male"
@@ -56,7 +56,7 @@
       "Spd",
       "Luck"
     ],
-    "chapter_joined": 1,
+    "chapter_joined": "1",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Female"
@@ -66,8 +66,8 @@
     "game": "Mystery of the Emblem",
     "starting_class": "Paladin",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 10.0,
@@ -89,7 +89,7 @@
       "Res"
     ],
     "high_growth_stats": [],
-    "chapter_joined": 1,
+    "chapter_joined": "1",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Male"
@@ -120,7 +120,7 @@
       "Skl",
       "Spd"
     ],
-    "chapter_joined": 1,
+    "chapter_joined": "1",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Male"
@@ -149,7 +149,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": 1,
+    "chapter_joined": "1",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Male"
@@ -180,7 +180,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": 1,
+    "chapter_joined": "1",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Male"
@@ -207,7 +207,7 @@
       "Res"
     ],
     "high_growth_stats": [],
-    "chapter_joined": 1,
+    "chapter_joined": "1",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Male"
@@ -236,7 +236,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": 2,
+    "chapter_joined": "2",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Male"
@@ -265,7 +265,7 @@
       "HP",
       "Luck"
     ],
-    "chapter_joined": 2,
+    "chapter_joined": "2",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Male"
@@ -294,7 +294,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": 2,
+    "chapter_joined": "2",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Male"
@@ -322,7 +322,7 @@
       "Res"
     ],
     "high_growth_stats": [],
-    "chapter_joined": 2,
+    "chapter_joined": "2",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Male"
@@ -353,7 +353,7 @@
       "HP",
       "Str"
     ],
-    "chapter_joined": 2,
+    "chapter_joined": "2",
     "is_recruitable_enemy": true,
     "recruit_note": "Enemy, talk with Sheeda",
     "gender": "Male"
@@ -383,7 +383,7 @@
       "Str",
       "Luck"
     ],
-    "chapter_joined": 3,
+    "chapter_joined": "3",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Male"
@@ -415,7 +415,7 @@
     "high_growth_stats": [
       "Luck"
     ],
-    "chapter_joined": 3,
+    "chapter_joined": "3",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Female"
@@ -445,7 +445,7 @@
       "HP",
       "Luck"
     ],
-    "chapter_joined": 3,
+    "chapter_joined": "3",
     "is_recruitable_enemy": true,
     "recruit_note": "Enemy, talk with Sheeda",
     "gender": "Male"
@@ -474,7 +474,7 @@
     "high_growth_stats": [
       "Spd"
     ],
-    "chapter_joined": 4,
+    "chapter_joined": "4",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Male"
@@ -484,8 +484,8 @@
     "game": "Mystery of the Emblem",
     "starting_class": "Horsemen",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 70.0,
@@ -506,7 +506,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": 4,
+    "chapter_joined": "4",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Male"
@@ -516,8 +516,8 @@
     "game": "Mystery of the Emblem",
     "starting_class": "Horsemen",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 90.0,
@@ -539,7 +539,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": 4,
+    "chapter_joined": "4",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Male"
@@ -567,7 +567,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": 4,
+    "chapter_joined": "4",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Male"
@@ -597,7 +597,7 @@
       "Res"
     ],
     "high_growth_stats": [],
-    "chapter_joined": 4,
+    "chapter_joined": "4",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Male"
@@ -626,7 +626,7 @@
       "Res"
     ],
     "high_growth_stats": [],
-    "chapter_joined": 4,
+    "chapter_joined": "4",
     "is_recruitable_enemy": true,
     "recruit_note": "Enemy, talk with Rena",
     "gender": "Male"
@@ -656,7 +656,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": 4,
+    "chapter_joined": "4",
     "is_recruitable_enemy": false,
     "recruit_note": "Visit the northern village",
     "gender": "Male"
@@ -686,7 +686,7 @@
     "high_growth_stats": [
       "Spd"
     ],
-    "chapter_joined": 5,
+    "chapter_joined": "5",
     "is_recruitable_enemy": true,
     "recruit_note": "Enemy, talk with Julian or Marth",
     "gender": "Male"
@@ -718,7 +718,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": 5,
+    "chapter_joined": "5",
     "is_recruitable_enemy": true,
     "recruit_note": "Enemy, talk with Marich or Marth",
     "gender": "Male"
@@ -750,7 +750,7 @@
       "Res"
     ],
     "high_growth_stats": [],
-    "chapter_joined": 6,
+    "chapter_joined": "6",
     "is_recruitable_enemy": false,
     "recruit_note": "Visit the village",
     "gender": "Male"
@@ -781,7 +781,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": 7,
+    "chapter_joined": "7",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Male"
@@ -811,7 +811,7 @@
       "HP",
       "Spd"
     ],
-    "chapter_joined": 7,
+    "chapter_joined": "7",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Male"
@@ -841,7 +841,7 @@
       "Res"
     ],
     "high_growth_stats": [],
-    "chapter_joined": 8,
+    "chapter_joined": "8",
     "is_recruitable_enemy": true,
     "recruit_note": "Enemy, talk with Marth",
     "gender": "Female"
@@ -868,7 +868,7 @@
       "Res"
     ],
     "high_growth_stats": [],
-    "chapter_joined": 8,
+    "chapter_joined": "8",
     "is_recruitable_enemy": true,
     "recruit_note": "Enemy, talk with Marth or let her talk to Marth (must have Maria)",
     "gender": "Female"
@@ -900,7 +900,7 @@
       "Spd",
       "Luck"
     ],
-    "chapter_joined": 9,
+    "chapter_joined": "9",
     "is_recruitable_enemy": false,
     "recruit_note": "Visit the southern village",
     "gender": "Female"
@@ -933,7 +933,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": 9,
+    "chapter_joined": "9",
     "is_recruitable_enemy": false,
     "recruit_note": "Visit the northern village",
     "gender": "Male"
@@ -943,8 +943,8 @@
     "game": "Mystery of the Emblem",
     "starting_class": "Paladin",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 80.0,
@@ -964,7 +964,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": 10,
+    "chapter_joined": "10",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Female"
@@ -994,7 +994,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": 10,
+    "chapter_joined": "10",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Male"
@@ -1024,7 +1024,7 @@
       "Res"
     ],
     "high_growth_stats": [],
-    "chapter_joined": 10,
+    "chapter_joined": "10",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Male"
@@ -1054,7 +1054,7 @@
       "Res"
     ],
     "high_growth_stats": [],
-    "chapter_joined": 10,
+    "chapter_joined": "10",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Male"
@@ -1087,7 +1087,7 @@
       "Res"
     ],
     "high_growth_stats": [],
-    "chapter_joined": 10,
+    "chapter_joined": "10",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Male"
@@ -1118,7 +1118,7 @@
       "HP",
       "Skl"
     ],
-    "chapter_joined": 11,
+    "chapter_joined": "11",
     "is_recruitable_enemy": true,
     "recruit_note": "Enemy, let her talk to Marth (must have Minerva)",
     "gender": "Female"
@@ -1148,7 +1148,7 @@
       "Skl",
       "Spd"
     ],
-    "chapter_joined": 11,
+    "chapter_joined": "11",
     "is_recruitable_enemy": true,
     "recruit_note": "Enemy, let her talk to Marth (must have Minerva)",
     "gender": "Female"
@@ -1158,8 +1158,8 @@
     "game": "Mystery of the Emblem",
     "starting_class": "Hero",
     "weapon_types": [
-      "Sword",
-      "Axe"
+      "Axe",
+      "Sword"
     ],
     "growths": {
       "HP": 90.0,
@@ -1179,7 +1179,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": 11,
+    "chapter_joined": "11",
     "is_recruitable_enemy": true,
     "recruit_note": "Enemy, talk with Midia",
     "gender": "Male"
@@ -1189,8 +1189,8 @@
     "game": "Mystery of the Emblem",
     "starting_class": "Paladin",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 50.0,
@@ -1207,7 +1207,7 @@
       "Res"
     ],
     "high_growth_stats": [],
-    "chapter_joined": 13,
+    "chapter_joined": "13",
     "is_recruitable_enemy": false,
     "recruit_note": "Visit the western village (cannot get Samson)",
     "gender": "Male"
@@ -1217,8 +1217,8 @@
     "game": "Mystery of the Emblem",
     "starting_class": "Hero",
     "weapon_types": [
-      "Sword",
-      "Axe"
+      "Axe",
+      "Sword"
     ],
     "growths": {
       "HP": 70.0,
@@ -1239,7 +1239,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": 13,
+    "chapter_joined": "13",
     "is_recruitable_enemy": false,
     "recruit_note": "Visit the eastern village (cannot get Alan)",
     "gender": "Male"
@@ -1267,7 +1267,7 @@
       "Res"
     ],
     "high_growth_stats": [],
-    "chapter_joined": 13,
+    "chapter_joined": "13",
     "is_recruitable_enemy": true,
     "recruit_note": "Enemy, talk with Marth or let him talk to Marth",
     "gender": "Male"
@@ -1299,7 +1299,7 @@
       "Spd",
       "Luck"
     ],
-    "chapter_joined": 15,
+    "chapter_joined": "15",
     "is_recruitable_enemy": true,
     "recruit_note": "Enemy, talk with Banutu",
     "gender": "Female"
@@ -1331,7 +1331,7 @@
       "Spd",
       "Luck"
     ],
-    "chapter_joined": 16,
+    "chapter_joined": "16",
     "is_recruitable_enemy": false,
     "recruit_note": "Visit the village",
     "gender": "Female"
@@ -1341,8 +1341,8 @@
     "game": "Mystery of the Emblem",
     "starting_class": "General",
     "weapon_types": [
-      "Lance",
       "Axe",
+      "Lance",
       "Sword"
     ],
     "growths": {
@@ -1364,7 +1364,7 @@
       "HP",
       "Skl"
     ],
-    "chapter_joined": 16,
+    "chapter_joined": "16",
     "is_recruitable_enemy": true,
     "recruit_note": "Enemy, talk with Sheeda",
     "gender": "Male"
@@ -1395,7 +1395,7 @@
       "Spd",
       "Luck"
     ],
-    "chapter_joined": 19,
+    "chapter_joined": "19",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Female"
@@ -1638,8 +1638,8 @@
     "game": "Mystery of the Emblem",
     "starting_class": "Paladin",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 80.0,
@@ -1760,8 +1760,8 @@
     "game": "Mystery of the Emblem",
     "starting_class": "General",
     "weapon_types": [
-      "Lance",
       "Axe",
+      "Lance",
       "Sword"
     ],
     "growths": {

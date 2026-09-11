@@ -31,8 +31,8 @@
     "game": "Binding Blade",
     "starting_class": "Paladin",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 60.0,
@@ -63,8 +63,8 @@
     "game": "Binding Blade",
     "starting_class": "Cavalier",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 85.0,
@@ -92,8 +92,8 @@
     "game": "Binding Blade",
     "starting_class": "Cavalier",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 80.0,
@@ -555,8 +555,8 @@
     "game": "Binding Blade",
     "starting_class": "Paladin",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 75.0,
@@ -587,8 +587,8 @@
     "game": "Binding Blade",
     "starting_class": "Cavalier",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 85.0,
@@ -616,8 +616,8 @@
     "game": "Binding Blade",
     "starting_class": "Cavalier",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 75.0,
@@ -1000,8 +1000,8 @@
     "game": "Binding Blade",
     "starting_class": "Hero",
     "weapon_types": [
-      "Sword",
-      "Axe"
+      "Axe",
+      "Sword"
     ],
     "growths": {
       "HP": 75.0,
@@ -1179,8 +1179,8 @@
     "game": "Binding Blade",
     "starting_class": "Paladin",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 75.0,
@@ -1419,8 +1419,8 @@
     "game": "Binding Blade",
     "starting_class": "General",
     "weapon_types": [
-      "Lance",
       "Axe",
+      "Lance",
       "Sword"
     ],
     "growths": {

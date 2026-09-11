@@ -246,7 +246,8 @@
     "game": "Radiant Dawn",
     "starting_class": "Armor Sword",
     "weapon_types": [
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 60.0,
@@ -307,8 +308,8 @@
     "game": "Radiant Dawn",
     "starting_class": "Lance General",
     "weapon_types": [
-      "Lance",
       "Axe",
+      "Lance",
       "Sword"
     ],
     "growths": {
@@ -424,8 +425,8 @@
     "game": "Radiant Dawn",
     "starting_class": "Fire Sage",
     "weapon_types": [
-      "Tome",
-      "Staff"
+      "Staff",
+      "Tome"
     ],
     "growths": {
       "HP": 50.0,
@@ -540,8 +541,8 @@
     "game": "Radiant Dawn",
     "starting_class": "Heron",
     "weapon_types": [
-      "Sword",
-      "Axe"
+      "Axe",
+      "Sword"
     ],
     "growths": {
       "HP": 60.0,
@@ -694,8 +695,8 @@
     "game": "Radiant Dawn",
     "starting_class": "Heron",
     "weapon_types": [
-      "Sword",
-      "Axe"
+      "Axe",
+      "Sword"
     ],
     "growths": {
       "HP": 60.0,
@@ -758,8 +759,8 @@
     "game": "Radiant Dawn",
     "starting_class": "Axe General",
     "weapon_types": [
-      "Lance",
       "Axe",
+      "Lance",
       "Sword"
     ],
     "growths": {
@@ -938,8 +939,8 @@
     "game": "Radiant Dawn",
     "starting_class": "Lance Paladin",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 60.0,
@@ -968,8 +969,9 @@
     "game": "Radiant Dawn",
     "starting_class": "Axe Paladin",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Axe",
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 75.0,
@@ -999,8 +1001,9 @@
     "game": "Radiant Dawn",
     "starting_class": "Bow Paladin",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Bow",
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 55.0,
@@ -1028,8 +1031,8 @@
     "game": "Radiant Dawn",
     "starting_class": "Blade Paladin",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 55.0,
@@ -1086,8 +1089,8 @@
     "game": "Radiant Dawn",
     "starting_class": "Fire Sage",
     "weapon_types": [
-      "Tome",
-      "Staff"
+      "Staff",
+      "Tome"
     ],
     "growths": {
       "HP": 35.0,
@@ -1115,8 +1118,8 @@
     "game": "Radiant Dawn",
     "starting_class": "Hero",
     "weapon_types": [
-      "Sword",
-      "Axe"
+      "Axe",
+      "Sword"
     ],
     "growths": {
       "HP": 65.0,
@@ -1146,8 +1149,9 @@
     "game": "Radiant Dawn",
     "starting_class": "Axe Paladin",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Axe",
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 60.0,
@@ -1177,8 +1181,8 @@
     "game": "Radiant Dawn",
     "starting_class": "Wind Sage",
     "weapon_types": [
-      "Tome",
-      "Staff"
+      "Staff",
+      "Tome"
     ],
     "growths": {
       "HP": 40.0,
@@ -1293,8 +1297,8 @@
     "game": "Radiant Dawn",
     "starting_class": "Lance Paladin",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 50.0,
@@ -1354,8 +1358,8 @@
     "game": "Radiant Dawn",
     "starting_class": "Lance General",
     "weapon_types": [
-      "Lance",
       "Axe",
+      "Lance",
       "Sword"
     ],
     "growths": {
@@ -1536,8 +1540,8 @@
     "game": "Radiant Dawn",
     "starting_class": "Heron",
     "weapon_types": [
-      "Sword",
-      "Axe"
+      "Axe",
+      "Sword"
     ],
     "growths": {
       "HP": 65.0,
@@ -1883,8 +1887,8 @@
     "game": "Radiant Dawn",
     "starting_class": "Arch Sage",
     "weapon_types": [
-      "Tome",
-      "Staff"
+      "Staff",
+      "Tome"
     ],
     "growths": {
       "HP": 25.0,
@@ -1912,8 +1916,8 @@
     "game": "Radiant Dawn",
     "starting_class": "Assassin",
     "weapon_types": [
-      "Sword",
-      "Bow"
+      "Bow",
+      "Sword"
     ],
     "growths": {
       "HP": 50.0,
@@ -2056,8 +2060,8 @@
     "game": "Radiant Dawn",
     "starting_class": "Gold Knight",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 40.0,

@@ -34,8 +34,8 @@
     "game": "Blazing Blade",
     "starting_class": "Cavalier",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 80.0,
@@ -66,8 +66,8 @@
     "game": "Blazing Blade",
     "starting_class": "Cavalier",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 85.0,
@@ -401,7 +401,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": NaN,
+    "chapter_joined": null,
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Male"
@@ -411,8 +411,8 @@
     "game": "Blazing Blade",
     "starting_class": "Cavalier",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 90.0,
@@ -428,7 +428,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": NaN,
+    "chapter_joined": null,
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Male"
@@ -438,8 +438,8 @@
     "game": "Blazing Blade",
     "starting_class": "Paladin",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 65.0,
@@ -457,7 +457,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": NaN,
+    "chapter_joined": null,
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Male"
@@ -486,7 +486,7 @@
       "HP",
       "Spd"
     ],
-    "chapter_joined": NaN,
+    "chapter_joined": null,
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Female"
@@ -512,7 +512,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": NaN,
+    "chapter_joined": null,
     "is_recruitable_enemy": false,
     "recruit_note": "Appears during Turn 2 | Automatically from the start",
     "gender": "Male"
@@ -540,7 +540,7 @@
       "Str",
       "Mag"
     ],
-    "chapter_joined": NaN,
+    "chapter_joined": null,
     "is_recruitable_enemy": false,
     "recruit_note": "Appears during Turn 3 | Automatically from the start",
     "gender": "Male"
@@ -566,7 +566,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": NaN,
+    "chapter_joined": null,
     "is_recruitable_enemy": false,
     "recruit_note": "Appears during Turn 3 | Automatically from the start",
     "gender": "Male"
@@ -595,7 +595,7 @@
       "HP",
       "Spd"
     ],
-    "chapter_joined": NaN,
+    "chapter_joined": null,
     "is_recruitable_enemy": true,
     "recruit_note": "Enemy, talk with Matthew",
     "gender": "Male"
@@ -626,7 +626,7 @@
       "Spd",
       "Luck"
     ],
-    "chapter_joined": NaN,
+    "chapter_joined": null,
     "is_recruitable_enemy": false,
     "recruit_note": "Complete Ch 13x / Automatically from the start",
     "gender": "Male"
@@ -654,7 +654,7 @@
     "high_growth_stats": [
       "Luck"
     ],
-    "chapter_joined": NaN,
+    "chapter_joined": null,
     "is_recruitable_enemy": false,
     "recruit_note": "Visit the southern village / Joins with Erk (if the village she stayed in during Ch 14 was not destroyed)",
     "gender": "Female"
@@ -682,7 +682,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": NaN,
+    "chapter_joined": null,
     "is_recruitable_enemy": true,
     "recruit_note": "Enemy, talk with Priscilla",
     "gender": "Male"
@@ -708,7 +708,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": NaN,
+    "chapter_joined": null,
     "is_recruitable_enemy": false,
     "recruit_note": "Visit one of the villages",
     "gender": "Male"
@@ -741,7 +741,7 @@
       "Mag",
       "Spd"
     ],
-    "chapter_joined": NaN,
+    "chapter_joined": null,
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start (if you visited Ch 16x | 17x, he must have survived that chapter)",
     "gender": "Male"
@@ -770,7 +770,7 @@
       "HP",
       "Skl"
     ],
-    "chapter_joined": NaN,
+    "chapter_joined": null,
     "is_recruitable_enemy": false,
     "recruit_note": "NPC, appears during the beginning of Turn 3. Talk with Florina.",
     "gender": "Female"
@@ -798,7 +798,7 @@
       "Spd",
       "Luck"
     ],
-    "chapter_joined": NaN,
+    "chapter_joined": null,
     "is_recruitable_enemy": true,
     "recruit_note": "Enemy, appears during the beginning of Turn 2. Talk with your main Lord or Lyn",
     "gender": "Male"
@@ -829,7 +829,7 @@
       "Luck",
       "Res"
     ],
-    "chapter_joined": NaN,
+    "chapter_joined": null,
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Female"
@@ -839,8 +839,8 @@
     "game": "Blazing Blade",
     "starting_class": "Paladin",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 75.0,
@@ -858,7 +858,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": NaN,
+    "chapter_joined": null,
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Female"
@@ -887,7 +887,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": NaN,
+    "chapter_joined": null,
     "is_recruitable_enemy": true,
     "recruit_note": "Enemy, talk with Eliwood, Hector, Lyn or Ninian",
     "gender": "Male"
@@ -913,7 +913,7 @@
       "Def"
     ],
     "high_growth_stats": [],
-    "chapter_joined": NaN,
+    "chapter_joined": null,
     "is_recruitable_enemy": false,
     "recruit_note": "NPC, appears during the beginning of Turn 2. Talk with your main Lord",
     "gender": "Male"
@@ -943,7 +943,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": NaN,
+    "chapter_joined": null,
     "is_recruitable_enemy": true,
     "recruit_note": "Enemy, talk with Dart",
     "gender": "Male"
@@ -969,7 +969,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": NaN,
+    "chapter_joined": null,
     "is_recruitable_enemy": false,
     "recruit_note": "NPC, appears during the beginning of Turn 5. Let her talk to Hector and pay her 20,000G. (Hector\u2019s story only)",
     "gender": "Female"
@@ -979,8 +979,8 @@
     "game": "Blazing Blade",
     "starting_class": "Sage",
     "weapon_types": [
-      "Tome",
-      "Staff"
+      "Staff",
+      "Tome"
     ],
     "growths": {
       "HP": 50.0,
@@ -996,7 +996,7 @@
       "Skl"
     ],
     "high_growth_stats": [],
-    "chapter_joined": NaN,
+    "chapter_joined": null,
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Male"
@@ -1024,7 +1024,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": NaN,
+    "chapter_joined": null,
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Female"
@@ -1053,7 +1053,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": NaN,
+    "chapter_joined": null,
     "is_recruitable_enemy": false,
     "recruit_note": "Defeat 2 or more promoted enemies * / Open 4 or more doors Either way, appears as a NPC at the beginning of Turn 10 and can be recruited with your main Lord or Lyn",
     "gender": "Male"
@@ -1063,8 +1063,8 @@
     "game": "Blazing Blade",
     "starting_class": "Hero",
     "weapon_types": [
-      "Sword",
-      "Axe"
+      "Axe",
+      "Sword"
     ],
     "growths": {
       "HP": 80.0,
@@ -1082,7 +1082,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": NaN,
+    "chapter_joined": null,
     "is_recruitable_enemy": true,
     "recruit_note": "Defeat less than 2 promoted enemies * / Open less than 4 doors Either way, appears as an enemy at the beginning of Turn 10 and can be recruited with Eliwood, Marcus, Lowen, Hector, Oswin or Isadora",
     "gender": "Male"
@@ -1110,7 +1110,7 @@
     "high_growth_stats": [
       "Spd"
     ],
-    "chapter_joined": NaN,
+    "chapter_joined": null,
     "is_recruitable_enemy": false,
     "recruit_note": "NPC, talk with your main Lord or Lyn",
     "gender": "Female"
@@ -1120,8 +1120,8 @@
     "game": "Blazing Blade",
     "starting_class": "Assassin",
     "weapon_types": [
-      "Sword",
-      "Bow"
+      "Bow",
+      "Sword"
     ],
     "growths": {
       "HP": 65.0,
@@ -1141,7 +1141,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": NaN,
+    "chapter_joined": null,
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start if you made Nino talk to him during Ch 26 | 28 (and he survived)",
     "gender": "Male"
@@ -1151,8 +1151,8 @@
     "game": "Blazing Blade",
     "starting_class": "Wyvern Lord",
     "weapon_types": [
-      "Lance",
-      "Axe"
+      "Axe",
+      "Lance"
     ],
     "growths": {
       "HP": 60.0,
@@ -1170,7 +1170,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": NaN,
+    "chapter_joined": null,
     "is_recruitable_enemy": true,
     "recruit_note": "Enemy, appears after crossing the north-western sector (if she survived Ch 24 | 26). Talk with your main Lord",
     "gender": "Female"
@@ -1199,7 +1199,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": NaN,
+    "chapter_joined": null,
     "is_recruitable_enemy": false,
     "recruit_note": "Bartre must participate in Ch 31x. If he is a Lv 5 Warrior or higher, Karla will appear above the arena. Make Bartre talk to her and if both survive a round of combat she will join. (Hector\u2019s story only)",
     "gender": "Female"
@@ -1229,7 +1229,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": NaN,
+    "chapter_joined": null,
     "is_recruitable_enemy": false,
     "recruit_note": "Visit the most north-western ruins within 11 turns",
     "gender": "Male"
@@ -1239,8 +1239,8 @@
     "game": "Blazing Blade",
     "starting_class": "Archsage",
     "weapon_types": [
-      "Tome",
-      "Staff"
+      "Staff",
+      "Tome"
     ],
     "growths": {
       "HP": 0.0,
@@ -1263,7 +1263,7 @@
       "Res"
     ],
     "high_growth_stats": [],
-    "chapter_joined": NaN,
+    "chapter_joined": null,
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically from the start",
     "gender": "Male"

@@ -4,8 +4,8 @@
     "game": "Fates",
     "starting_class": "Nohr Prince(ss)",
     "weapon_types": [
-      "Sword",
-      "Dragonstone"
+      "Dragonstone",
+      "Sword"
     ],
     "growths": {
       "HP": 45.0,
@@ -139,8 +139,8 @@
     "game": "Fates",
     "starting_class": "Cavalier",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 40.0,
@@ -717,8 +717,8 @@
     "game": "Fates",
     "starting_class": "Wyvern Lord",
     "weapon_types": [
-      "Lance",
-      "Axe"
+      "Axe",
+      "Lance"
     ],
     "growths": {
       "HP": 30.0,
@@ -772,8 +772,8 @@
     "game": "Fates",
     "starting_class": "Nohr Prince(ss)",
     "weapon_types": [
-      "Sword",
-      "Dragonstone"
+      "Dragonstone",
+      "Sword"
     ],
     "growths": {
       "HP": 30.0,
@@ -849,8 +849,8 @@
     "game": "Fates",
     "starting_class": "Cavalier",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 35.0,
@@ -1119,9 +1119,9 @@
     "game": "Fates",
     "starting_class": "Great Knight",
     "weapon_types": [
-      "Sword",
+      "Axe",
       "Lance",
-      "Axe"
+      "Sword"
     ],
     "growths": {
       "HP": 15.0,
@@ -1425,8 +1425,8 @@
     "game": "Fates",
     "starting_class": "Cavalier",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 30.0,
@@ -1564,8 +1564,8 @@
     "game": "Fates",
     "starting_class": "Paladin",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 45.0,
@@ -1620,8 +1620,8 @@
     "game": "Fates",
     "starting_class": "Cavalier",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 40.0,
@@ -1839,9 +1839,9 @@
     "game": "Fates",
     "starting_class": "Master of Arms",
     "weapon_types": [
-      "Sword",
+      "Axe",
       "Lance",
-      "Axe"
+      "Sword"
     ],
     "chapter_joined": null,
     "is_recruitable_enemy": false,

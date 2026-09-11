@@ -4,8 +4,8 @@
     "game": "Genealogy of the Holy War",
     "starting_class": "Lord Knight",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 70.0,
@@ -218,6 +218,7 @@
     "game": "Genealogy of the Holy War",
     "starting_class": "Axe Knight",
     "weapon_types": [
+      "Axe",
       "Lance"
     ],
     "growths": {
@@ -368,7 +369,8 @@
     "game": "Genealogy of the Holy War",
     "starting_class": "Swordfighter",
     "weapon_types": [
-      "Axe"
+      "Axe",
+      "Sword"
     ],
     "growths": {
       "HP": 50.0,
@@ -429,7 +431,8 @@
     "game": "Genealogy of the Holy War",
     "starting_class": "Bow Fighter",
     "weapon_types": [
-      "Axe"
+      "Axe",
+      "Bow"
     ],
     "growths": {
       "HP": 90.0,
@@ -459,7 +462,8 @@
     "game": "Genealogy of the Holy War",
     "starting_class": "Swordfighter",
     "weapon_types": [
-      "Axe"
+      "Axe",
+      "Sword"
     ],
     "growths": {
       "HP": 90.0,
@@ -756,7 +760,8 @@
     "game": "Genealogy of the Holy War",
     "starting_class": "Swordfighter",
     "weapon_types": [
-      "Axe"
+      "Axe",
+      "Sword"
     ],
     "growths": {
       "HP": 70.0,
@@ -786,7 +791,8 @@
     "game": "Genealogy of the Holy War",
     "starting_class": "Swordfighter",
     "weapon_types": [
-      "Axe"
+      "Axe",
+      "Sword"
     ],
     "growths": {
       "HP": 80.0,
@@ -816,8 +822,8 @@
     "game": "Genealogy of the Holy War",
     "starting_class": "Paladin",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 100.0,
@@ -836,7 +842,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": 6,
+    "chapter_joined": "6",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically on the second turn",
     "gender": "Male"
@@ -928,7 +934,7 @@
       "HP",
       "Mag"
     ],
-    "chapter_joined": 6,
+    "chapter_joined": "6",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically after you conquer Ganeshire",
     "gender": "Female"
@@ -1000,6 +1006,7 @@
     "game": "Genealogy of the Holy War",
     "starting_class": "Axe Knight",
     "weapon_types": [
+      "Axe",
       "Lance"
     ],
     "growths": {
@@ -1022,7 +1029,7 @@
       "HP",
       "Def"
     ],
-    "chapter_joined": 6,
+    "chapter_joined": "6",
     "is_recruitable_enemy": false,
     "recruit_note": "Talk with Radney/Lakche (you cannot recruit Johalva afterwards)",
     "gender": "Male"
@@ -1054,7 +1061,7 @@
       "HP",
       "Def"
     ],
-    "chapter_joined": 6,
+    "chapter_joined": "6",
     "is_recruitable_enemy": false,
     "recruit_note": "Talk with Radney/Lakche (you cannot recruit Johan afterwards)",
     "gender": "Male"
@@ -1086,7 +1093,7 @@
       "HP",
       "Skl"
     ],
-    "chapter_joined": 7,
+    "chapter_joined": "7",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically on the first turn",
     "gender": "Male"
@@ -1177,7 +1184,7 @@
       "HP",
       "Str"
     ],
-    "chapter_joined": 7,
+    "chapter_joined": "7",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically one turn after Melgen is conquered",
     "gender": "Male"
@@ -1245,7 +1252,8 @@
     "game": "Genealogy of the Holy War",
     "starting_class": "Bow Fighter",
     "weapon_types": [
-      "Axe"
+      "Axe",
+      "Bow"
     ],
     "growths": {
       "HP": 90.0,
@@ -1277,8 +1285,8 @@
     "game": "Genealogy of the Holy War",
     "starting_class": "Sage",
     "weapon_types": [
-      "Tome",
-      "Staff"
+      "Staff",
+      "Tome"
     ],
     "growths": {
       "HP": 60.0,
@@ -1311,8 +1319,8 @@
     "game": "Genealogy of the Holy War",
     "starting_class": "General",
     "weapon_types": [
-      "Lance",
       "Axe",
+      "Lance",
       "Sword"
     ],
     "growths": {
@@ -1335,7 +1343,7 @@
     "high_growth_stats": [
       "HP"
     ],
-    "chapter_joined": 9,
+    "chapter_joined": "9",
     "is_recruitable_enemy": false,
     "recruit_note": "Talk with Sharlow/Corpul",
     "gender": "Male"
@@ -1393,7 +1401,7 @@
       "HP",
       "Skl"
     ],
-    "chapter_joined": 6,
+    "chapter_joined": "6",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically on the first turn",
     "gender": "Male"
@@ -1423,7 +1431,7 @@
       "HP",
       "Str"
     ],
-    "chapter_joined": 7,
+    "chapter_joined": "7",
     "is_recruitable_enemy": false,
     "recruit_note": "Automatically on the first turn",
     "gender": "Male"
@@ -1454,7 +1462,7 @@
       "Str",
       "Spd"
     ],
-    "chapter_joined": 9,
+    "chapter_joined": "9",
     "is_recruitable_enemy": false,
     "recruit_note": "Talk with Leaf, then defeat Trabant. She will return and talk to Celice",
     "gender": "Female"
@@ -1493,7 +1501,8 @@
     "game": "Genealogy of the Holy War",
     "starting_class": "Swordfighter",
     "weapon_types": [
-      "Axe"
+      "Axe",
+      "Sword"
     ],
     "growths": {
       "HP": 115.0,
@@ -1523,7 +1532,8 @@
     "game": "Genealogy of the Holy War",
     "starting_class": "Swordfighter",
     "weapon_types": [
-      "Axe"
+      "Axe",
+      "Sword"
     ],
     "growths": {
       "HP": 135.0,
@@ -1789,7 +1799,8 @@
     "game": "Genealogy of the Holy War",
     "starting_class": "Bow Fighter",
     "weapon_types": [
-      "Axe"
+      "Axe",
+      "Bow"
     ],
     "growths": {
       "HP": 155.0,
@@ -1820,8 +1831,8 @@
     "game": "Genealogy of the Holy War",
     "starting_class": "Sage",
     "weapon_types": [
-      "Tome",
-      "Staff"
+      "Staff",
+      "Tome"
     ],
     "growths": {
       "HP": 115.0,

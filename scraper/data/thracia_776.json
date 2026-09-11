@@ -179,7 +179,8 @@
     "game": "Thracia 776",
     "starting_class": "Bow Fighter",
     "weapon_types": [
-      "Axe"
+      "Axe",
+      "Bow"
     ],
     "growths": {
       "HP": 60.0,
@@ -241,7 +242,8 @@
     "game": "Thracia 776",
     "starting_class": "Bow Fighter",
     "weapon_types": [
-      "Axe"
+      "Axe",
+      "Bow"
     ],
     "growths": {
       "HP": 40.0,
@@ -317,6 +319,7 @@
     "game": "Thracia 776",
     "starting_class": "Axe Knight",
     "weapon_types": [
+      "Axe",
       "Lance"
     ],
     "growths": {
@@ -346,7 +349,8 @@
     "game": "Thracia 776",
     "starting_class": "Swordfighter",
     "weapon_types": [
-      "Axe"
+      "Axe",
+      "Sword"
     ],
     "growths": {
       "HP": 60.0,
@@ -549,6 +553,7 @@
     "game": "Thracia 776",
     "starting_class": "Axe Knight",
     "weapon_types": [
+      "Axe",
       "Lance"
     ],
     "growths": {
@@ -577,7 +582,8 @@
     "game": "Thracia 776",
     "starting_class": "Swordfighter",
     "weapon_types": [
-      "Axe"
+      "Axe",
+      "Sword"
     ],
     "growths": {
       "HP": 70.0,
@@ -749,8 +755,8 @@
     "game": "Thracia 776",
     "starting_class": "Paladin",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 75.0,
@@ -779,8 +785,8 @@
     "game": "Thracia 776",
     "starting_class": "Mage Knight",
     "weapon_types": [
-      "Tome",
-      "Staff"
+      "Staff",
+      "Tome"
     ],
     "growths": {
       "HP": 50.0,
@@ -808,7 +814,8 @@
     "game": "Thracia 776",
     "starting_class": "Swordfighter",
     "weapon_types": [
-      "Axe"
+      "Axe",
+      "Sword"
     ],
     "growths": {
       "HP": 65.0,
@@ -931,7 +938,8 @@
     "game": "Thracia 776",
     "starting_class": "Swordfighter",
     "weapon_types": [
-      "Axe"
+      "Axe",
+      "Sword"
     ],
     "growths": {
       "HP": 90.0,
@@ -1134,8 +1142,8 @@
     "game": "Thracia 776",
     "starting_class": "Mage Knight",
     "weapon_types": [
-      "Tome",
-      "Staff"
+      "Staff",
+      "Tome"
     ],
     "growths": {
       "HP": 50.0,
@@ -1313,8 +1321,8 @@
     "game": "Thracia 776",
     "starting_class": "General",
     "weapon_types": [
-      "Lance",
       "Axe",
+      "Lance",
       "Sword"
     ],
     "growths": {
@@ -1343,8 +1351,8 @@
     "game": "Thracia 776",
     "starting_class": "Paladin",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 70.0,
@@ -1373,8 +1381,8 @@
     "game": "Thracia 776",
     "starting_class": "Paladin",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 70.0,
@@ -1462,8 +1470,8 @@
     "game": "Thracia 776",
     "starting_class": "Sage",
     "weapon_types": [
-      "Tome",
-      "Staff"
+      "Staff",
+      "Tome"
     ],
     "growths": {
       "HP": 75.0,

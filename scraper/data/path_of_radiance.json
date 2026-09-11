@@ -4,8 +4,8 @@
     "game": "Path of Radiance",
     "starting_class": "Ranger",
     "weapon_types": [
-      "Sword",
-      "Bow"
+      "Bow",
+      "Sword"
     ],
     "growths": {
       "HP": 75.0,
@@ -34,7 +34,8 @@
     "starting_class": "Paladin",
     "weapon_types": [
       "Sword",
-      "Lance"
+      "Lance",
+      "Axe"
     ],
     "growths": {
       "HP": 80.0,
@@ -460,6 +461,7 @@
     "game": "Path of Radiance",
     "starting_class": "Axe Knight",
     "weapon_types": [
+      "Axe",
       "Lance"
     ],
     "growths": {
@@ -655,7 +657,8 @@
     "game": "Path of Radiance",
     "starting_class": "Sword Knight",
     "weapon_types": [
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 60.0,
@@ -915,8 +918,8 @@
     "game": "Path of Radiance",
     "starting_class": "Sage",
     "weapon_types": [
-      "Tome",
-      "Staff"
+      "Staff",
+      "Tome"
     ],
     "growths": {
       "HP": 50.0,
@@ -940,8 +943,8 @@
     "game": "Path of Radiance",
     "starting_class": "General",
     "weapon_types": [
-      "Lance",
       "Axe",
+      "Lance",
       "Sword"
     ],
     "growths": {
@@ -1001,8 +1004,8 @@
     "game": "Path of Radiance",
     "starting_class": "Wyvern Lord",
     "weapon_types": [
-      "Lance",
-      "Axe"
+      "Axe",
+      "Lance"
     ],
     "growths": {
       "HP": 65.0,
@@ -1062,8 +1065,8 @@
     "game": "Path of Radiance",
     "starting_class": "Sage",
     "weapon_types": [
-      "Tome",
-      "Staff"
+      "Staff",
+      "Tome"
     ],
     "growths": {
       "HP": 55.0,
@@ -1090,8 +1093,8 @@
     "game": "Path of Radiance",
     "starting_class": "Paladin",
     "weapon_types": [
-      "Sword",
-      "Lance"
+      "Lance",
+      "Sword"
     ],
     "growths": {
       "HP": 65.0,
