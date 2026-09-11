@@ -140,20 +140,23 @@ export default function App() {
         cells={cells}
         revealed={revealed}
         onCellClick={(row, col) => dispatch({ type: "openCell", row, col })}
+        footer={
+          status === "playing" && (
+            <button
+              onClick={() => dispatch({ type: "reveal" })}
+              className="rounded-full border border-slate-400 px-5 py-1.5 text-sm font-semibold text-slate-500 transition hover:border-rose-400 hover:text-rose-500 dark:border-slate-500 dark:text-slate-300 dark:hover:border-rose-400 dark:hover:text-rose-400"
+            >
+              Give up &amp; reveal
+            </button>
+          )
+        }
       />
 
       {state.lastError && (
         <p className="mt-3 text-sm text-rose-600">{state.lastError}</p>
       )}
 
-      {status === "playing" ? (
-        <button
-          onClick={() => dispatch({ type: "reveal" })}
-          className="mt-4 text-sm text-slate-500 underline hover:text-slate-700 dark:hover:text-slate-300"
-        >
-          Give up &amp; reveal
-        </button>
-      ) : (
+      {status === "done" && (
         <div className="mt-4 rounded-md bg-slate-100 p-4 text-sm dark:bg-slate-800">
           <p className="font-semibold">
             Finished — {score} / {TOTAL_GUESSES} correct.

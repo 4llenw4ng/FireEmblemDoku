@@ -1,3 +1,4 @@
+import type { ReactNode } from "react";
 import { exampleAnswer } from "../game/index";
 import type { CellState, Puzzle } from "../types";
 
@@ -6,6 +7,10 @@ interface Props {
   cells: CellState[][];
   revealed: boolean;
   onCellClick: (row: number, col: number) => void;
+  /** Rendered as a trailing row spanning the 3 cell columns (not the
+   * row-label column) — using the board's own grid instead of a lookalike
+   * one elsewhere guarantees pixel-exact alignment under the cells. */
+  footer?: ReactNode;
 }
 
 function HeaderLabel({ text }: { text: string }) {
@@ -16,9 +21,9 @@ function HeaderLabel({ text }: { text: string }) {
   );
 }
 
-export function Board({ puzzle, cells, revealed, onCellClick }: Props) {
+export function Board({ puzzle, cells, revealed, onCellClick, footer }: Props) {
   return (
-    <div className="grid grid-cols-[minmax(72px,0.7fr)_repeat(3,1fr)] gap-1 sm:gap-1.5">
+    <div className="grid grid-cols-[minmax(68px,0.7fr)_repeat(3,1fr)] gap-0.5 sm:gap-1">
       <div />
       {puzzle.cols.map((c) => (
         <HeaderLabel key={c.id} text={c.label} />
@@ -31,7 +36,7 @@ export function Board({ puzzle, cells, revealed, onCellClick }: Props) {
             const cell = cells[r][c];
             const candidateCount = puzzle.cellCandidates[r][c].length;
             const base =
-              "relative flex aspect-square flex-col items-center justify-center rounded-md border p-1 text-center transition";
+              "relative flex aspect-square flex-col items-center justify-center border border-slate-300 dark:border-slate-700 p-1 text-center transition";
             if (cell.status === "empty") {
               const example = revealed
                 ? exampleAnswer(row, col, puzzle.cellCandidates[r][c])
@@ -43,8 +48,8 @@ export function Board({ puzzle, cells, revealed, onCellClick }: Props) {
                   disabled={revealed}
                   className={`${base} ${
                     example
-                      ? "border-slate-300 bg-slate-50 dark:border-slate-600 dark:bg-slate-800/60"
-                      : "border-slate-300 bg-white hover:border-indigo-400 hover:bg-indigo-50 disabled:cursor-default disabled:hover:border-slate-300 disabled:hover:bg-white dark:border-slate-600 dark:bg-slate-800 dark:hover:bg-slate-700"
+                      ? "bg-slate-50 dark:bg-slate-800/60"
+                      : "bg-white hover:bg-indigo-50 disabled:cursor-default disabled:hover:bg-white dark:bg-slate-800 dark:hover:bg-slate-700 dark:disabled:hover:bg-slate-800"
                   }`}
                 >
                   {example && (
@@ -52,11 +57,11 @@ export function Board({ puzzle, cells, revealed, onCellClick }: Props) {
                       <span className="text-xs font-semibold text-slate-500 sm:text-sm dark:text-slate-300">
                         {example.name}
                       </span>
-                      <span className="mt-0.5 text-[10px] text-slate-400">
+                      <span className="mt-0.5 text-[10px] text-slate-400 dark:text-slate-500">
                         {example.game}
                       </span>
                       {candidateCount > 1 && (
-                        <span className="text-[10px] text-slate-400">
+                        <span className="text-[10px] text-slate-400 dark:text-slate-500">
                           +{candidateCount - 1} more
                         </span>
                       )}
@@ -66,18 +71,15 @@ export function Board({ puzzle, cells, revealed, onCellClick }: Props) {
               );
             }
             return (
-              <div
-                key={col.id}
-                className={`${base} border-emerald-400 bg-emerald-50 dark:bg-emerald-900/30`}
-              >
-                <span className="absolute right-1 top-1 text-xs text-emerald-600">
+              <div key={col.id} className={`${base} bg-emerald-50 dark:bg-emerald-900/40`}>
+                <span className="absolute right-1 top-1 text-xs text-emerald-600 dark:text-emerald-400">
                   ✓
                 </span>
-                <span className="text-xs font-semibold sm:text-sm">
+                <span className="text-xs font-semibold text-emerald-900 sm:text-sm dark:text-emerald-50">
                   {cell.name}
                 </span>
                 {revealed && (
-                  <span className="mt-0.5 text-[10px] text-slate-400">
+                  <span className="mt-0.5 text-[10px] text-slate-500 dark:text-slate-400">
                     {candidateCount} possible
                   </span>
                 )}
@@ -86,6 +88,12 @@ export function Board({ puzzle, cells, revealed, onCellClick }: Props) {
           })}
         </div>
       ))}
+
+      {footer && (
+        <div className="col-span-3 col-start-2 flex justify-center pt-4">
+          {footer}
+        </div>
+      )}
     </div>
   );
 }
