@@ -4,8 +4,12 @@ import type { Character } from "../types";
  * The raw `starting_class` field has ~167 distinct values across the 12 games
  * (localization drift, promoted vs base, game-specific names). This collapses
  * them into recognizable puzzle archetypes. A class can carry more than one tag
- * (e.g. "Mage Knight" -> mage + cavalier; a promoted-class character often also
- * still counts for its base-tier row, which is intentional).
+ * when it genuinely spans two lineages (e.g. "Mage Knight" -> mage + cavalier),
+ * but base and promoted tiers of the same lineage are mutually exclusive: a
+ * character's STARTING class determines their archetype, so someone who begins
+ * the game already promoted (e.g. Seth in Sacred Stones, Titania in Path of
+ * Radiance) is a Paladin, not a Cavalier. See TAG_OVERRIDES below for the rare
+ * cases keyword substring matching can't keep exclusive on its own.
  */
 export const ARCHETYPES = [
   "lord",

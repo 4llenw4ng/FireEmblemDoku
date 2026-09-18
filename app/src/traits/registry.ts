@@ -67,12 +67,34 @@ export const ROW_POOL: Trait[] = [...classTraits, ...weaponTraits];
 
 // ---- Column pool: game + gender + recruit + growth ----
 
+// GAMES value -> /icons/games/<slug>.png filename.
+const GAME_ICON_SLUGS: Record<string, string> = {
+  "Shadow Dragon": "shadow_dragon",
+  "Mystery of the Emblem": "mystery_of_the_emblem",
+  "Echoes: Shadows of Valentia": "echoes_shadows_of_valentia",
+  "Genealogy of the Holy War": "genealogy_of_the_holy_war",
+  "Thracia 776": "thracia_776",
+  "Binding Blade": "binding_blade",
+  "Blazing Blade": "blazing_blade",
+  "Sacred Stones": "sacred_stones",
+  "Path of Radiance": "path_of_radiance",
+  "Radiant Dawn": "radiant_dawn",
+  Awakening: "awakening",
+  Fates: "fates",
+};
+
 const gameTraits: Trait[] = GAMES.map((g) => ({
   id: `game:${g}`,
   label: g,
   group: "game",
   axis: "col",
   test: (c) => c.game === g,
+  iconBase: `/icons/games/${GAME_ICON_SLUGS[g]}`,
+  // Every Western title screen just says "Fire Emblem" in English -- Blazing
+  // Blade's (FE7's) logo is the only one whose distinguishing subtitle is
+  // Japanese-only ("Rekka no Ken"), so it alone needs the English name kept
+  // as a visible caption. The rest are self-explanatory from the logo alone.
+  labelPosition: g === "Blazing Blade" ? "above" : "hidden",
 }));
 
 const genderTraits: Trait[] = (["Male", "Female"] as const).map((g) => ({

@@ -1,4 +1,4 @@
-import { useMemo, type ReactNode } from "react";
+import { useMemo, useState, type ReactNode } from "react";
 import { pickRevealExamples } from "../game/index";
 import type { CellState, Puzzle, Trait } from "../types";
 import { IconImg } from "./IconImg";
@@ -15,16 +15,33 @@ interface Props {
 }
 
 function HeaderLabel({ trait }: { trait: Trait }) {
+  const [iconFailed, setIconFailed] = useState(false);
+  const isGameLogo = trait.group === "game";
+  const position = trait.labelPosition ?? "below";
+
+  const icon = trait.iconBase && !iconFailed && (
+    <IconImg
+      base={trait.iconBase}
+      alt={trait.label}
+      className={
+        isGameLogo
+          ? "h-auto max-h-16 w-full max-w-[9rem] object-contain"
+          : "h-auto w-10 object-contain [image-rendering:pixelated] sm:w-12"
+      }
+      onAllFailed={() => setIconFailed(true)}
+    />
+  );
+  // Fall back to the text label if there's no icon to begin with, or the
+  // icon failed to load, even for traits that normally hide their label.
+  const label = (position !== "hidden" || iconFailed || !trait.iconBase) && (
+    <span>{trait.label}</span>
+  );
+
   return (
     <div className="flex h-full flex-col items-center justify-center gap-0.5 p-1 text-center text-xs font-semibold leading-tight text-slate-700 dark:text-slate-200 sm:text-sm">
-      {trait.iconBase && (
-        <IconImg
-          base={trait.iconBase}
-          alt=""
-          className="h-auto w-10 object-contain [image-rendering:pixelated] sm:w-12"
-        />
-      )}
-      <span>{trait.label}</span>
+      {position === "above" && label}
+      {icon}
+      {position !== "above" && label}
     </div>
   );
 }

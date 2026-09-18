@@ -36,6 +36,12 @@ export interface Trait {
    * "/icons/weapons/sword". IconImg tries .png/.svg/.webp and renders
    * nothing if none exist, so this is safe to set before art is sourced. */
   iconBase?: string;
+  /** Where the text label sits relative to the icon: "below" (default, e.g.
+   * weapon/class rows show icon-then-label), "above" (label-then-icon, e.g.
+   * Blazing Blade's logo alone doesn't say "Blazing Blade" in English), or
+   * "hidden" (icon replaces the label entirely, e.g. other game logos —
+   * falls back to showing the label if the icon fails to load). */
+  labelPosition?: "above" | "below" | "hidden";
 }
 
 export interface Puzzle {
