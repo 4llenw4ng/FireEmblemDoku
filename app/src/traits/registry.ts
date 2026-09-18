@@ -4,6 +4,11 @@ import { ARCHETYPES, ARCHETYPE_LABEL, classTagsOf } from "./classTags";
 
 export const CHARACTERS = charactersRaw as Character[];
 
+// Must match LOW_GROWTH_MAX / HIGH_GROWTH_MIN in scraper/scrape_serenes.py,
+// which is what actually computed each character's high/low_growth_stats.
+const LOW_GROWTH_MAX = 20;
+const HIGH_GROWTH_MIN = 60;
+
 export const GAMES: string[] = [
   "Shadow Dragon",
   "Mystery of the Emblem",
@@ -46,6 +51,7 @@ const weaponTraits: Trait[] = WEAPON_TYPES.map((w) => ({
   group: "weapon",
   axis: "row",
   test: (c) => c.weapon_types.includes(w),
+  iconBase: `/icons/weapons/${w.toLowerCase()}`,
 }));
 
 const classTraits: Trait[] = ARCHETYPES.map((a) => ({
@@ -54,6 +60,7 @@ const classTraits: Trait[] = ARCHETYPES.map((a) => ({
   group: "class",
   axis: "row",
   test: (c) => classTagsOf(c).includes(a),
+  iconBase: `/icons/classes/${a}`,
 }));
 
 export const ROW_POOL: Trait[] = [...classTraits, ...weaponTraits];
@@ -101,7 +108,7 @@ const GROWTH_STAT_GROUPS: { id: string; label: string; stats: Stat[] }[] = [
 
 const highGrowthTraits: Trait[] = GROWTH_STAT_GROUPS.map((g) => ({
   id: `highGrowth:${g.id}`,
-  label: `High ${g.label} growth`,
+  label: `High (≥${HIGH_GROWTH_MIN}) ${g.label} growth`,
   group: "highGrowth",
   axis: "col",
   test: (c) => g.stats.some((s) => c.high_growth_stats.includes(s)),
@@ -109,7 +116,7 @@ const highGrowthTraits: Trait[] = GROWTH_STAT_GROUPS.map((g) => ({
 
 const lowGrowthTraits: Trait[] = GROWTH_STAT_GROUPS.map((g) => ({
   id: `lowGrowth:${g.id}`,
-  label: `Low ${g.label} growth`,
+  label: `Low (≤${LOW_GROWTH_MAX}) ${g.label} growth`,
   group: "lowGrowth",
   axis: "col",
   test: (c) => g.stats.some((s) => c.low_growth_stats.includes(s)),

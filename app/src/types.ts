@@ -32,6 +32,10 @@ export interface Trait {
   group: TraitGroup;
   axis: Axis;
   test: (c: Character) => boolean;
+  /** Base path (no extension) under /public for this trait's icon, e.g.
+   * "/icons/weapons/sword". IconImg tries .png/.svg/.webp and renders
+   * nothing if none exist, so this is safe to set before art is sourced. */
+  iconBase?: string;
 }
 
 export interface Puzzle {

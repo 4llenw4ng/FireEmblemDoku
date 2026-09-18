@@ -1,5 +1,5 @@
 import { COL_POOL, CHARACTERS, ROW_POOL } from "../traits/registry";
-import type { Character, Trait } from "../types";
+import type { CellState, Character, Puzzle, Trait } from "../types";
 
 /** name -> every record with that name (a name can span multiple games) */
 export const RECORDS_BY_NAME = new Map<string, Character[]>();
@@ -52,12 +52,45 @@ export function exampleAnswer(
   row: Trait,
   col: Trait,
   candidateNames: readonly string[],
+  exclude?: ReadonlySet<string>,
 ): { name: string; game: string } | null {
   for (const name of candidateNames) {
+    if (exclude?.has(name)) continue;
     const match = RECORDS_BY_NAME.get(name)?.find(
       (c) => row.test(c) && col.test(c),
     );
     if (match) return { name, game: match.game };
   }
   return null;
+}
+
+/**
+ * One example answer per unsolved cell for the reveal screen, greedily
+ * avoiding repeats across cells where an alternative exists — a real solve
+ * could only use each character once, so suggesting the same name for three
+ * different squares reads as a bug even though each suggestion is valid on
+ * its own. Falls back to a repeat only if a cell truly has no unused option.
+ */
+export function pickRevealExamples(
+  puzzle: Puzzle,
+  cells: CellState[][],
+): ({ name: string; game: string } | null)[][] {
+  const used = new Set<string>();
+  for (const row of cells) {
+    for (const cell of row) {
+      if (cell.status === "correct") used.add(cell.name);
+    }
+  }
+
+  return puzzle.rows.map((row, r) =>
+    puzzle.cols.map((col, c) => {
+      if (cells[r][c].status === "correct") return null;
+      const candidates = puzzle.cellCandidates[r][c];
+      const pick =
+        exampleAnswer(row, col, candidates, used) ??
+        exampleAnswer(row, col, candidates);
+      if (pick) used.add(pick.name);
+      return pick;
+    }),
+  );
 }

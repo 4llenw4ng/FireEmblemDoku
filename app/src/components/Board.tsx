@@ -1,6 +1,7 @@
-import type { ReactNode } from "react";
-import { exampleAnswer } from "../game/index";
-import type { CellState, Puzzle } from "../types";
+import { useMemo, type ReactNode } from "react";
+import { pickRevealExamples } from "../game/index";
+import type { CellState, Puzzle, Trait } from "../types";
+import { IconImg } from "./IconImg";
 
 interface Props {
   puzzle: Puzzle;
@@ -13,34 +14,45 @@ interface Props {
   footer?: ReactNode;
 }
 
-function HeaderLabel({ text }: { text: string }) {
+function HeaderLabel({ trait }: { trait: Trait }) {
   return (
-    <div className="flex h-full items-center justify-center p-1 text-center text-xs font-semibold leading-tight text-slate-700 dark:text-slate-200 sm:text-sm">
-      {text}
+    <div className="flex h-full flex-col items-center justify-center gap-0.5 p-1 text-center text-xs font-semibold leading-tight text-slate-700 dark:text-slate-200 sm:text-sm">
+      {trait.iconBase && (
+        <IconImg
+          base={trait.iconBase}
+          alt=""
+          className="h-auto w-10 object-contain [image-rendering:pixelated] sm:w-12"
+        />
+      )}
+      <span>{trait.label}</span>
     </div>
   );
 }
 
 export function Board({ puzzle, cells, revealed, onCellClick, footer }: Props) {
+  const revealExamples = useMemo(
+    () => (revealed ? pickRevealExamples(puzzle, cells) : null),
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    [revealed, puzzle],
+  );
+
   return (
     <div className="grid grid-cols-[minmax(68px,0.7fr)_repeat(3,1fr)] gap-0.5 sm:gap-1">
       <div />
       {puzzle.cols.map((c) => (
-        <HeaderLabel key={c.id} text={c.label} />
+        <HeaderLabel key={c.id} trait={c} />
       ))}
 
       {puzzle.rows.map((row, r) => (
         <div key={row.id} className="contents">
-          <HeaderLabel text={row.label} />
+          <HeaderLabel trait={row} />
           {puzzle.cols.map((col, c) => {
             const cell = cells[r][c];
             const candidateCount = puzzle.cellCandidates[r][c].length;
             const base =
               "relative flex aspect-square flex-col items-center justify-center border border-slate-300 dark:border-slate-700 p-1 text-center transition";
             if (cell.status === "empty") {
-              const example = revealed
-                ? exampleAnswer(row, col, puzzle.cellCandidates[r][c])
-                : null;
+              const example = revealExamples?.[r][c] ?? null;
               return (
                 <button
                   key={col.id}
