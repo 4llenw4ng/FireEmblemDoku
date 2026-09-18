@@ -13,6 +13,17 @@ export const ALL_NAMES: string[] = [...RECORDS_BY_NAME.keys()].sort((a, b) =>
   a.localeCompare(b),
 );
 
+/** Must match slugify() in tools/process_avatars.py — that's what named the
+ * files under app/public/icons/characters/. Not every character has one
+ * (coverage is ~90%); IconImg/Avatar fall back gracefully when it's missing. */
+export function avatarBase(name: string): string {
+  const slug = name
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "_")
+    .replace(/^_+|_+$/g, "");
+  return `/icons/characters/${slug}`;
+}
+
 /**
  * trait id -> set of *record indices* (into CHARACTERS) that satisfy it.
  *

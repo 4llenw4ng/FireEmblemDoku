@@ -5,3 +5,8 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+
+# Raw scraped avatar art (~750MB, full-resolution originals) -- only the
+# small processed crops in app/public/icons/characters/ are actually served.
+# Re-derivable via scraper/scrape_avatars.py + tools/process_avatars.py.
+assets/Character\ Avatars/

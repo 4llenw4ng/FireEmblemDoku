@@ -1,6 +1,7 @@
 import { useMemo, useState, type ReactNode } from "react";
 import { pickRevealExamples } from "../game/index";
 import type { CellState, Puzzle, Trait } from "../types";
+import { Avatar } from "./Avatar";
 import { IconImg } from "./IconImg";
 
 interface Props {
@@ -83,10 +84,11 @@ export function Board({ puzzle, cells, revealed, onCellClick, footer }: Props) {
                 >
                   {example && (
                     <>
-                      <span className="text-xs font-semibold text-slate-500 sm:text-sm dark:text-slate-300">
+                      <Avatar name={example.name} className="h-8 w-8 sm:h-10 sm:w-10" />
+                      <span className="mt-0.5 text-xs font-semibold text-slate-500 sm:text-sm dark:text-slate-300">
                         {example.name}
                       </span>
-                      <span className="mt-0.5 text-[10px] text-slate-400 dark:text-slate-500">
+                      <span className="text-[10px] text-slate-400 dark:text-slate-500">
                         {example.game}
                       </span>
                       {candidateCount > 1 && (
@@ -104,7 +106,8 @@ export function Board({ puzzle, cells, revealed, onCellClick, footer }: Props) {
                 <span className="absolute right-1 top-1 text-xs text-emerald-600 dark:text-emerald-400">
                   ✓
                 </span>
-                <span className="text-xs font-semibold text-emerald-900 sm:text-sm dark:text-emerald-50">
+                <Avatar name={cell.name} className="h-16 w-16 sm:h-20 sm:w-20" />
+                <span className="mt-0.5 text-xs font-semibold text-emerald-900 sm:text-sm dark:text-emerald-50">
                   {cell.name}
                 </span>
                 {revealed && (

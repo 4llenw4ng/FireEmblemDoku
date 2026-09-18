@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { ALL_NAMES, RECORDS_BY_NAME } from "../game/index";
+import { Avatar } from "./Avatar";
 
 interface Props {
   rowLabel: string;
@@ -112,15 +113,18 @@ export function SearchModal({
                 <button
                   onClick={() => setSelected(name)}
                   onDoubleClick={() => onPick(name)}
-                  className={`flex w-full items-center justify-between px-4 py-2 text-left text-sm ${
+                  className={`flex w-full items-center justify-between gap-2 px-4 py-2 text-left text-sm ${
                     isSel
                       ? "bg-indigo-600 text-white"
                       : "hover:bg-slate-100 dark:hover:bg-slate-700"
                   }`}
                 >
-                  <span className="font-medium">{name}</span>
+                  <span className="flex min-w-0 items-center gap-2">
+                    <Avatar name={name} />
+                    <span className="truncate font-medium">{name}</span>
+                  </span>
                   <span
-                    className={`text-xs ${isSel ? "text-indigo-100" : "text-slate-400"}`}
+                    className={`shrink-0 text-xs ${isSel ? "text-indigo-100" : "text-slate-400"}`}
                   >
                     {[...new Set(games)].join(", ")}
                   </span>
